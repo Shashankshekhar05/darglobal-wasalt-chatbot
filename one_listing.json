@@ -1,0 +1,4450 @@
+{
+  "_sentryTraceData": "0e1d82bd938b4ae79b3eb7372c689115-b85153a1d64f1b8e-1",
+  "_sentryBaggage": "sentry-environment=production,sentry-release=5kYIr8IQiEuReDiluh3aW,sentry-public_key=8439d36d8c454d3d84ea3f63853baee5,sentry-trace_id=0e1d82bd938b4ae79b3eb7372c689115,sentry-sample_rate=0.3,sentry-transaction=%2Fproperty%2F%5Bslug%5D%2F%5Bslug-id%5D,sentry-sampled=true",
+  "propertyDetailsV3": {
+    "videoThumbnail": null,
+    "leadContactInfo": {
+      "arMessageBody": "للتواصل مع اصيل سعيد احمد الزهراني, يرجى إدخال رقم جوالك ",
+      "ownerName": "اصيل بن سعيد بن احمد الزهراني",
+      "arMessageTitle": "تسجيل الدخول",
+      "enMessageTitle": "Login to your account",
+      "enMessageBody": "To contact اصيل سعيد احمد الزهراني, please fill in your details "
+    },
+    "propertyOwner": {
+      "arCmpName": "مؤسسة اصيل سعيد احمد الزهراني",
+      "companyName": "",
+      "regaAdvLicNo": "7200913466",
+      "userCapacity": "company",
+      "enCmpName": "مؤسسة اصيل سعيد احمد الزهراني",
+      "isOwnerProperty": false,
+      "resEmployee": "اصيل سعيد احمد الزهراني",
+      "poaNumber": null,
+      "regaAuthorizationNumber": null,
+      "cmpLogoUrl": "",
+      "showUserCallWhatsapp": false,
+      "enUserRole": "Company",
+      "arUserRole": "شركة",
+      "postedAs": 49,
+      "regaAdvertiserNumber": null,
+      "managedBy": "مؤسسة اصيل سعيد احمد الزهراني",
+      "brand": "مؤسسة اصيل سعيد احمد الزهراني",
+      "falLicenseNumber": "1200039173",
+      "falLicenseUrl": "https://eservicesredp.rega.gov.sa/public/OfficesBroker/ElanDetails/08de85bf-442f-4844-8f6d-cbae78c618af",
+      "falExpiryDate": "17/02/2027",
+      "licenseExpired": false,
+      "showInterestCta": false
+    },
+    "isVerified": false,
+    "external360Link": null,
+    "isAuction": false,
+    "isRegaProp": true,
+    "isUpdated": false,
+    "externalVideoLink": null,
+    "score": 7,
+    "isApproxLocation": false,
+    "videoUrl": [],
+    "reservation": null,
+    "id": 5879365,
+    "updatedAt": "2026-06-28T16:29:50.859Z",
+    "publishedAt": "2026-06-28T14:57:19.241Z",
+    "verificationStatus": {
+      "rega": {
+        "isPawned": false,
+        "obligationsOnTheProperty": ""
+      },
+      "wathiq": {
+        "isCondtrained": null,
+        "isHalt": null,
+        "isPawned": null,
+        "isTestament": null
+      }
+    },
+    "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+    "streetInfo": {},
+    "fullDarReference": "434097-SAU-BU-205152",
+    "classificationData": [
+      {
+        "classificationScore": 0.9993724226951599,
+        "classificationName": "facade",
+        "name": "764d01e6-0308-4837-a1fe-25c80db06306.jpg"
+      },
+      {
+        "classificationScore": 0.9834597706794739,
+        "classificationName": "banner_or_plan",
+        "name": "5b5b714f-46f9-44cd-b541-37cf5736a6aa.jpg"
+      }
+    ],
+    "propIdentityTypeId": 95,
+    "packageData": {
+      "packageScore": 510,
+      "subsPkg": null,
+      "promotedAt": null
+    },
+    "darReference": "205152",
+    "compoundDetails": {},
+    "location": {
+      "lon": "39.18087216592908",
+      "lat": "21.61432117541431"
+    },
+    "attributes": [
+      {
+        "key": "noOfBedrooms",
+        "name": "Bedrooms",
+        "value": 3,
+        "image": "noofbedrooms.png",
+        "iconClass": "bedroom"
+      },
+      {
+        "key": "builtUpArea",
+        "name": "Built-Up Area",
+        "value": "675",
+        "image": "builtuparea.png",
+        "unit": "SQM",
+        "iconClass": "builtup-area"
+      }
+    ],
+    "iconBaseURL": "https://assets.wasalt.com",
+    "managedById": 55,
+    "propertyRegionId": 56,
+    "propertyInfo": {
+      "currencyType": "SAR",
+      "country": "Saudi Arabia",
+      "propertyMainType": "Residential",
+      "address": "Al Rabbwah, North Jeddah, Jeddah",
+      "breadCrumbs": [
+        {
+          "subtitle": "Saudi Arabia",
+          "reference_url": "sale/search?type=residential&countryId=1&property_types=39&propertyTypeData=apartment",
+          "id": 16723,
+          "title": "Apartments for Sale in Saudi",
+          "type": "link",
+          "slug": "apartments-for-sale-in-jeddah-ar-rabwah",
+          "url": "apartments-for-sale-in-saudi-arabia"
+        },
+        {
+          "subtitle": "Jeddah",
+          "reference_url": "sale/search?type=residential&countryId=1&property_types=39&propertyTypeData=apartment&cityId=274",
+          "id": 16724,
+          "title": "Apartments for Sale in Jeddah",
+          "type": "link",
+          "slug": "apartments-for-sale-in-jeddah-ar-rabwah",
+          "url": "apartments-for-sale-in-jeddah"
+        },
+        {
+          "subtitle": "Al Rabbwah",
+          "reference_url": null,
+          "id": 16725,
+          "title": "Apartments for Sale in Ar Rabwah",
+          "type": "text",
+          "slug": "apartments-for-sale-in-jeddah-ar-rabwah",
+          "url": "apartments-for-sale-in-jeddah-ar-rabwah"
+        }
+      ],
+      "city": "Jeddah",
+      "propertySubType": "Apartment",
+      "furnishingType": null,
+      "facingType": null,
+      "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 675 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 340000 SAR</p>",
+      "title": "Apartment 675 SQM with 3 Bedrooms",
+      "unitType": "SQM",
+      "possessionType": "Residential",
+      "zone": "Al Rabbwah",
+      "propertyName": "Apartment for Sale",
+      "slug": "apartment-675-sqm-with-3-bedrooms-5879365",
+      "territory": "North Jeddah",
+      "tags": [
+        {
+          "name": "For Sale"
+        }
+      ],
+      "propertyFor": "sale",
+      "salePrice": 340000,
+      "expectedRent": "",
+      "conversionPrice": 340000,
+      "conversionUnit": "SAR",
+      "projectId": null,
+      "countryId": 1,
+      "districId": 2223,
+      "districtId": 2223,
+      "district": "Al Rabbwah",
+      "cityId": 274,
+      "mainTypeId": 2,
+      "statusTypeId": 505,
+      "statusTypeSlug": "approved",
+      "propertySubTypeSlug": "apartment",
+      "alternateSlug": "شقة-675-متر-مربع-ب-3-غرف-5879365",
+      "rentFreq": "",
+      "propertyMainTypeSlug": "residential",
+      "regaGuaranteeDuration": "-",
+      "averageSalePriceLowerPercentage": null
+    },
+    "regaVerifiedInfo": [
+      {
+        "key": "rega_information",
+        "order": 1,
+        "label": "REGA Information",
+        "fields": [
+          {
+            "key": "adLicenseNumber",
+            "order": 1,
+            "label": "REGA Ad License No",
+            "value": "7200913466"
+          },
+          {
+            "key": "status",
+            "order": 2,
+            "label": "Status",
+            "value": "Active",
+            "isExpired": false
+          },
+          {
+            "key": "creationDate",
+            "order": 3,
+            "label": "Issue Date",
+            "value": "19/03/2026"
+          },
+          {
+            "key": "endDate",
+            "order": 4,
+            "label": "Expiring on",
+            "value": "17/02/2027"
+          },
+          {
+            "key": "adLicenseUrl",
+            "order": 5,
+            "label": "QR Code",
+            "value": "https://eservicesredp.rega.gov.sa/public/OfficesBroker/ElanDetails/08de85bf-442f-4844-8f6d-cbae78c618af"
+          }
+        ]
+      },
+      {
+        "key": "ad_responsible_info",
+        "order": 2,
+        "label": "Ad Responsible Info",
+        "fields": [
+          {
+            "key": "responsibleEmployeeName",
+            "order": 1,
+            "label": "Responsible Name",
+            "value": "اصيل سعيد احمد الزهراني"
+          },
+          {
+            "key": "responsibleEmployeePhoneNumber",
+            "order": 2,
+            "label": "Responsible Number",
+            "value": null,
+            "cta": {
+              "type": "responsibleNumber",
+              "isMasked": true
+            }
+          }
+        ]
+      },
+      {
+        "key": "location",
+        "order": 3,
+        "label": "Location details",
+        "fields": [
+          {
+            "key": "location.region",
+            "order": 1,
+            "label": "Region",
+            "value": "منطقة مكة المكرمة"
+          },
+          {
+            "key": "location.city",
+            "order": 2,
+            "label": "City",
+            "value": "جدة"
+          },
+          {
+            "key": "location.district",
+            "order": 3,
+            "label": "District",
+            "value": "الربوة"
+          },
+          {
+            "key": "location.street",
+            "order": 4,
+            "label": "Street Name",
+            "value": "الخليفة المأمون"
+          },
+          {
+            "key": "location.latitude",
+            "order": 5,
+            "label": "Latitude",
+            "value": "21.61432117541431"
+          },
+          {
+            "key": "location.longitude",
+            "order": 6,
+            "label": "Longitude",
+            "value": "39.18087216592908"
+          }
+        ]
+      },
+      {
+        "key": "property_specs",
+        "order": 4,
+        "label": "Property Specs",
+        "fields": [
+          {
+            "key": "propertyUsages",
+            "order": 1,
+            "label": "Listing Usage",
+            "value": "-"
+          },
+          {
+            "key": "propertyArea",
+            "order": 2,
+            "label": "Area Size",
+            "value": "675"
+          },
+          {
+            "key": "propertyType",
+            "order": 3,
+            "label": "Listing Type",
+            "value": "شقة"
+          }
+        ]
+      },
+      {
+        "key": "additional_info",
+        "order": 5,
+        "label": "Additional Information",
+        "fields": [
+          {
+            "key": "deedNumber",
+            "order": 1,
+            "label": "Deed Number",
+            "value": "318710001204"
+          },
+          {
+            "key": "isConstrained",
+            "order": 2,
+            "label": "Is Listing Constrained",
+            "value": "No"
+          },
+          {
+            "key": "isPawned",
+            "order": 3,
+            "label": "Is Listing Pawned",
+            "value": "No"
+          }
+        ]
+      },
+      {
+        "key": "property_borders",
+        "order": 6,
+        "label": "Property Borders",
+        "groups": [
+          {
+            "order": 1,
+            "label": "North",
+            "fields": [
+              {
+                "key": "borders.northLimitName",
+                "order": 1,
+                "label": "Name",
+                "value": "شارع"
+              },
+              {
+                "key": "borders.northLimitDescription",
+                "order": 2,
+                "label": "Description",
+                "value": "عرض 12م"
+              },
+              {
+                "key": "borders.northLimitLengthChar",
+                "order": 3,
+                "label": "Length",
+                "value": "سبعة و عشرون متر"
+              }
+            ]
+          },
+          {
+            "order": 2,
+            "label": "East",
+            "fields": [
+              {
+                "key": "borders.eastLimitName",
+                "order": 1,
+                "label": "Name",
+                "value": "شارع"
+              },
+              {
+                "key": "borders.eastLimitDescription",
+                "order": 2,
+                "label": "Description",
+                "value": "عرض 12م"
+              },
+              {
+                "key": "borders.eastLimitLengthChar",
+                "order": 3,
+                "label": "Length",
+                "value": "خمسة و عشرون متر"
+              }
+            ]
+          },
+          {
+            "order": 3,
+            "label": "West",
+            "fields": [
+              {
+                "key": "borders.westLimitName",
+                "order": 1,
+                "label": "Name",
+                "value": "قطعة"
+              },
+              {
+                "key": "borders.westLimitDescription",
+                "order": 2,
+                "label": "Description",
+                "value": "رقم 399"
+              },
+              {
+                "key": "borders.westLimitLengthChar",
+                "order": 3,
+                "label": "Length",
+                "value": "خمسة و عشرون متر"
+              }
+            ]
+          },
+          {
+            "order": 4,
+            "label": "South",
+            "fields": [
+              {
+                "key": "borders.southLimitName",
+                "order": 1,
+                "label": "Name",
+                "value": "قطعة"
+              },
+              {
+                "key": "borders.southLimitDescription",
+                "order": 2,
+                "label": "Description",
+                "value": "رقم 396"
+              },
+              {
+                "key": "borders.southLimitLengthChar",
+                "order": 3,
+                "label": "Length",
+                "value": "سبعة و عشرون متر"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "priceValuation": {
+      "lower_bound": {},
+      "upper_bound": {}
+    },
+    "barter": {
+      "isEnabled": false,
+      "sellerNote": null
+    },
+    "additionalAttributes": [
+      {
+        "key": "propertyMainType",
+        "label": "Property usage",
+        "value": "Residential"
+      },
+      {
+        "key": "completionYear",
+        "label": "Age",
+        "value": "<1 year"
+      },
+      {
+        "key": "propertyFacade",
+        "label": "Facade",
+        "value": "3 Streets"
+      },
+      {
+        "key": "street",
+        "label": "Street",
+        "value": "الخليفة المأمون"
+      },
+      {
+        "key": "adSource",
+        "label": "Ad source",
+        "value": "الهيئة العامة للعقار"
+      },
+      {
+        "key": "planNumber",
+        "label": "Plan number",
+        "value": "3 / 471 / ع"
+      },
+      {
+        "key": "landNumber",
+        "label": "Land number",
+        "value": "397 / أ"
+      },
+      {
+        "key": "obligations",
+        "label": "Other obligations on the property",
+        "value": "لا"
+      },
+      {
+        "key": "zipCode",
+        "label": "Postal Code",
+        "value": "23535"
+      },
+      {
+        "key": "regaAdvLicDate",
+        "label": "License Issuance Date",
+        "value": "19/03/2026"
+      },
+      {
+        "key": "additionalNumber",
+        "label": "Additional No.",
+        "value": "4639"
+      },
+      {
+        "key": "buildingNumber",
+        "label": "Building No.",
+        "value": "7852"
+      },
+      {
+        "key": "electricityMeter",
+        "label": "Electricity",
+        "value": "Yes"
+      },
+      {
+        "key": "waterMeter",
+        "label": "Water",
+        "value": "Yes"
+      },
+      {
+        "key": "borderEast",
+        "label": "Border from East",
+        "unit": "m"
+      },
+      {
+        "key": "borderWest",
+        "label": "Border from West",
+        "unit": "m"
+      },
+      {
+        "key": "borderNorth",
+        "label": "Border from North",
+        "unit": "m"
+      },
+      {
+        "key": "borderSouth",
+        "label": "Border from South",
+        "unit": "m"
+      },
+      {
+        "key": "lengthEast",
+        "label": "Length from East",
+        "unit": "m"
+      },
+      {
+        "key": "lengthWest",
+        "label": "Length from West",
+        "unit": "m"
+      },
+      {
+        "key": "lengthNorth",
+        "label": "Length from North",
+        "unit": "m"
+      },
+      {
+        "key": "lengthSouth",
+        "label": "Length from South",
+        "unit": "m"
+      },
+      {
+        "key": "regaGuaranteeDuration",
+        "label": "Guarantees and their Duration",
+        "value": "-",
+        "fullWidth": true
+      }
+    ],
+    "ageOfListing": "Listed 142 days ago",
+    "views": {
+      "count": 61,
+      "days": 7
+    }
+  },
+  "galleryDetails": {
+    "isRegaProp": true,
+    "images": {
+      "thumbnail": null,
+      "type": "image",
+      "iconClass": "image",
+      "slideTime": 5,
+      "data": [
+        {
+          "content": "764d01e6-0308-4837-a1fe-25c80db06306.jpg",
+          "like": 0,
+          "type": "image",
+          "classificationName": "Facade",
+          "classificationScore": 0.9993724226951599,
+          "sequence": 1
+        },
+        {
+          "content": "5b5b714f-46f9-44cd-b541-37cf5736a6aa.jpg",
+          "like": 0,
+          "type": "image",
+          "classificationName": null,
+          "classificationScore": 0.9834597706794739,
+          "sequence": 12
+        }
+      ]
+    }
+  },
+  "infoDetails": {
+    "amenities": [],
+    "fittings": [],
+    "streetInfo": []
+  },
+  "headerMenuLinks": {
+    "For rent": [
+      {
+        "url": "/en/properties-for-rent-in-riyadh",
+        "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+        "title": "Riyadh"
+      },
+      {
+        "url": "/en/properties-for-rent-in-jeddah",
+        "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+        "title": "Jeddah"
+      },
+      {
+        "url": "/en/properties-for-rent-in-makkah",
+        "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+        "title": "Makkah"
+      },
+      {
+        "url": "/en/properties-for-rent-in-madinah",
+        "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+        "title": "Madinah"
+      }
+    ],
+    "For sale": [
+      {
+        "url": "/en/properties-for-sale-in-riyadh",
+        "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+        "title": "Riyadh"
+      },
+      {
+        "url": "/en/properties-for-sale-in-jeddah",
+        "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+        "title": "Jeddah"
+      },
+      {
+        "url": "/en/properties-for-sale-in-makkah",
+        "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+        "title": "Makkah"
+      },
+      {
+        "url": "/en/properties-for-sale-in-madinah",
+        "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+        "title": "Madinah"
+      }
+    ],
+    "commercialData": {
+      "For rent": [
+        {
+          "url": "/en/commercial-lands-for-rent-in-riyadh",
+          "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+          "title": "Riyadh"
+        },
+        {
+          "url": "/en/commercial-lands-for-rent-in-jeddah",
+          "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+          "title": "Jeddah"
+        },
+        {
+          "url": "/en/commercial-lands-for-rent-in-makkah",
+          "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+          "title": "Makkah"
+        },
+        {
+          "url": "/en/commercial-lands-for-rent-in-madinah",
+          "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+          "title": "Madinah"
+        }
+      ],
+      "For sale": [
+        {
+          "url": "/en/commercial-lands-for-sale-in-riyadh",
+          "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+          "title": "Riyadh"
+        },
+        {
+          "url": "/en/commercial-lands-for-sale-in-jeddah",
+          "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+          "title": "Jeddah"
+        },
+        {
+          "url": "/en/commercial-lands-for-sale-in-makkah",
+          "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+          "title": "Makkah"
+        },
+        {
+          "url": "/en/commercial-lands-for-sale-in-madinah",
+          "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+          "title": "Madinah"
+        }
+      ]
+    }
+  },
+  "homeFooter": {
+    "Type": [
+      {
+        "url": "/en/properties-for-sale-in-riyadh",
+        "title": "Properties for Sale in Riyadh"
+      },
+      {
+        "url": "/en/properties-for-sale-in-jeddah",
+        "title": "Properties for Sale in Jeddah"
+      },
+      {
+        "url": "/en/properties-for-sale-in-makkah",
+        "title": "Properties for Sale in Makkah"
+      },
+      {
+        "url": "/en/properties-for-sale-in-dammam",
+        "title": "Properties for Sale in Dammam"
+      },
+      {
+        "url": "/en/properties-for-sale-in-al-khobar",
+        "title": "Properties for Sale in Al Khobar"
+      },
+      {
+        "url": "/en/properties-for-sale-in-khamis-mushayt",
+        "title": "Properties for Sale in Khamis Mushayt"
+      }
+    ],
+    "Regions": [
+      {
+        "url": "/en/villas-for-sale-in-riyadh",
+        "title": "Villas for Sale in Riyadh"
+      },
+      {
+        "url": "/en/villas-for-sale-in-jeddah",
+        "title": "Villas for Sale in Jeddah"
+      },
+      {
+        "url": "/en/villas-for-sale-in-makkah",
+        "title": "Villas for Sale in Makkah"
+      },
+      {
+        "url": "/en/villas-for-sale-in-dammam",
+        "title": "Villas for Sale in Dammam"
+      },
+      {
+        "url": "/en/villas-for-sale-in-al-khobar",
+        "title": "Villas for Sale in Al Khobar"
+      },
+      {
+        "url": "/en/villas-for-sale-in-khamis-mushayt",
+        "title": "Villas for Sale in Khamis Mushayt"
+      }
+    ]
+  },
+  "params": {
+    "slug": "sale",
+    "slug-id": "apartment-675-sqm-with-3-bedrooms-5879365"
+  },
+  "locale": "en",
+  "similarProperty": {
+    "count": 367,
+    "properties": [
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع بندر احمديني بن بلغيث السفري, يرجى إدخال رقم جوالك ",
+          "ownerName": "بندر بن احمديني بن بلغيث السفري",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact بندر احمديني بن بلغيث السفري, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "companyName": "",
+          "regaAdvLicNo": "7201213196",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "isOwnerProperty": false,
+          "resEmployee": "بندر احمديني بن بلغيث السفري",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "managedBy": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-11-07T09:31:23.029Z",
+        "score": 93,
+        "reservation": null,
+        "id": 5967357,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.09",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.44,
+          "totalScore": 93
+        },
+        "updatedAt": "2026-11-17T08:35:24.623Z",
+        "featureAmenities": [
+          {
+            "name": "Park"
+          },
+          {
+            "name": "School"
+          },
+          {
+            "name": "Garden"
+          },
+          {
+            "name": "Health Centre"
+          },
+          {
+            "name": "Retail Outlet"
+          },
+          {
+            "name": "Indoor Parking"
+          },
+          {
+            "name": "2 Separate Entrances"
+          }
+        ],
+        "publishedAt": "2026-11-07T09:34:09.008Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "387638-SAU-BU-187923",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "187923",
+        "location": {
+          "lon": "39.18301811120272",
+          "lat": "21.615148121112846"
+        },
+        "propertyFiles": {
+          "images": [
+            "ded10370-b05e-477b-8016-bf6cd240594d.jpg",
+            "16bdea22-42b0-46f7-9dc4-200375689e07.jpg",
+            "94c0270c-4544-423a-80dd-95d1cfc61b7b.jpg",
+            "c46580f9-69ee-41f7-b4dd-76f8cd90a6c3.jpg",
+            "bfe0d572-308c-4caf-826f-eec146169a7e.jpg",
+            "f7737e94-fb1a-4ea2-8f08-429b9624ec18.jpg",
+            "5ca08612-2d79-4403-a8d2-75a834a7441c.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": [
+            {
+              "thumbnail": "https://assets.wasalt.com/properties/5967357/images/31978671-0c29-4dc6-a0a4-f032961092f0_thumbnail.jpg",
+              "type": "video",
+              "content": "https://cdn.wasalt.com/production/properties/442038/videos/31978671-0c29-4dc6-a0a4-f032961092f0.mp4",
+              "videoType": "manual-video",
+              "iconClass": "play"
+            }
+          ]
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "noOfBathrooms",
+            "name": "Bathrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbathroomsbnw.png",
+            "iconClass": "bathroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "672",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": "Un-Furnished",
+          "description": "السلام عليكم ورحمة الله وبركاتة&nbsp;<div>ــــــــــــــــــــــــــــــــــــــــــ</div><div>استمتع بأسلوب حياة عصري في مشروع استثماري متميز بجدة (حي الربوة)، بالقرب من شارع حراء وطريق الأمير ماجد، وعلى بعد دقائق معدودة من مطار الملك عبدالعزيز ومختلف الخدمات الأساسية.</div><div>ــــــــــــــــــــــــــــــــــــــــــــــ</div><div>الوحدات السكنية:</div><div>🏠  شقة 3 غرف ، مساحة 98 م²، بسعر 360,000 ريال.</div><div>《 مدخلين _ مجلس رجال _ صالة معيشة_ مطبخ _ غرفة نوم ماستر _ غرفة نوم اضافية _ 3 دورات مياة _ عداد كهرباء مستقل _ موقف سيارة مستقل _ خزان مياه علوي وسفلي مستقل 》</div><div><br></div><div>ـــــــــــــــــــــــــــــــــــــــــــــ</div><div>مميزات الشقة:</div><div>✅ دخول ذكي.</div><div>✅ مصعدين فل أوتوماتيك.</div><div>✅ واجهات مودرن .&nbsp;</div><div>✅ نوافذ واسعة.</div><div>✅ إنارات ضد التوهج.</div><div>✅ أسقف وأبواب مرتفعة.</div><div>✅ انتركوم سمارت.</div><div>✅ مدخلين للوحدات.</div><div>✅ تشطيبات عصرية وبلكونات.</div><div>ـــــــــــــــــــــــــــــــــــــــــــــــ</div><div>مميزات الموقع:</div><div>🌍 أمام مسجد مباشر.</div><div>🌍 دقيقتين عن مركز صحي.</div><div>🌍 4 دقائق عن المدرسة.</div><div>🌍 4 دقائق عن شارع حراء.</div><div>🌍 7 دقائق عن حديقة الأمير ماجد.</div><div>🌍 8 دقائق عن طريق الأمير ماجد.</div><div>🌍 9 دقائق عن مطار الملك عبدالعزيز الدولي.</div><div>🌍 بالقرب من شارع يحيى المعلمي وطريق المكرونة وطريق الستين.</div><div><br></div>",
+          "title": "Apartment with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-with-3-bedrooms-5967357",
+          "territory": "North Jeddah",
+          "salePrice": 360000,
+          "expectedRent": "",
+          "tags": [
+            "Un-Furnished"
+          ],
+          "propertyFor": "sale",
+          "conversionPrice": 360000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "672",
+        "ageOfListing": "Updated 1 day ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع عبدالمجيد مسفر سفر البلادي, يرجى إدخال رقم جوالك ",
+          "ownerName": "عبدالمجيد مسفر سفر البلادي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact عبدالمجيد مسفر سفر البلادي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "شركة ايمان مقبل بن عرميط البلادي",
+          "companyName": "",
+          "regaAdvLicNo": "7201184992",
+          "userCapacity": "company",
+          "enCmpName": "شركة ايمان مقبل بن عرميط البلادي",
+          "isOwnerProperty": false,
+          "resEmployee": "عبدالمجيد مسفر سفر البلادي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "شركة ايمان مقبل بن عرميط البلادي",
+          "managedBy": "عبدالمجيد مسفر سفر البلادي",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-11-12T12:12:10.551Z",
+        "score": 93,
+        "reservation": null,
+        "id": 5970988,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.08",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.45,
+          "totalScore": 93
+        },
+        "updatedAt": "2026-11-12T15:42:55.737Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-11-12T12:12:10.962Z",
+        "regaMojDesc": "حي الربوه  فى مدينه   جدة ",
+        "contactDetails": {},
+        "fullDarReference": "129337-SAU-BU-484843",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "484843",
+        "location": {
+          "lon": "39.18078612543059",
+          "lat": "21.61431243434149"
+        },
+        "propertyFiles": {
+          "images": [
+            "5dd0e1b6-d6f3-49b0-8378-6ba64debb786.jpg",
+            "a031ed11-65da-4bcd-956c-de73c1a89e81.jpg",
+            "1ee92907-332a-4683-824d-1c761e9a54fd.jpg",
+            "a1c4bd80-146e-424c-adff-85f5c048c575.jpg",
+            "094c4bfa-6a12-4229-abd3-12d17743842b.jpg",
+            "5192b99e-2f26-481f-a2a1-537efa8b8806.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has water Connections</p><p>Building year: 2026</p><p>Price: 369000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5970988",
+          "territory": "North Jeddah",
+          "salePrice": 369000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 369000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Listed 5 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع عبدالمجيد مسفر سفر البلادي, يرجى إدخال رقم جوالك ",
+          "ownerName": "ضيف الله حضييض حضيض البلادي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact عبدالمجيد مسفر سفر البلادي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "شركة ايمان مقبل بن عرميط البلادي",
+          "companyName": "",
+          "regaAdvLicNo": "7201173426",
+          "userCapacity": "company",
+          "enCmpName": "شركة ايمان مقبل بن عرميط البلادي",
+          "isOwnerProperty": false,
+          "resEmployee": "عبدالمجيد مسفر سفر البلادي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": true,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "شركة ايمان مقبل بن عرميط البلادي",
+          "managedBy": "شركة ايمان مقبل بن عرميط البلادي",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-11-12T10:14:45.282Z",
+        "score": 92,
+        "reservation": null,
+        "id": 5969347,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.07",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.45,
+          "totalScore": 92
+        },
+        "updatedAt": "2026-11-12T12:14:43.199Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-11-12T10:14:45.619Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "129337-SAU-BU-111329",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "111329",
+        "location": {
+          "lon": "39.188439824161925",
+          "lat": "21.602151818698285"
+        },
+        "propertyFiles": {
+          "images": [
+            "e6dae018-3f2a-4059-9745-e7a882e88311.jpg",
+            "ac40a27a-6ce4-4196-a945-253c6592bd24.jpg",
+            "bea999ca-fee9-4a84-94d2-4780457bad39.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "840",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 840 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has water Connections</p><p>Building year: 2026</p><p>Price: 340000 SAR</p>",
+          "title": "Apartment 840 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-840-sqm-with-3-bedrooms-5969347",
+          "territory": "North Jeddah",
+          "salePrice": 340000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 340000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23449",
+        "leadCount": 0,
+        "floorSize": "840",
+        "ageOfListing": "Listed 5 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع محمدحسن علي علي راشد, يرجى إدخال رقم جوالك ",
+          "ownerName": "محمدحسن علي علي راشد",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact محمدحسن علي علي راشد, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة محمدحسن علي علي راشد للعقارات",
+          "companyName": "",
+          "regaAdvLicNo": "7201178936",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة محمدحسن علي علي راشد للعقارات",
+          "isOwnerProperty": false,
+          "resEmployee": "محمدحسن علي علي راشد",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": true,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة محمدحسن علي علي راشد للعقارات",
+          "managedBy": "محمدحسن علي علي راشد",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-18T02:53:02.521Z",
+        "score": 90,
+        "reservation": null,
+        "id": 5958235,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.10",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.4,
+          "totalScore": 90
+        },
+        "updatedAt": "2026-11-16T17:22:17.490Z",
+        "featureAmenities": [
+          {
+            "name": "Park"
+          },
+          {
+            "name": "School"
+          },
+          {
+            "name": "Mosque"
+          },
+          {
+            "name": "Health Centre"
+          },
+          {
+            "name": "Retail Outlet"
+          },
+          {
+            "name": "Indoor Parking"
+          },
+          {
+            "name": "2 Separate Entrances"
+          }
+        ],
+        "publishedAt": "2026-10-18T02:53:49.230Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "193743-SAU-BU-660767",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "660767",
+        "location": {
+          "lon": "39.1883668358554",
+          "lat": "21.602100567276302"
+        },
+        "propertyFiles": {
+          "images": [
+            "43c5545c-41bd-46b9-bb26-849fece001ef.jpg",
+            "2d865af5-7112-4113-8049-dd9450636cb9.jpg",
+            "bdaf6e96-25a1-4e46-b01d-3a72962f160e.jpg",
+            "66ca77de-48f2-4856-a428-8dffe40a4dc8.jpg",
+            "af4a76fa-fc25-4928-b729-db6623db5242.jpg",
+            "4de0adb2-a94f-468a-90aa-f86002e4dc76.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "noOfBathrooms",
+            "name": "Bathrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbathroomsbnw.png",
+            "iconClass": "bathroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "840",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": "Un-Furnished",
+          "description": "<p>Un-Furnished\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 840 SQM</p><p>Property Floor : 3</p><p> Apartment is located on  1 street</p><p>The property has 5 floors, 3 bedrooms, 3 bathrooms, 1 living room, 1 guest room</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Apartment is: Un-Furnished</p><p>Property amenities:</p><p>&nbsp; - &nbsp; Park</p><p>&nbsp; - &nbsp; School</p><p>&nbsp; - &nbsp; Mosque</p><p>&nbsp; - &nbsp; Health Centre</p><p>&nbsp; - &nbsp; Retail Outlet</p><p>&nbsp; - &nbsp; Indoor Parking</p><p>&nbsp; - &nbsp; 2 Separate Entrances</p><p>Property fixtures:</p><p>&nbsp; - &nbsp; Gypsum Board Decoration</p><p>&nbsp; - &nbsp; Split AC</p><p>&nbsp; - &nbsp; Smart Home System</p><p>&nbsp; - &nbsp; Elevator</p><p>&nbsp; - &nbsp; CCTV System</p><p>Price: 340000 SAR</p>",
+          "title": "Apartment with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-with-3-bedrooms-5958235",
+          "territory": "North Jeddah",
+          "salePrice": 340000,
+          "expectedRent": "",
+          "tags": [
+            "Un-Furnished"
+          ],
+          "propertyFor": "sale",
+          "conversionPrice": 340000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23449",
+        "leadCount": 0,
+        "floorSize": "840",
+        "ageOfListing": "Updated 1 day ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع أسامه محمد عبدالله العاطفي, يرجى إدخال رقم جوالك ",
+          "ownerName": "أسامه بن محمد بن عبدالله العاطفي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact أسامه محمد عبدالله العاطفي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "أسامه العاطفي",
+          "companyName": "",
+          "regaAdvLicNo": "7100330286",
+          "userCapacity": "individual",
+          "enCmpName": "أسامه العاطفي",
+          "isOwnerProperty": false,
+          "resEmployee": "أسامه محمد عبدالله العاطفي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": true,
+          "enUserRole": "Individual",
+          "arUserRole": "فرد",
+          "postedAs": 48,
+          "regaAdvertiserNumber": null,
+          "brandName": "أسامه العاطفي",
+          "managedBy": "أسامه العاطفي",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-12T21:26:25.720Z",
+        "score": 88,
+        "reservation": null,
+        "id": 5952609,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.10",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.38,
+          "totalScore": 88
+        },
+        "updatedAt": "2026-11-17T13:08:08.061Z",
+        "featureAmenities": [
+          {
+            "name": "School"
+          },
+          {
+            "name": "Mosque"
+          },
+          {
+            "name": "Health Centre"
+          },
+          {
+            "name": "Retail Outlet"
+          },
+          {
+            "name": "Indoor Parking"
+          },
+          {
+            "name": "Indoor Staircase"
+          }
+        ],
+        "publishedAt": "2026-10-12T21:29:43.465Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "459131-SAU-BU-911012",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "911012",
+        "location": {
+          "lon": "39.18313832726101",
+          "lat": "21.613272181132007"
+        },
+        "propertyFiles": {
+          "images": [
+            "81f599c8-db36-4f7e-b4e3-248114acc6eb.jpg",
+            "1c616bf8-8d8b-48f6-a077-7e2c4e6340b1.jpg",
+            "a59b76b0-9dd5-4c76-9a46-a87962f6554c.jpg",
+            "bd1e2dd3-267a-492b-a18b-78d11a4395f9.jpg",
+            "023162f5-741d-4aed-9e2e-15ee30473934.jpg",
+            "cc118e70-3813-4858-a39e-36f683220b42.jpg",
+            "24ab961f-05ed-44e7-9188-189e8b2998a8.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": [
+            {
+              "thumbnail": "https://assets.wasalt.com/properties/5952609/images/69003042-7a48-46ea-8810-c24c033d567b_thumbnail.jpg",
+              "type": "video",
+              "content": "https://cdn.wasalt.com/production/properties/427272/videos/69003042-7a48-46ea-8810-c24c033d567b.mp4",
+              "videoType": "manual-video",
+              "iconClass": "play"
+            }
+          ]
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "noOfBathrooms",
+            "name": "Bathrooms",
+            "value": 2,
+            "image": "https://assets.wasalt.com/others/icons/noofbathroomsbnw.png",
+            "iconClass": "bathroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": "Un-Furnished",
+          "description": "<p dir=\"rtl\">شقة   للبيع في  حي الربوة٬ جدة</p><p dir=\"rtl\">مسطحات البناء 625 متر مربع</p><p dir=\"rtl\"> يحدها 1 شارع: </p><p dir=\"rtl\">مكونة من: 3 غرف</p><p dir=\"rtl\">واصل كهرباء</p><p dir=\"rtl\">واصل مياه</p><p dir=\"rtl\">سنة البناء: 2026</p><p dir=\"rtl\">سعرها 380000 ر.س</p><p dir=\"rtl\">ترخيص الإعلان 7100330286</p><p dir=\"rtl\">تعلن عن إطلاق مشروعنا السكني الجديد: رِواء — الربوة 🌟</p><p dir=\"rtl\">*برقم ترخيص:[ 48/947 ]*</p><p dir=\"rtl\">حيث تتناغم الرفاهية مع الذوق الرفيع...&nbsp;</p><p dir=\"rtl\">مشروع سكني عصري يُعيد تعريف السكن الراقي في قلب جدة بتفاصيل تُجسّد الخصوصية والاستثمار الذكي.</p><p dir=\"rtl\">━━━━━━━━━━━━━</p><p dir=\"rtl\">🌟 مميزات وتفاصيل المشروع:</p><p dir=\"rtl\">🔐 دخول ذكي للوحدات</p><p dir=\"rtl\">📹 كاميرات مراقبة</p><p dir=\"rtl\">🏛️ أرضيات رخام</p><p dir=\"rtl\">&nbsp;🪟 نوافذ كبيرة</p><p dir=\"rtl\">❄️ مداخل مكيفة</p><p dir=\"rtl\">&nbsp;🧯 أنظمة سلامة متكاملة</p><p dir=\"rtl\">↕️ أسقف مرتفعة&nbsp;</p><p dir=\"rtl\">🛢️ خزان ماء مستقل</p><p dir=\"rtl\">🛗 مصاعد حديثة</p><p dir=\"rtl\">&nbsp;🏢 واجهات عصرية</p><p dir=\"rtl\">👮 أمن وحراسة</p><p dir=\"rtl\">&nbsp;مواقف سيارات خاصة</p><p dir=\"rtl\">━━━━━━━━━━━━━</p><p dir=\"rtl\">📍 موقع استراتيجي بالقرب من أهم المعالم والخدمات:</p><p dir=\"rtl\">• دقيقة: المركز الصحي | جامع عثمان بن عفان</p><p dir=\"rtl\">• 3 دقائق: شارع حراء</p><p dir=\"rtl\">• 6 دقائق: حديقة الأمير ماجد</p><p dir=\"rtl\">• 7 دقائق: العرب مول | جامعة جدة</p><p dir=\"rtl\">• 8 دقائق: مطار الملك عبدالعزيز</p><p dir=\"rtl\">• 19 دقيقة: الواجهة البحرية</p><p dir=\"rtl\">━━━━━━━━━━━━━</p><p dir=\"rtl\">2️⃣ نموذج B (3 غرف - أمامية):</p><p dir=\"rtl\">📐 المساحة: 105.58 م²</p><p dir=\"rtl\">💰 السعر: 380,000 ريال</p><p dir=\"rtl\">━━━━━━━━━━━━━</p><p dir=\"rtl\">🛡️ ضمانات المشروع (نحرص دائماً على راحتك واستدامة منزلك):</p><p dir=\"rtl\">🛡️ تأمين التعاونية ضد العيوب الخفية</p><p dir=\"rtl\">🏗️ 25 سنة على هيكل البناء</p><p dir=\"rtl\">🔌 10 سنوات على القواطع&nbsp;</p><p dir=\"rtl\">والافياش</p><p dir=\"rtl\">🚰 5 سنوات على السباكة والكهرباء</p><p dir=\"rtl\">🤝 سنة مجاناً اتحاد ملاك</p><p dir=\"rtl\">━━━━━━━━━━━━━</p><p dir=\"rtl\"><br></p><p dir=\"rtl\"><br></p><p dir=\"rtl\"><br></p>",
+          "title": "Apartment with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-with-3-bedrooms-5952609",
+          "territory": "North Jeddah",
+          "salePrice": 380000,
+          "expectedRent": "",
+          "tags": [
+            "Un-Furnished"
+          ],
+          "propertyFor": "sale",
+          "conversionPrice": 380000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Updated Few Hours ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع أسامه محمد عبدالله العاطفي, يرجى إدخال رقم جوالك ",
+          "ownerName": "أسامه بن محمد بن عبدالله العاطفي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact أسامه محمد عبدالله العاطفي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "أسامه العاطفي",
+          "companyName": "",
+          "regaAdvLicNo": "7100330292",
+          "userCapacity": "individual",
+          "enCmpName": "أسامه العاطفي",
+          "isOwnerProperty": false,
+          "resEmployee": "أسامه محمد عبدالله العاطفي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": true,
+          "enUserRole": "Individual",
+          "arUserRole": "فرد",
+          "postedAs": 48,
+          "regaAdvertiserNumber": null,
+          "brandName": "أسامه العاطفي",
+          "managedBy": "أسامه العاطفي",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-10T17:35:05.479Z",
+        "score": 87,
+        "reservation": null,
+        "id": 5952445,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.10",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.37,
+          "totalScore": 87
+        },
+        "updatedAt": "2026-11-16T15:44:33.028Z",
+        "featureAmenities": [
+          {
+            "name": "School"
+          },
+          {
+            "name": "Mosque"
+          },
+          {
+            "name": "Health Centre"
+          },
+          {
+            "name": "Retail Outlet"
+          },
+          {
+            "name": "Indoor Parking"
+          },
+          {
+            "name": "Indoor Staircase"
+          }
+        ],
+        "publishedAt": "2026-10-10T17:39:46.303Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "459131-SAU-BU-991409",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "991409",
+        "location": {
+          "lon": "39.18304861175776",
+          "lat": "21.612825298172744"
+        },
+        "propertyFiles": {
+          "images": [
+            "17400101-9aa1-4761-bbff-7bb67bb5900a.jpg",
+            "a1033d2b-3346-4efb-ba6f-a1ef9d02f8b8.jpg",
+            "aea45139-a547-41ca-aa8a-9fcd60f83f01.jpg",
+            "9175953a-10fa-4156-ae85-c47c998d59f4.jpg",
+            "0c375715-ef4c-425b-87c5-19735a63ded3.jpg",
+            "10c7e7da-abd8-4e4e-9692-70d1297442a0.jpg",
+            "d1226162-88c9-434a-82e3-58c079002386.jpg",
+            "ccd73aa4-dfe2-4a38-9043-42073d4e411c.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": [
+            {
+              "thumbnail": "https://assets.wasalt.com/properties/5952445/images/6a87e65a-cd92-47ba-bcc2-c44e9dd44254_thumbnail.jpg",
+              "type": "video",
+              "content": "https://cdn.wasalt.com/production/properties/427107/videos/6a87e65a-cd92-47ba-bcc2-c44e9dd44254.mp4",
+              "videoType": "manual-video",
+              "iconClass": "play"
+            }
+          ]
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "noOfBathrooms",
+            "name": "Bathrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbathroomsbnw.png",
+            "iconClass": "bathroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "672",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": "Un-Furnished",
+          "description": "<p dir=\"rtl\">شقة   للبيع في  حي الربوة٬ جدة</p><p dir=\"rtl\">مسطحات البناء 672 متر مربع</p><p dir=\"rtl\"> يحدها 1 شارع: </p><p dir=\"rtl\">مكونة من: 3 غرف</p><p dir=\"rtl\">واصل كهرباء</p><p dir=\"rtl\">واصل مياه</p><p dir=\"rtl\">سنة البناء: 2026</p><p dir=\"rtl\">سعرها 360000 ر.س</p><p dir=\"rtl\">ترخيص الإعلان 7100330292</p><p dir=\"rtl\">تحت التشطيب متبقي 5 اشهر على التسليم&nbsp;</p><p dir=\"rtl\">مشروع إيليت حي الربوة&nbsp;</p><p dir=\"rtl\">مشروع مميز بموقع ممتاز وتصاميم حديثه وجودة عالية&nbsp;</p><p dir=\"rtl\">والفرصة ممتازه جدا مميزة</p><p dir=\"rtl\">&nbsp; ✨مميزات المشروع:&nbsp;&nbsp;</p><p dir=\"rtl\">المشروع تحت التشطيب (كاش)</p><p dir=\"rtl\">&nbsp;الاستلام خلال 5 اشهر&nbsp;</p><p dir=\"rtl\">✅&nbsp; مصعدين فل اوتوماتيك</p><p dir=\"rtl\">✅ نوافذ واسعة&nbsp;</p><p dir=\"rtl\">✅ واجهات مودرن</p><p dir=\"rtl\">✅دخول ذكي</p><p dir=\"rtl\">✅ اسقف مرتفعه</p><p dir=\"rtl\">✅&nbsp; انارات ضد التوهج</p><p dir=\"rtl\">✅ مدخلين لكل شقة&nbsp;</p><p dir=\"rtl\">✅ تشطيبات عصرية&nbsp;</p><p dir=\"rtl\">✅ انتركوم سمارت</p><p dir=\"rtl\">✅ ابواب مرتفعة&nbsp;<span style=\"font-size: 1em;\">&nbsp;</span></p><p dir=\"rtl\">وضمانات تصل الى 25 سنه</p><p dir=\"rtl\">✨موقع استثماري وسكني استثنائي&nbsp; وحي مكتمل الخدمات&nbsp;</p><p dir=\"rtl\">✨المشروع امام مسجد</p><p dir=\"rtl\">الفرصة بين يديك الآن!</p><p dir=\"rtl\">شقة&nbsp;&nbsp;</p><p dir=\"rtl\">3 مدخلين صالة مطبخ 3 دورة ماه خزان مستقل علوي وسفلي خاص و عداد كهرباء خاص موقف خاص المساحة&nbsp; 98</p><p dir=\"rtl\">السعر 360000 ريال</p><p dir=\"rtl\">الحجز ولاستفسار 0507058707&nbsp;</p><p dir=\"rtl\"><br></p><p dir=\"rtl\"><br></p>",
+          "title": "Apartment with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-with-3-bedrooms-5952445",
+          "territory": "North Jeddah",
+          "salePrice": 360000,
+          "expectedRent": "",
+          "tags": [
+            "Un-Furnished"
+          ],
+          "propertyFor": "sale",
+          "conversionPrice": 360000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "672",
+        "ageOfListing": "Updated 1 day ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع شركة البلادي, يرجى إدخال رقم جوالك ",
+          "ownerName": "عبدالمجيد مسفر البلادي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact شركة البلادي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "شركة البلادي",
+          "companyName": "",
+          "regaAdvLicNo": "7201184984",
+          "userCapacity": "individual",
+          "enCmpName": "شركة البلادي",
+          "isOwnerProperty": false,
+          "resEmployee": "شركة البلادي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Individual",
+          "arUserRole": "فرد",
+          "postedAs": 48,
+          "regaAdvertiserNumber": null,
+          "brandName": "شركة البلادي",
+          "managedBy": "شركة البلادي",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T19:19:06.567Z",
+        "score": 86,
+        "reservation": null,
+        "id": 5961238,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.08",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 86
+        },
+        "updatedAt": "2026-10-30T21:15:38.335Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T19:19:06.925Z",
+        "regaMojDesc": "حي الربوه  فى مدينه   جدة ",
+        "contactDetails": {},
+        "fullDarReference": "744289-SAU-BU-838282",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "838282",
+        "location": {
+          "lon": "39.18078612543059",
+          "lat": "21.61431243434149"
+        },
+        "propertyFiles": {
+          "images": [
+            "5f2eeb33-eb03-4932-b97b-339e23c4f049.jpg",
+            "e059e0c1-4ef4-4224-abb4-940520e92a68.jpg",
+            "db5cb125-fddd-4f6f-987f-a9587a91e46e.jpg",
+            "77a101d2-3895-4cc0-8a60-d552c74b6339.jpg",
+            "039bd104-85ce-4c60-85e9-256a7a9f1f6b.jpg",
+            "a6cf9310-52a1-435c-9ee2-d93072814991.jpg",
+            "ab89d834-5e75-4045-b9da-03114079ec3d.jpg",
+            "8241cd58-0468-4903-9590-be702cadddb6.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has water Connections</p><p>Building year: 2026</p><p>Price: 369000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5961238",
+          "territory": "North Jeddah",
+          "salePrice": 369000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 369000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع جخيدب ثعيل علي الاكلبي, يرجى إدخال رقم جوالك ",
+          "ownerName": "جخيدب بن ثعيل بن علي الاكلبي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact جخيدب ثعيل علي الاكلبي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "companyName": "",
+          "regaAdvLicNo": "7201183945",
+          "userCapacity": "company",
+          "enCmpName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "isOwnerProperty": false,
+          "resEmployee": "جخيدب ثعيل علي الاكلبي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "managedBy": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-21T21:54:37.860Z",
+        "score": 86,
+        "reservation": null,
+        "id": 5958654,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.05",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.41,
+          "totalScore": 86
+        },
+        "updatedAt": "2026-11-16T04:08:15.436Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-21T21:54:58.431Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "295334-SAU-BU-584591",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "584591",
+        "location": {
+          "lon": "39.1833450995116",
+          "lat": "21.613987555527938"
+        },
+        "propertyFiles": {
+          "images": [
+            "9e58196b-2504-4fe1-ae8d-f5792cf62d3c.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p> Apartment is located on  1 street</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 380001 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5958654",
+          "territory": "North Jeddah",
+          "salePrice": 380001,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 380001,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Updated 2 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع صالح بن احمد بن صغير مرعي, يرجى إدخال رقم جوالك ",
+          "ownerName": "صالح بن احمد مرعي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact صالح بن احمد بن صغير مرعي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "companyName": "",
+          "regaAdvLicNo": "7201183424",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "isOwnerProperty": false,
+          "resEmployee": "صالح بن احمد بن صغير مرعي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "managedBy": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T21:03:34.935Z",
+        "score": 86,
+        "reservation": null,
+        "id": 5964282,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.08",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 86
+        },
+        "updatedAt": "2026-10-31T03:56:07.499Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T21:03:35.282Z",
+        "regaMojDesc": "حي الربوه  فى مدينه   جدة ",
+        "contactDetails": {},
+        "fullDarReference": "710033-SAU-BU-856355",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "856355",
+        "location": {
+          "lon": "39.180696181764404",
+          "lat": "21.614474399309046"
+        },
+        "propertyFiles": {
+          "images": [
+            "45b98fac-6b81-495b-8a0e-9f84ace65195.jpg",
+            "e80d2349-b6e6-4922-b530-32504ce09820.jpg",
+            "232a8531-31f0-400e-8b08-2b357432c2e1.jpg",
+            "6b5cea31-578d-4d63-ae8d-b9ac7bda14b0.jpg",
+            "833ffd22-677b-4913-8421-a97a35e0c8b7.jpg",
+            "8a5f4cdd-57b4-4895-acce-de8b6d2150b5.jpg",
+            "261d6a48-4226-45b5-8db0-45a3aac81737.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 379000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5964282",
+          "territory": "North Jeddah",
+          "salePrice": 379000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 379000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع صالح بن احمد بن صغير مرعي, يرجى إدخال رقم جوالك ",
+          "ownerName": "صالح بن احمد مرعي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact صالح بن احمد بن صغير مرعي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "companyName": "",
+          "regaAdvLicNo": "7201183298",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "isOwnerProperty": false,
+          "resEmployee": "صالح بن احمد بن صغير مرعي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "managedBy": "مؤسسة صالح بن احمد بن صغير مرعي التجارية",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T21:02:57.729Z",
+        "score": 86,
+        "reservation": null,
+        "id": 5964267,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.08",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 86
+        },
+        "updatedAt": "2026-10-31T03:41:58.316Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T21:02:58.120Z",
+        "regaMojDesc": "حي الربوه  فى مدينه   جدة ",
+        "contactDetails": {},
+        "fullDarReference": "710033-SAU-BU-837472",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "837472",
+        "location": {
+          "lon": "39.18040460235594",
+          "lat": "21.6143753523805"
+        },
+        "propertyFiles": {
+          "images": [
+            "6beced5b-efa8-449c-80f0-d5b643f45ba7.jpg",
+            "3f8225a1-d89b-4161-a560-2536b79a8ff0.jpg",
+            "8db782d0-9786-49ee-98b4-c154aa7955c4.jpg",
+            "c67e688b-c156-415d-a332-a1f70a3bb262.jpg",
+            "fc7bd3ca-2adc-472e-af6c-71ff632c5e90.jpg",
+            "0a469157-1d31-44eb-bc61-944c79e4dcd3.jpg",
+            "0d1ec78a-595f-40fe-881e-8d6485ecd14a.jpg",
+            "921ec418-68f6-4b99-8bc9-b56173b804f0.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 369000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5964267",
+          "territory": "North Jeddah",
+          "salePrice": 369000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 369000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع نواف جمعان بن حلسان الغامدي, يرجى إدخال رقم جوالك ",
+          "ownerName": "نواف جمعان بن حلسان الغامدي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact نواف جمعان بن حلسان الغامدي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة أساطير التملك",
+          "companyName": "",
+          "regaAdvLicNo": "7201193284",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة أساطير التملك",
+          "isOwnerProperty": false,
+          "resEmployee": "نواف جمعان بن حلسان الغامدي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة أساطير التملك",
+          "managedBy": "مؤسسة أساطير التملك",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T21:15:17.237Z",
+        "score": 86,
+        "reservation": null,
+        "id": 5964370,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.08",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 86
+        },
+        "updatedAt": "2026-10-31T03:41:38.630Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T21:15:17.653Z",
+        "regaMojDesc": "حي  الفيصلية  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "463845-SAU-BU-930059",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "930059",
+        "location": {
+          "lon": "39.17962847594749",
+          "lat": "21.614068493776696"
+        },
+        "propertyFiles": {
+          "images": [
+            "564df7b8-0a63-4110-9afe-6ab1f7256776.jpg",
+            "9384e24c-d039-44dc-bd39-0107cffd52b9.jpg",
+            "121d766a-c843-4f0b-b6c4-ce17e647bf0a.jpg",
+            "bed76640-69fa-478d-a06b-a34b264b706c.jpg",
+            "e62e600d-b257-4f45-ab8b-ebf4a59c4b90.jpg",
+            "71c0106e-faae-4199-b16a-cef30c6269c8.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "585.87",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 585.87 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 379000 SAR</p>",
+          "title": "Apartment 585.87 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-58587-sqm-with-3-bedrooms-5964370",
+          "territory": "North Jeddah",
+          "salePrice": 379000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 379000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23447",
+        "leadCount": 0,
+        "floorSize": "585.87",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع عادل عبدالله مساوى بحرى, يرجى إدخال رقم جوالك ",
+          "ownerName": "عادل بن عبدالله بن مساوى بحرى",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact عادل عبدالله مساوى بحرى, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة عادل عبدالله مساوى بحرى للمقاولات العامة",
+          "companyName": "",
+          "regaAdvLicNo": "7201177699",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة عادل عبدالله مساوى بحرى للمقاولات العامة",
+          "isOwnerProperty": false,
+          "resEmployee": "عادل عبدالله مساوى بحرى",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة عادل عبدالله مساوى بحرى للمقاولات العامة",
+          "managedBy": "مؤسسة عادل عبدالله مساوى بحرى للمقاولات العامة",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T22:29:48.829Z",
+        "score": 85,
+        "reservation": null,
+        "id": 5966145,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.07",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 85
+        },
+        "updatedAt": "2026-10-31T07:23:39.617Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T22:29:49.212Z",
+        "regaMojDesc": "حي النزهة بمدينة جدة  مساحة الوحدة من الأرض 46.71 متر   وتختص من المنافع والأجزاء المشتركة بمساحة 63.84 متر ",
+        "contactDetails": {},
+        "fullDarReference": "593154-SAU-BU-127791",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "127791",
+        "location": {
+          "lon": "39.19186299029254",
+          "lat": "21.590474509975795"
+        },
+        "propertyFiles": {
+          "images": [
+            "5e896a26-1283-4f03-a99d-c76cd290a3b6.jpg",
+            "d5bdfcd3-5448-4c3a-958b-0cd8fb49ba6f.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "175.7",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 175.7 SQM</p><p> Apartment is located on  1 street</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 367000 SAR</p>",
+          "title": "Apartment 175.7 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-1757-sqm-with-3-bedrooms-5966145",
+          "territory": "North Jeddah",
+          "salePrice": 367000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 367000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23448",
+        "leadCount": 0,
+        "floorSize": "175.7",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع عبدالعزيز عمير ظافر الشهري, يرجى إدخال رقم جوالك ",
+          "ownerName": "عبدالعزيز عمير ظافر الشهري",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact عبدالعزيز عمير ظافر الشهري, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "companyName": "",
+          "regaAdvLicNo": "7201183817",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "isOwnerProperty": false,
+          "resEmployee": "عبدالعزيز عمير ظافر الشهري",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "managedBy": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T21:37:24.782Z",
+        "score": 85,
+        "reservation": null,
+        "id": 5964934,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.07",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 85
+        },
+        "updatedAt": "2026-10-31T05:49:34.397Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T21:37:25.302Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "659515-SAU-BU-399165",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "399165",
+        "location": {
+          "lon": "39.1836418530194",
+          "lat": "21.613030701459632"
+        },
+        "propertyFiles": {
+          "images": [
+            "d2ed775d-090a-496d-a04a-5be73f536f1f.jpg",
+            "75511438-a0f4-4725-8df0-bb0044e5ab57.jpg",
+            "e4bf7458-76c0-47d6-a89e-535c62381bfa.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p> Apartment is located on  1 street</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 380000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5964934",
+          "territory": "North Jeddah",
+          "salePrice": 380000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 380000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع جخيدب ثعيل علي الاكلبي, يرجى إدخال رقم جوالك ",
+          "ownerName": "جخيدب بن ثعيل بن علي الاكلبي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact جخيدب ثعيل علي الاكلبي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "companyName": "",
+          "regaAdvLicNo": "7201177343",
+          "userCapacity": "company",
+          "enCmpName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "isOwnerProperty": false,
+          "resEmployee": "جخيدب ثعيل علي الاكلبي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "managedBy": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-17T22:56:31.914Z",
+        "score": 85,
+        "reservation": null,
+        "id": 5958229,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.05",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.4,
+          "totalScore": 85
+        },
+        "updatedAt": "2026-11-17T20:35:45.043Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-17T22:56:51.392Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "295334-SAU-BU-320579",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "320579",
+        "location": {
+          "lon": "39.18846101513328",
+          "lat": "21.602210291985532"
+        },
+        "propertyFiles": {
+          "images": [
+            "896649c6-4a70-472f-be10-a870d2d75c34.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "840",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 840 SQM</p><p> Apartment is located on  1 street</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 340000 SAR</p>",
+          "title": "Apartment 840 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-840-sqm-with-3-bedrooms-5958229",
+          "territory": "North Jeddah",
+          "salePrice": 340000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 340000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23449",
+        "leadCount": 0,
+        "floorSize": "840",
+        "ageOfListing": "Updated Few Hours ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع جخيدب ثعيل علي الاكلبي, يرجى إدخال رقم جوالك ",
+          "ownerName": "جخيدب بن ثعيل بن علي الاكلبي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact جخيدب ثعيل علي الاكلبي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "companyName": "",
+          "regaAdvLicNo": "7201177338",
+          "userCapacity": "company",
+          "enCmpName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "isOwnerProperty": false,
+          "resEmployee": "جخيدب ثعيل علي الاكلبي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "managedBy": "شركة شموخ الرفاهية للتطوير والاستثمار العقاري",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-17T22:49:06.837Z",
+        "score": 85,
+        "reservation": null,
+        "id": 5958223,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.05",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.4,
+          "totalScore": 85
+        },
+        "updatedAt": "2026-11-17T20:34:02.375Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-17T22:50:20.902Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "295334-SAU-BU-864534",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "864534",
+        "location": {
+          "lon": "39.1833450995116",
+          "lat": "21.613987555527938"
+        },
+        "propertyFiles": {
+          "images": [
+            "57913675-407a-4395-b780-a2113213ad6f.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p> Apartment is located on  1 street</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 380000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5958223",
+          "territory": "North Jeddah",
+          "salePrice": 380000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 380000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Updated Few Hours ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع حمده عطيه خميس الغامدي, يرجى إدخال رقم جوالك ",
+          "ownerName": "حمده عطيه الغامدي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact حمده عطيه خميس الغامدي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة حمده عطيه الغامدي العقارية",
+          "companyName": "",
+          "regaAdvLicNo": "7201187386",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة حمده عطيه الغامدي العقارية",
+          "isOwnerProperty": false,
+          "resEmployee": "حمده عطيه خميس الغامدي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة حمده عطيه الغامدي العقارية",
+          "managedBy": "مؤسسة حمده عطيه الغامدي العقارية",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T19:28:35.114Z",
+        "score": 85,
+        "reservation": null,
+        "id": 5961501,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.07",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 85
+        },
+        "updatedAt": "2026-10-30T22:10:00.808Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T19:28:35.466Z",
+        "regaMojDesc": "حي الربوه  فى مدينه   جدة ",
+        "contactDetails": {},
+        "fullDarReference": "730488-SAU-BU-813543",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "813543",
+        "location": {
+          "lon": "39.180664586674744",
+          "lat": "21.614153525449275"
+        },
+        "propertyFiles": {
+          "images": [
+            "a83842a8-da68-4ef0-80c6-655afd432f72.jpg",
+            "45c02a6d-fa4b-42d6-829c-ab34f079928f.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 369000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5961501",
+          "territory": "North Jeddah",
+          "salePrice": 369000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 369000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع بندر احمديني بن بلغيث السفري, يرجى إدخال رقم جوالك ",
+          "ownerName": "بندر بن احمديني بن بلغيث السفري",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact بندر احمديني بن بلغيث السفري, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "companyName": "",
+          "regaAdvLicNo": "7201159467",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "isOwnerProperty": false,
+          "resEmployee": "بندر احمديني بن بلغيث السفري",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "managedBy": "مؤسسة بندر احمديني بن بلغيث السفري العقارية",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-06T05:17:23.820Z",
+        "score": 84,
+        "reservation": null,
+        "id": 5934695,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.09",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.05",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.35,
+          "totalScore": 84
+        },
+        "updatedAt": "2026-11-17T08:32:05.151Z",
+        "featureAmenities": [
+          {
+            "name": "Park"
+          },
+          {
+            "name": "School"
+          },
+          {
+            "name": "Mosque"
+          },
+          {
+            "name": "Health Centre"
+          },
+          {
+            "name": "Garden"
+          },
+          {
+            "name": "Retail Outlet"
+          },
+          {
+            "name": "Indoor Parking"
+          },
+          {
+            "name": "2 Separate Entrances"
+          }
+        ],
+        "publishedAt": "2026-10-06T05:19:31.790Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "387638-SAU-BU-261105",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "261105",
+        "location": {
+          "lon": "39.18320774788278",
+          "lat": "21.615941230430412"
+        },
+        "propertyFiles": {
+          "images": [
+            "cb627196-669d-457c-afe7-d46754c1aff9.jpg",
+            "df1e5614-e704-47a8-8bae-7e7969ea8a79.jpg",
+            "66ef0aef-e517-456f-9e08-e64d3c1caccf.jpg",
+            "8cd1f2d9-e010-4b92-8f04-0476291c162d.jpg",
+            "a18f7ca7-7313-4f3b-9f1b-fb2486d3b5b2.jpg",
+            "1b129a4e-f299-41cc-91f2-8e2a51951e1e.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": [
+            {
+              "thumbnail": "https://assets.wasalt.com/properties/5934695/images/55c5dcb3-9e87-4073-b913-e4b9469ddabc_thumbnail.jpg",
+              "type": "video",
+              "content": "https://cdn.wasalt.com/production/properties/409354/videos/55c5dcb3-9e87-4073-b913-e4b9469ddabc.mp4",
+              "videoType": "manual-video",
+              "iconClass": "play"
+            }
+          ]
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "noOfBathrooms",
+            "name": "Bathrooms",
+            "value": 2,
+            "image": "https://assets.wasalt.com/others/icons/noofbathroomsbnw.png",
+            "iconClass": "bathroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": "Un-Furnished",
+          "description": "السلام عليكم ورحمة الله وبركاته<div>ــــــــــــــــــــــــــــــــــــــــــــــــــــ</div><div>موقع استثنائي في قلب حي الربوه!</div><div>استمتع بالسكن أو الاستثمار في حي الربوه بوسط جدة، بالقرب من مطار الملك عبدالعزيز والعرب مول وأهم المعالم الحيوية، لتنعم براحة الوصول وأسلوب حياة عصري متكامل.</div><div><br></div><div>#كاااااااش فقط #</div><div>ــــــــــــــــــــــــــــــــــــــــــــــــــــ</div><div>الوحدة السكنية:</div><div><br></div><div>🏠 شقة 3 غرف(امامية) ، مساحة 105.58 م ، بسعر 380,000 ريال.</div><div><br></div><div>《 مدخلين _ مجلس رجال _ صالة معيشة_ مطبخ  _ غرفتين نوم  _ دورتين مياة _ عداد كهرباء مستقل _ موقف سيارة مستقل _ خزان مياه علوي وسفلي مستقل 》</div><div>ـــــــــــــــــــــــــــــــــــــــــــــــــــ</div><div>مميزات الموقع:</div><div>🌍 يقع في حي الربوة بجدة.</div><div>🌍 1 دقيقة عن جامع عثمان بن عفان.</div><div>🌍 1 دقيقة عن المركز الصحي.</div><div>🌍 3 دقائق عن شارع حراء.</div><div>🌍 6 دقائق عن حديقة الأمير ماجد.</div><div>🌍 7 دقائق عن العرب مول.</div><div>🌍 7 دقائق عن جامعة جدة.</div><div>🌍 8 دقائق عن مطار الملك عبدالعزيز.</div><div>🌍 19 دقيقة عن الواجهة البحرية.</div><div>ــــــــــــــــــــــــــــــــــــــــــــــــــــ</div><div>مميزات الشقة:</div><div>✅ دخول ذكي.</div><div>✅ كاميرات مراقبة.</div><div>✅ أرضيات رخام.</div><div>✅ نوافذ كبيرة.</div><div>✅ مداخل مكيفة.</div><div>✅ أنظمة سلامة.</div><div>✅ أسقف مرتفعة.</div><div>✅ مصاعد حديثة.</div><div>✅ واجهات حديثة.</div><div>✅ أمن وحراسة.</div><div>________________________</div><div>للحجز والاستفسار: 0504521866</div>",
+          "title": "Apartment with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-with-3-bedrooms-5934695",
+          "territory": "North Jeddah",
+          "salePrice": 380000,
+          "expectedRent": "",
+          "tags": [
+            "Un-Furnished"
+          ],
+          "propertyFor": "sale",
+          "conversionPrice": 380000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Updated 1 day ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع حنين حسن عبدالله البيشي, يرجى إدخال رقم جوالك ",
+          "ownerName": "حنين حسن البيشي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact حنين حسن عبدالله البيشي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة حنين حسن البيشي العقارية",
+          "companyName": "",
+          "regaAdvLicNo": "7201185541",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة حنين حسن البيشي العقارية",
+          "isOwnerProperty": false,
+          "resEmployee": "حنين حسن عبدالله البيشي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة حنين حسن البيشي العقارية",
+          "managedBy": "مؤسسة حنين حسن البيشي العقارية",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-23T15:01:11.405Z",
+        "score": 84,
+        "reservation": null,
+        "id": 5958767,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.07",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.42,
+          "totalScore": 84
+        },
+        "updatedAt": "2026-10-27T15:12:22.527Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-23T15:01:38.429Z",
+        "regaMojDesc": "حي الربوه  فى مدينه   جدة ",
+        "contactDetails": {},
+        "fullDarReference": "738238-SAU-BU-860664",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "860664",
+        "location": {
+          "lon": "39.180855621596905",
+          "lat": "21.61663173288897"
+        },
+        "propertyFiles": {
+          "images": [
+            "3205ed3f-802d-4598-b2dc-809004ab8643.jpg",
+            "6c811bb2-8e79-415a-a244-754427e06bd0.jpg",
+            "d0fb2c49-b211-47a4-8236-627ff8fcf0b4.jpg",
+            "baecfa5f-d998-4232-9b0b-c33366e49888.jpg",
+            "0df401e4-4f8b-4f66-906d-c81554caeecc.jpg",
+            "166b2009-ae19-45b9-bdff-279eed73ff70.jpg",
+            "7b0cde85-2d87-4e49-9405-1ac84dbca629.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 369000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5958767",
+          "territory": "North Jeddah",
+          "salePrice": 369000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 369000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Updated 21 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع حنين حسن عبدالله البيشي, يرجى إدخال رقم جوالك ",
+          "ownerName": "حنين حسن البيشي",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact حنين حسن عبدالله البيشي, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة حنين حسن البيشي العقارية",
+          "companyName": "",
+          "regaAdvLicNo": "7201185536",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة حنين حسن البيشي العقارية",
+          "isOwnerProperty": false,
+          "resEmployee": "حنين حسن عبدالله البيشي",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة حنين حسن البيشي العقارية",
+          "managedBy": "مؤسسة حنين حسن البيشي العقارية",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": true,
+        "isUpdated": true,
+        "roiPrediction": null,
+        "createdAt": "2026-10-23T15:26:44.724Z",
+        "score": 84,
+        "reservation": null,
+        "id": 5958768,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.07",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.42,
+          "totalScore": 84
+        },
+        "updatedAt": "2026-10-27T15:12:19.883Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-23T15:27:03.114Z",
+        "regaMojDesc": "حي الربوه  فى مدينه   جدة ",
+        "contactDetails": {},
+        "fullDarReference": "738238-SAU-BU-944716",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "944716",
+        "location": {
+          "lon": "39.180730692590735",
+          "lat": "21.616553935876706"
+        },
+        "propertyFiles": {
+          "images": [
+            "57ca8cbc-5081-453d-a5ff-c303bf5d6204.jpg",
+            "5923404a-8fd1-4b5e-a649-b90ac71e2e99.jpg",
+            "c2a9bd4c-f461-4e65-9518-4505fb6090ee.jpg",
+            "567307c5-edf4-46e1-aa9e-a21beb40a6f7.jpg",
+            "33138588-b8d2-4570-bdef-17f9540d5b05.jpg",
+            "d7b019e9-3a7b-4d32-ac1b-df43b7f1927c.jpg",
+            "b5a13588-a78d-422a-9cb7-5e0f3bc335ec.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 379000 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5958768",
+          "territory": "North Jeddah",
+          "salePrice": 379000,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 379000,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Updated 21 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      },
+      {
+        "leadContactInfo": {
+          "arMessageBody": "للتواصل مع عبدالعزيز عمير ظافر الشهري, يرجى إدخال رقم جوالك ",
+          "ownerName": "عبدالعزيز عمير ظافر الشهري",
+          "arMessageTitle": "تسجيل الدخول",
+          "enMessageTitle": "Login to your account",
+          "enMessageBody": "To contact عبدالعزيز عمير ظافر الشهري, please fill in your details "
+        },
+        "propertyOwner": {
+          "arCmpName": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "companyName": "",
+          "regaAdvLicNo": "7201185619",
+          "userCapacity": "company",
+          "enCmpName": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "isOwnerProperty": false,
+          "resEmployee": "عبدالعزيز عمير ظافر الشهري",
+          "poaNumber": null,
+          "regaAuthorizationNumber": null,
+          "cmpLogoUrl": "",
+          "showUserCallWhatsapp": false,
+          "enUserRole": "Company",
+          "arUserRole": "شركة",
+          "postedAs": 49,
+          "regaAdvertiserNumber": null,
+          "brandName": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "managedBy": "مؤسسة عبدالعزيز عمير ظافر الشهري للمقاولات العامة",
+          "showInterestCta": false
+        },
+        "isVerified": false,
+        "isRegaProp": false,
+        "isUpdated": false,
+        "roiPrediction": null,
+        "createdAt": "2026-10-30T21:37:40.670Z",
+        "score": 83,
+        "reservation": null,
+        "id": 5964944,
+        "scoringData": {
+          "propertyRelevanceListingComplete": "0.05",
+          "propertyRelevanceEngagement": "0.00",
+          "propertyRelevanceSellerScore": "0.00",
+          "propertyRelevanceFreshness": "0.00",
+          "propertyRelevanceDeficit": 0.35,
+          "propertyRelevancePersona": "0.00",
+          "propertyRelevanceRecency": 0.43,
+          "totalScore": 83
+        },
+        "updatedAt": "2026-10-31T05:56:51.777Z",
+        "featureAmenities": [],
+        "publishedAt": "2026-10-30T21:37:41.039Z",
+        "regaMojDesc": "حي  الربوه  بمدينة جدة .",
+        "contactDetails": {},
+        "fullDarReference": "659515-SAU-BU-692372",
+        "propIdentityTypeId": 95,
+        "packageData": {
+          "packageScore": 510,
+          "subsPkg": null,
+          "promotedAt": null
+        },
+        "darReference": "692372",
+        "location": {
+          "lon": "39.1836418530194",
+          "lat": "21.613030701459632"
+        },
+        "propertyFiles": {
+          "images": [
+            "dd30b597-2d56-4f24-942d-e1f11d82ae23.jpg",
+            "03477e32-6517-44fd-9083-375aca168a1e.jpg",
+            "ecb4907b-1c07-4c30-a264-de4787af40d2.jpg",
+            "b5dc2696-da56-4c9a-bf5b-35074a4ed79f.jpg"
+          ],
+          "brochure": [],
+          "floorPlans": [],
+          "videoUrls": []
+        },
+        "attributes": [
+          {
+            "key": "noOfBedrooms",
+            "name": "Bedrooms",
+            "value": 3,
+            "image": "https://assets.wasalt.com/others/icons/noofbedroomsbnw.png",
+            "iconClass": "bedroom"
+          },
+          {
+            "key": "builtUpArea",
+            "name": "Built-Up Area",
+            "value": "625",
+            "image": "https://assets.wasalt.com/others/icons/builtupareabnw.png",
+            "unit": "SQM",
+            "iconClass": "builtup-area"
+          },
+          {
+            "key": "completionYear",
+            "name": "Age",
+            "value": "New",
+            "image": "https://assets.wasalt.com/others/icons/completionyearbnw.png",
+            "unit": "",
+            "iconClass": "age-of-building"
+          }
+        ],
+        "propertyRegionId": 56,
+        "managedById": 55,
+        "propertyInfo": {
+          "currencyType": "SAR",
+          "country": "Saudi Arabia",
+          "propertyMainType": "Residential",
+          "address": "Al Rabbwah, North Jeddah, Jeddah",
+          "city": "Jeddah",
+          "propertySubType": "Apartment",
+          "furnishingType": null,
+          "description": "<p>\n\nApartment for Sale in Al Rabbwah, Jeddah</p><p>Built up Area: 625 SQM</p><p> Apartment is located on  1 street</p><p>The property has 3 bedrooms</p><p>Apartment has electricity and water Connections</p><p>Building year: 2026</p><p>Price: 380001 SAR</p>",
+          "title": "Apartment 625 SQM with 3 Bedrooms",
+          "unitType": "SQM",
+          "possessionType": "Residential",
+          "zone": "Al Rabbwah",
+          "managedBy": "Your Team",
+          "slug": "apartment-625-sqm-with-3-bedrooms-5964944",
+          "territory": "North Jeddah",
+          "salePrice": 380001,
+          "expectedRent": "",
+          "tags": [],
+          "propertyFor": "sale",
+          "conversionPrice": 380001,
+          "conversionUnit": "SAR",
+          "statusTypeId": 505,
+          "statusTypeSlug": "approved",
+          "cityId": 274,
+          "territoryId": 5,
+          "zoneId": 2223,
+          "districtId": 2223,
+          "district": "Al Rabbwah",
+          "propertySubTypeSlug": "apartment",
+          "rentFreq": "",
+          "currencyTypeMarker": "SR"
+        },
+        "zipCode": "23535",
+        "leadCount": 0,
+        "floorSize": "625",
+        "ageOfListing": "Listed 18 days ago",
+        "barter": {
+          "isEnabled": false,
+          "sellerNote": null
+        }
+      }
+    ],
+    "contactDetails": null,
+    "projectCount": 0,
+    "propertyCount": 367
+  },
+  "bannersData": {
+    "body_content": {
+      "matchmakeronboardingbanner": {
+        "id": 103,
+        "eventId": "matchmaker_1690273757",
+        "isActive": true,
+        "head_rawhtml": "<style>\nbody {\n    font-family: 'Jost', 'Noto Kufi Arabic', sans-serif;\n}\n* {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}\n\n.mm-container {\n    max-width: 388px;\n    width: 100%;\n    padding: 32px 24px;\n    border-radius: 12px;\n    border: 1px solid #D2D2D2;\n    background: #FFF;\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n    gap: 48px;\n    position: relative;\n}\n\n.close-icon {\n    width: 28px;\n    height: 28px;\n    border-radius: 24px;\n    background: #F0F0F0;\n    position: absolute;\n    top: 16px;\n    right: 16px;\n    padding: 10px;\n    display: none;\n}\n.close-icon i{\n    height: 10px;\n    line-height: 10px;\n    width: 10px;\n    font-size: 10px;\n    color: #000000;\n}\n\n.image-container img {\n    margin: 0 auto !important;\n    display: block;\n}\n\n.text-container {\n    display: flex;\n    flex-direction: column;\n    gap: 24px;\n}\n\n.text-heading {\n    font-size: 25px;\n    font-weight: 600;\n    line-height: 32px;\n    color: #191919;\n}\n.text-iconText-wrapper {\n    display: flex;\n    flex-direction: column;\n    gap: 20px;\n}\n.iconText-container {\n    margin-bottom: 0px !important;\n    display: flex;\n    align-items: center;\n    gap: 16px; \n}\n.iconText-container i{\n    height: 24px;\n    line-height: 24px;\n    width: 24px;\n    font-size: 24px;\n    color: #737373;\n}\n.iconText-desc {\n    font-size: 16px;\n    line-height: 24px;\n    color: #4C4C4C;\n    font-weight: 400;\n}\n\n.MM-button {\n    font-family: 'Jost', 'Noto Kufi Arabic', sans-serif;\n    width: 100%;\n    max-width: 100%;\n    height: 44px;\n    padding: 12px 16px;\n    font-size: 16px;\n    color: #FFFFFF;\n    font-weight: 500;\n    line-height: 20px;\n    border-radius: 12px;\n    background: #6F10A2;\n    border: 0px;\n    cursor: pointer;\n    display: none;\n    margin: 0 auto;\n    margin-top: 4px;\n}\n\n@media screen and (max-width: 767px) {\n    .mm-container {\n        max-width: 100%;\n        padding: 43px 20px 29px 20px;\n        border: 0px;\n        border-radius: 20px 20px 0px 0px;\n    }\n    .MM-button {\n        display: block;\n    }\n    .close-icon {\n        display: flex;\n        align-items: center;\n        justify-content: center;\n    }\n}\n</style>\n<script src=\"https://cms.wasalt.com/uploads/matchmaker_onboarding_8f9d1ee01b.js\"></script>",
+        "raw_html": "<div class=\"mm-container\">\n    <div class=\"close-icon\" onclick='sendDataToReactNativeApp(\"matchmaker_onboarding_close\")'>\n        <i class=\"iconwasalt icon-close\"></i>\n    </div>\n    <div class=\"image-container\">\n        <img src=\"https://cms.wasalt.com/uploads/onboarding_8584bf9288.svg\" alt=\"close\" width=\"213\" height=\"122\">\n    </div>\n    <div class=\"text-container\">\n        <h2 class=\"text-heading\">Connect directly with brokers</h2>\n        <div class=\"text-iconText-wrapper\">\n            <p class=\"iconText-container\">\n                <i class=\"iconwasalt icon-edit-form\"></i>\n                <span class=\"iconText-desc\">Submit your requirement</span>\n            </p>\n            <p class=\"iconText-container\">\n                <i class=\"iconwasalt icon-calling\"></i>\n                <span class=\"iconText-desc\">Receive direct calls from brokers</span>\n            </p>\n        </div>\n        <button class=\"MM-button\" onclick='sendDataToReactNativeApp(\"matchmaker_onboarding_submit\")'>Share Your Requirement</button>\n    </div>\n</div>",
+        "javaScript": "https://cms.wasalt.com/uploads/matchmaker_onboarding_8f9d1ee01b.js"
+      },
+      "alinmaBanner": {
+        "title": "alinma and aida banner",
+        "alinmaBanner": {
+          "aida": {
+            "MsiteImageURL": "https://cdn.wasalt.com/images/aida_msite_en.png",
+            "HybridImageURL": "https://cdn.wasalt.com/images/aida_banner_map_en.jpg",
+            "DesktopImageURL": "https://cdn.wasalt.com/images/aida_desktop_en.png"
+          },
+          "rize": {
+            "MsiteImageURL": "https://cdn.wasalt.com/images/rizeBannerMsiteNew.png",
+            "HybridImageURL": "https://cdn.wasalt.com/images/RizeBannerHybEn.png",
+            "DesktopImageURL": "https://cdn.wasalt.com/images/rizeBannerSrpNew.png"
+          },
+          "srp_2": {
+            "bannerType": "quara_finance",
+            "MsiteImageURL": "https://cdn.wasalt.com/manuals/banners/quara-finance-mobile-en-66cc03607f72d.webp",
+            "HybridImageURL": "https://cdn.wasalt.com/manuals/banners/quara-finance-listing-en-66cc0360c6067.webp",
+            "redirectionUrl": "https://quarafinance.onelink.me/a0GK/WasaltB2C",
+            "DesktopImageURL": "https://cdn.wasalt.com/manuals/banners/quara-finance-listing-en-66cc0360c6067.webp"
+          },
+          "alTamleek": {
+            "enable": true,
+            "MsiteImageURL": "https://cdn.wasalt.com/images/alTamleekMsiteEn.png",
+            "DesktopImageURL": "https://cdn.wasalt.com/images/alTamleekWebEn.png"
+          }
+        }
+      },
+      "bannerForDifferentCity": {
+        "eventId": "matchmaker_1689675860",
+        "isActive": true,
+        "label": "Matchmaker",
+        "mobileView": {
+          "273": "https://cms.wasalt.com/uploads/mm_msite_en_riyadh.png",
+          "274": "https://cms.wasalt.com/uploads/mm_msite_en_jeddah.png",
+          "275": "https://cms.wasalt.com/uploads/mm_msite_en_makkah.png",
+          "276": "https://cms.wasalt.com/uploads/mm_msite_en_madinah.png",
+          "328": "https://cms.wasalt.com/uploads/mm_msite_en_damman.png",
+          "other": "https://cms.wasalt.com/uploads/mm_msite_en_other.png"
+        },
+        "desktopView": {
+          "924": {
+            "273": "https://cms.wasalt.com/uploads/mm_desktop_en_riyadh.png",
+            "274": "https://cms.wasalt.com/uploads/mm_desktop_en_jeddah.png",
+            "275": "https://cms.wasalt.com/uploads/mm_desktop_en_makkah.png",
+            "276": "https://cms.wasalt.com/uploads/mm_desktop_en_madinah.png",
+            "328": "https://cms.wasalt.com/uploads/mm_desktop_en_damman.png",
+            "other": "https://cms.wasalt.com/uploads/mm_desktop_en_other.png"
+          },
+          "1228": {
+            "273": "https://cms.wasalt.com/uploads/mm_desktop_en_riyadh.png",
+            "274": "https://cms.wasalt.com/uploads/mm_desktop_en_jeddah.png",
+            "275": "https://cms.wasalt.com/uploads/mm_desktop_en_makkah.png",
+            "276": "https://cms.wasalt.com/uploads/mm_desktop_en_madinah.png",
+            "328": "https://cms.wasalt.com/uploads/mm_desktop_en_damman.png",
+            "other": "https://cms.wasalt.com/uploads/mm_desktop_en_other.png"
+          },
+          "1392": {
+            "273": "https://cms.wasalt.com/uploads/mm_desktop_en_riyadh.png",
+            "274": "https://cms.wasalt.com/uploads/mm_desktop_en_jeddah.png",
+            "275": "https://cms.wasalt.com/uploads/mm_desktop_en_makkah.png",
+            "276": "https://cms.wasalt.com/uploads/mm_desktop_en_madinah.png",
+            "328": "https://cms.wasalt.com/uploads/mm_desktop_en_damman.png",
+            "other": "https://cms.wasalt.com/uploads/mm_desktop_en_other.png"
+          },
+          "1872": {
+            "273": "https://cms.wasalt.com/uploads/mm_desktop_en_riyadh.png",
+            "274": "https://cms.wasalt.com/uploads/mm_desktop_en_jeddah.png",
+            "275": "https://cms.wasalt.com/uploads/mm_desktop_en_makkah.png",
+            "276": "https://cms.wasalt.com/uploads/mm_desktop_en_madinah.png",
+            "328": "https://cms.wasalt.com/uploads/mm_desktop_en_damman.png",
+            "other": "https://cms.wasalt.com/uploads/mm_desktop_en_other.png"
+          },
+          "pdp": {
+            "273": "https://cms.wasalt.com/uploads/mm_desktop_en_riyadh.png",
+            "274": "https://cms.wasalt.com/uploads/mm_desktop_en_jeddah.png",
+            "275": "https://cms.wasalt.com/uploads/mm_desktop_en_makkah.png",
+            "276": "https://cms.wasalt.com/uploads/mm_desktop_en_madinah.png",
+            "328": "https://cms.wasalt.com/uploads/mm_desktop_en_damman.png",
+            "other": "https://cms.wasalt.com/uploads/mm_desktop_en_other.png"
+          }
+        },
+        "hybridView": {
+          "273": "https://cdn.wasalt.com/manuals/mm_banners/bannerForDifferentCities_riyadh_en_desktop_hybrid_1x.webp",
+          "274": "https://cdn.wasalt.com/manuals/mm_banners/bannerForDifferentCities_jeddah_en_desktop_hybrid_1x.webp",
+          "275": "https://cdn.wasalt.com/manuals/mm_banners/bannerForDifferentCities_makkah_en_desktop_hybrid_1x.webp",
+          "276": "https://cdn.wasalt.com/manuals/mm_banners/bannerForDifferentCities_madinah_en_desktop_hybrid_1x.webp",
+          "328": "https://cdn.wasalt.com/manuals/mm_banners/bannerForDifferentCities_dammam_en_desktop_hybrid_1x.webp",
+          "other": "https://cdn.wasalt.com/manuals/mm_banners/bannerForDifferentCities_other_en_desktop_hybrid_1x.webp"
+        },
+        "mobileViewVersion2": {
+          "273": "https://cms.wasalt.com/uploads/mm_msite_en_riyadh.png",
+          "274": "https://cms.wasalt.com/uploads/mm_msite_en_jeddah.png",
+          "275": "https://cms.wasalt.com/uploads/mm_msite_en_makkah.png",
+          "276": "https://cms.wasalt.com/uploads/mm_msite_en_madinah.png",
+          "328": "https://cms.wasalt.com/uploads/mm_msite_en_damman.png",
+          "other": "https://cms.wasalt.com/uploads/mm_msite_en_other.png",
+          "width": 335,
+          "height": 180
+        }
+      },
+      "bannerForPostProperty": {
+        "eventId": "matchmaker_1704712734",
+        "isActive": true,
+        "label": "Matchmaker",
+        "homepage": {
+          "mobileView": "https://cdn.wasalt.com/manuals/mm_banners/bannerForPostProperty_home_msite_en_1x.jpg",
+          "desktopView": "https://cdn.wasalt.com/manuals/mm_banners/bannerForPostProperty_srp_desktop_en_1x.webp"
+        },
+        "srp": {
+          "hybridView": "https://cdn.wasalt.com/manuals/mm_banners/bannerForPostProperty_srp_hybrid_en_1x.webp",
+          "mobileView": "https://cdn.wasalt.com/images/add_property_msite_en.png",
+          "desktopView": {
+            "1228": "https://cdn.wasalt.com/images/add_property_desktop_en.png",
+            "1392": "https://cdn.wasalt.com/images/add_property_desktop_en.png",
+            "1872": "https://cdn.wasalt.com/images/add_property_desktop_en.png"
+          }
+        }
+      },
+      "rnBanners": {
+        "rnBanners": {
+          "aida": {
+            "width": 335,
+            "height": 160,
+            "arBanner": "https://cdn.wasalt.com/images/aida_banner_335X160_ar.png",
+            "enBanner": "https://cdn.wasalt.com/images/aida_banner_335X160_en.png"
+          },
+          "srp_2": {
+            "width": 335,
+            "height": 180,
+            "arBanner": "https://cdn.wasalt.com/manuals/banners/quara-finance-mobile-ar-66cc0361dd75b.webp",
+            "enBanner": "https://cdn.wasalt.com/manuals/banners/quara-finance-mobile-en-66cc03607f72d.webp",
+            "bannerType": "quara_finance",
+            "redirectionUrlAr": "https://quarafinance.onelink.me/a0GK/WasaltB2C",
+            "redirectionUrlEn": "https://quarafinance.onelink.me/a0GK/WasaltB2C",
+            "openExternalBrowser": true
+          },
+          "alinma": {
+            "width": 335,
+            "enable": false,
+            "height": 288,
+            "arBanner": "https://cdn.wasalt.com/images/alinma_335X288_ar.png",
+            "enBanner": "https://cdn.wasalt.com/images/alinma_335X288_en.png"
+          },
+          "AlTamleek": {
+            "width": 335,
+            "enable": true,
+            "height": 180,
+            "arBanner": "https://cdn.wasalt.com/images/banner-mobile-arabic.png",
+            "enBanner": "https://cdn.wasalt.com/images/banner-mobile-english.png"
+          }
+        }
+      },
+      "propgeniusBanner": {
+        "propgeniusBanner": {
+          "hybridView": "https://cdn.wasalt.com/images/Propgenius_banner_SRP_oldHybrid_en.webp",
+          "mobileView": "https://cdn.wasalt.com/images/Propgenius_banner_msite_en_new.webp",
+          "desktopView": "https://cdn.wasalt.com/images/Propgenius_banner_SRP_newList_en_new.webp"
+        }
+      },
+      "dynamicBanner": [
+        {
+          "id": 941,
+          "slug": "541_auction_banner",
+          "cityId": "275",
+          "desktopImage": "https://cdn.wasalt.sa/manuals/banners/listing-541.webp",
+          "eventId": "Infath",
+          "imageAltText": "مزاد نجوم السلي",
+          "isActive": true,
+          "mobileImage": "https://cdn.wasalt.sa/manuals/banners/mobile-541.webp",
+          "navigateToApp": "GroupAuctionPage",
+          "navigateToWeb": "https://auction.wasalt.sa/en/auction-group/541",
+          "webInApp": false,
+          "webInAppUrl": null,
+          "uid": "541",
+          "ruleData": {
+            "params": {
+              "auctionId": 541
+            },
+            "pageType": [
+              "SRP",
+              "Home",
+              "successPage_MatchMaker"
+            ],
+            "event_name": "auction_banner",
+            "mobileImgWidth": "300",
+            "mobileImgHeight": "400"
+          },
+          "deepLink": null
+        },
+        {
+          "id": 942,
+          "slug": "542_auction_banner",
+          "cityId": null,
+          "desktopImage": "https://cdn.wasalt.sa/manuals/banners/listing-542.webp",
+          "eventId": null,
+          "imageAltText": "مزاد نجود",
+          "isActive": true,
+          "mobileImage": "https://cdn.wasalt.sa/manuals/banners/mobile-542.webp",
+          "navigateToApp": "GroupAuctionPage",
+          "navigateToWeb": "https://auction.wasalt.sa/en/auction-group/542",
+          "webInApp": false,
+          "webInAppUrl": null,
+          "uid": "542",
+          "ruleData": {
+            "params": {
+              "auctionId": 542
+            },
+            "pageType": [
+              "SRP",
+              "Home",
+              "successPage_MatchMaker"
+            ],
+            "event_name": "auction_banner",
+            "mobileImgWidth": "300",
+            "mobileImgHeight": "400"
+          },
+          "deepLink": null
+        },
+        {
+          "id": 943,
+          "slug": "544_auction_banner",
+          "cityId": "273",
+          "desktopImage": "https://cdn.wasalt.sa/manuals/banners/listing-544.webp",
+          "eventId": null,
+          "imageAltText": "مزاد ربوع طيبة",
+          "isActive": true,
+          "mobileImage": "https://cdn.wasalt.sa/manuals/banners/mobile-544.webp",
+          "navigateToApp": "GroupAuctionPage",
+          "navigateToWeb": "https://auction.wasalt.sa/en/auction-group/536",
+          "webInApp": false,
+          "webInAppUrl": null,
+          "uid": "544",
+          "ruleData": {
+            "params": {
+              "auctionId": 544
+            },
+            "pageType": [
+              "SRP",
+              "Home",
+              "successPage_MatchMaker"
+            ],
+            "event_name": "auction_banner",
+            "mobileImgWidth": "300",
+            "mobileImgHeight": "400"
+          },
+          "deepLink": null
+        },
+        {
+          "id": 944,
+          "slug": "rivan_banner",
+          "cityId": "273",
+          "desktopImage": "https://cdn.wasalt.sa/manuals/banners/rivan-listing.webp",
+          "eventId": null,
+          "imageAltText": "Rivan Banner Image",
+          "isActive": true,
+          "mobileImage": "https://cdn.wasalt.sa/manuals/banners/rivan-mobile.webp",
+          "navigateToApp": "OnCompoundDetailPage",
+          "navigateToWeb": "https://wasalt.sa/en/project/%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%B4%D9%82%D9%82-%D8%B1%D9%8A%D9%81%D8%A7%D9%86-100175",
+          "webInApp": null,
+          "webInAppUrl": null,
+          "uid": null,
+          "ruleData": {
+            "params": {
+              "id": 100175,
+              "isCompound": true
+            },
+            "pageType": [
+              "SRP"
+            ],
+            "event_name": "rivan_banner",
+            "mobileImgWidth": "300",
+            "mobileImgHeight": "400"
+          },
+          "deepLink": null
+        }
+      ]
+    }
+  },
+  "abTestVariant": null,
+  "whatsappAbTesting": null,
+  "reqHeaders": {
+    "Content-Type": "application/json",
+    "locale": "en"
+  },
+  "locationLinksResponse": [
+    {
+      "title": "Properties for Sale",
+      "links": [
+        {
+          "title": "Properties for Sale in Al Faisaliyah",
+          "url": "/en/properties-for-sale-in-jeddah-al-faisaliyah"
+        },
+        {
+          "title": "Properties for Sale in Al Marwah",
+          "url": "/en/properties-for-sale-in-jeddah-al-marwah"
+        },
+        {
+          "title": "Properties for Sale in Al Yaqoot",
+          "url": "/en/properties-for-sale-in-jeddah-al-yaqoot"
+        },
+        {
+          "title": "Properties for Sale in An Naim",
+          "url": "/en/properties-for-sale-in-jeddah-an-naim"
+        },
+        {
+          "title": "Properties for Sale in An Nuzhah",
+          "url": "/en/properties-for-sale-in-jeddah-an-nuzhah"
+        },
+        {
+          "title": "Properties for Sale in Ar Rabwah",
+          "url": "/en/properties-for-sale-in-jeddah-ar-rabwah"
+        },
+        {
+          "title": "Properties for Sale in Ar Rawdah",
+          "url": "/en/properties-for-sale-in-jeddah-ar-rawdah"
+        },
+        {
+          "title": "Properties for Sale in Ar Rayaan",
+          "url": "/en/properties-for-sale-in-jeddah-ar-rayaan"
+        },
+        {
+          "title": "Properties for Sale in As Safa",
+          "url": "/en/properties-for-sale-in-jeddah-as-safa"
+        },
+        {
+          "title": "Properties for Sale in As Salamah",
+          "url": "/en/properties-for-sale-in-jeddah-as-salamah"
+        }
+      ]
+    },
+    {
+      "title": "Villas for Sale",
+      "links": [
+        {
+          "title": "Villas for Sale in Abhur Ash Shamaliyah",
+          "url": "/en/villas-for-sale-in-jeddah-abhur-ash-shamaliyah"
+        },
+        {
+          "title": "Villas for Sale in Al Basatin",
+          "url": "/en/villas-for-sale-in-jeddah-al-basatin"
+        },
+        {
+          "title": "Villas for Sale in Al Muhammadiyah",
+          "url": "/en/villas-for-sale-in-jeddah-al-muhammadiyah"
+        },
+        {
+          "title": "Villas for Sale in Al Wafa",
+          "url": "/en/villas-for-sale-in-jeddah-al-wafa"
+        },
+        {
+          "title": "Villas for Sale in Al Yaqoot",
+          "url": "/en/villas-for-sale-in-jeddah-al-yaqoot"
+        },
+        {
+          "title": "Villas for Sale in Ar Rahmanyah",
+          "url": "/en/villas-for-sale-in-jeddah-ar-rahmanyah"
+        },
+        {
+          "title": "Villas for Sale in Ar Riyadh",
+          "url": "/en/villas-for-sale-in-jeddah-ar-riyadh"
+        },
+        {
+          "title": "Villas for Sale in As Salhiyah",
+          "url": "/en/villas-for-sale-in-jeddah-as-salhiyah"
+        },
+        {
+          "title": "Villas for Sale in Ash Sheraa",
+          "url": "/en/villas-for-sale-in-jeddah-ash-sheraa"
+        },
+        {
+          "title": "Villas for Sale in Az Zomorod",
+          "url": "/en/villas-for-sale-in-jeddah-az-zomorod"
+        }
+      ]
+    },
+    {
+      "title": "Apartments for Sale",
+      "links": [
+        {
+          "title": "Apartments for Sale in Al Faisaliyah",
+          "url": "/en/apartments-for-sale-in-jeddah-al-faisaliyah"
+        },
+        {
+          "title": "Apartments for Sale in Al Marwah",
+          "url": "/en/apartments-for-sale-in-jeddah-al-marwah"
+        },
+        {
+          "title": "Apartments for Sale in Al Yaqoot",
+          "url": "/en/apartments-for-sale-in-jeddah-al-yaqoot"
+        },
+        {
+          "title": "Apartments for Sale in An Naim",
+          "url": "/en/apartments-for-sale-in-jeddah-an-naim"
+        },
+        {
+          "title": "Apartments for Sale in An Nuzhah",
+          "url": "/en/apartments-for-sale-in-jeddah-an-nuzhah"
+        },
+        {
+          "title": "Apartments for Sale in Ar Rabwah",
+          "url": "/en/apartments-for-sale-in-jeddah-ar-rabwah"
+        },
+        {
+          "title": "Apartments for Sale in Ar Rawdah",
+          "url": "/en/apartments-for-sale-in-jeddah-ar-rawdah"
+        },
+        {
+          "title": "Apartments for Sale in Ar Rayaan",
+          "url": "/en/apartments-for-sale-in-jeddah-ar-rayaan"
+        },
+        {
+          "title": "Apartments for Sale in As Safa",
+          "url": "/en/apartments-for-sale-in-jeddah-as-safa"
+        },
+        {
+          "title": "Apartments for Sale in As Salamah",
+          "url": "/en/apartments-for-sale-in-jeddah-as-salamah"
+        }
+      ]
+    },
+    {
+      "title": "Lands for Sale",
+      "links": [
+        {
+          "title": "Lands for Sale in Al Bawadi",
+          "url": "/en/lands-for-sale-in-jeddah-al-bawadi"
+        },
+        {
+          "title": "Lands for Sale in Al Buhayrat",
+          "url": "/en/lands-for-sale-in-jeddah-al-buhayrat"
+        },
+        {
+          "title": "Lands for Sale in Al Fanar",
+          "url": "/en/lands-for-sale-in-jeddah-al-fanar"
+        },
+        {
+          "title": "Lands for Sale in Al Ghadir",
+          "url": "/en/lands-for-sale-in-jeddah-al-ghadir"
+        },
+        {
+          "title": "Lands for Sale in Al Khomrah",
+          "url": "/en/lands-for-sale-in-jeddah-al-khomrah"
+        },
+        {
+          "title": "Lands for Sale in Al Safwah",
+          "url": "/en/lands-for-sale-in-jeddah-al-safwah"
+        },
+        {
+          "title": "Lands for Sale in Al Wafa",
+          "url": "/en/lands-for-sale-in-jeddah-al-wafa"
+        },
+        {
+          "title": "Lands for Sale in Al Yaqoot",
+          "url": "/en/lands-for-sale-in-jeddah-al-yaqoot"
+        },
+        {
+          "title": "Lands for Sale in Ar Riyadh",
+          "url": "/en/lands-for-sale-in-jeddah-ar-riyadh"
+        },
+        {
+          "title": "Lands for Sale in Az Zomorod",
+          "url": "/en/lands-for-sale-in-jeddah-az-zomorod"
+        }
+      ]
+    },
+    {
+      "title": "Buildings for Sale",
+      "links": [
+        {
+          "title": "Buildings for Sale in Al Aziziyah",
+          "url": "/en/buildings-for-sale-in-jeddah-al-aziziyah"
+        },
+        {
+          "title": "Buildings for Sale in Al Bawadi",
+          "url": "/en/buildings-for-sale-in-jeddah-al-bawadi"
+        },
+        {
+          "title": "Buildings for Sale in Al Faisaliyah",
+          "url": "/en/buildings-for-sale-in-jeddah-al-faisaliyah"
+        },
+        {
+          "title": "Buildings for Sale in Al Marwah",
+          "url": "/en/buildings-for-sale-in-jeddah-al-marwah"
+        },
+        {
+          "title": "Buildings for Sale in An Nuzhah",
+          "url": "/en/buildings-for-sale-in-jeddah-an-nuzhah"
+        },
+        {
+          "title": "Buildings for Sale in Ar Rabwah",
+          "url": "/en/buildings-for-sale-in-jeddah-ar-rabwah"
+        },
+        {
+          "title": "Buildings for Sale in Ar Rawdah",
+          "url": "/en/buildings-for-sale-in-jeddah-ar-rawdah"
+        },
+        {
+          "title": "Buildings for Sale in As Safa",
+          "url": "/en/buildings-for-sale-in-jeddah-as-safa"
+        },
+        {
+          "title": "Buildings for Sale in As Salamah",
+          "url": "/en/buildings-for-sale-in-jeddah-as-salamah"
+        },
+        {
+          "title": "Buildings for Sale in Mishrifah",
+          "url": "/en/buildings-for-sale-in-jeddah-mishrifah"
+        }
+      ]
+    },
+    {
+      "title": "Rest houses for Sale",
+      "links": [
+        {
+          "title": "Rest houses for Sale in Al Asla",
+          "url": "/en/rest-houses-for-sale-in-jeddah-al-asla"
+        },
+        {
+          "title": "Rest houses for Sale in Al Fanar",
+          "url": "/en/rest-houses-for-sale-in-jeddah-al-fanar"
+        },
+        {
+          "title": "Rest houses for Sale in Al Ghadir",
+          "url": "/en/rest-houses-for-sale-in-jeddah-al-ghadir"
+        },
+        {
+          "title": "Rest houses for Sale in Al Hamadaniyah",
+          "url": "/en/rest-houses-for-sale-in-jeddah-al-hamadaniyah"
+        },
+        {
+          "title": "Rest houses for Sale in Al Zahur",
+          "url": "/en/rest-houses-for-sale-in-jeddah-al-zahur"
+        },
+        {
+          "title": "Rest houses for Sale in As Salhiyah",
+          "url": "/en/rest-houses-for-sale-in-jeddah-as-salhiyah"
+        },
+        {
+          "title": "Rest houses for Sale in As Swaryee",
+          "url": "/en/rest-houses-for-sale-in-jeddah-as-swaryee"
+        },
+        {
+          "title": "Rest houses for Sale in Az Zomorod",
+          "url": "/en/rest-houses-for-sale-in-jeddah-az-zomorod"
+        },
+        {
+          "title": "Rest houses for Sale in Prince Abdul Majeed",
+          "url": "/en/rest-houses-for-sale-in-jeddah-prince-abdul-majeed"
+        },
+        {
+          "title": "Rest houses for Sale in Taibah",
+          "url": "/en/rest-houses-for-sale-in-jeddah-taibah"
+        }
+      ]
+    },
+    {
+      "title": "Floors for Sale",
+      "links": [
+        {
+          "title": "Floors for Sale in Al Fayha",
+          "url": "/en/floors-for-sale-in-jeddah-al-fayha"
+        },
+        {
+          "title": "Floors for Sale in Al Frosyah",
+          "url": "/en/floors-for-sale-in-jeddah-al-frosyah"
+        },
+        {
+          "title": "Floors for Sale in Al Marwah",
+          "url": "/en/floors-for-sale-in-jeddah-al-marwah"
+        },
+        {
+          "title": "Floors for Sale in Al Qryniah",
+          "url": "/en/floors-for-sale-in-jeddah-al-qryniah"
+        },
+        {
+          "title": "Floors for Sale in Al Safwah",
+          "url": "/en/floors-for-sale-in-jeddah-al-safwah"
+        },
+        {
+          "title": "Floors for Sale in Al Wafa",
+          "url": "/en/floors-for-sale-in-jeddah-al-wafa"
+        },
+        {
+          "title": "Floors for Sale in Ar Rahmanyah",
+          "url": "/en/floors-for-sale-in-jeddah-ar-rahmanyah"
+        },
+        {
+          "title": "Floors for Sale in Ar Rayaan",
+          "url": "/en/floors-for-sale-in-jeddah-ar-rayaan"
+        },
+        {
+          "title": "Floors for Sale in Ar Riyadh",
+          "url": "/en/floors-for-sale-in-jeddah-ar-riyadh"
+        },
+        {
+          "title": "Floors for Sale in As Salhiyah",
+          "url": "/en/floors-for-sale-in-jeddah-as-salhiyah"
+        }
+      ]
+    }
+  ],
+  "rnplActiveStatus": {
+    "id": 8,
+    "flag": "rnplActiveStatus",
+    "isActive": true,
+    "createdAt": "2026-07-14T05:28:40.618Z",
+    "updatedAt": "2026-07-14T05:28:45.360Z",
+    "publishedAt": "2026-07-14T05:28:45.358Z",
+    "vuid": "79f5a26f-ad78-4118-8e40-98fd2ccf9e4a",
+    "versionNumber": 1,
+    "versionComment": "Rnpl flag",
+    "isVisibleInListView": true
+  }
+}

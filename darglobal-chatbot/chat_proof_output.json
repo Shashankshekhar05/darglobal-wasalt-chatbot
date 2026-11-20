@@ -1,0 +1,26 @@
+{
+  "DarGlobal ke Dubai projects dikhao": {
+    "question": "DarGlobal ke Dubai projects dikhao",
+    "mode": "llm",
+    "answer": "Here are the top 5 results from DarGlobal:\n1. Trump International Hotel and Tower Dubai\nCity: Dubai, United Arab Emirates\n   Type: Tower\n   Price: Not available — Under construction\n   Source: https://darglobal.co.uk/trump-international-hotel-and-tower-dubai\n2. The Pagani Penthouse\nCity: Dubai, United Arab Emirates\n   Type: Penthouse\n   Price: Not available — Sold out\n   Source: https://darglobal.co.uk/one-of-one/project-pagani\n3. Trump International Hotel Tower Dubai\nCity: Dubai, United Arab Emirates\n   Type: Tower\n   Price: Not available — Under construction\n   Source: https://darglobal.co.uk/Trump-International-Hotel-Tower-Dubai\n4. DG1\nCity: Dubai, United Arab Emirates\n   Type: Tower\n   Price: Not available\n   Source: https://darglobal.co.uk/dg1\n5. W Residences Downtown Dubai\nCity: Dubai, United Arab Emirates\n   Type: Residences\n   Price: Not available — Sold out / Under construction\n   Source: https://darglobal.co.uk/w-residences\n",
+    "sources": [
+      "https://darglobal.co.uk/trump-international-hotel-and-tower-dubai",
+      "https://darglobal.co.uk/one-of-one/project-pagani",
+      "https://darglobal.co.uk/Trump-International-Hotel-Tower-Dubai",
+      "https://darglobal.co.uk/dg1",
+      "https://darglobal.co.uk/w-residences"
+    ]
+  },
+  "Wasalt pe Riyadh me rent pe villa dikhao": {
+    "question": "Wasalt pe Riyadh me rent pe villa dikhao",
+    "mode": "llm",
+    "answer": "Here are the top 5 results from Wasalt:\n1. Villa 300 SQM Facing North with 7 Bedrooms\nCity: Riyadh, Saudi Arabia\n   Bedrooms: 7 | Type: Villa\n   Price: 80,000 SAR — For Rent\n   Source: https://wasalt.sa/en/property/rent/villa-300-sqm-facing-north-with-7-bedrooms-5917760\n2. Villa 434 SQM Facing North with 5 Bedrooms\nCity: Riyadh, Saudi Arabia\n   Bedrooms: 5 | Type: Villa\n   Price: 160,000 SAR — For Rent\n   Source: https://wasalt.sa/en/property/rent/villa-434-sqm-facing-north-with-5-bedrooms-5930671\n3. Villa 203.5 SQM Facing North with 5 Bedrooms\nCity: Riyadh, Saudi Arabia\n   Bedrooms: 5 | Type: Villa\n   Price: 110,000 SAR — For Rent\n   Source: https://wasalt.sa/en/property/rent/villa-2035-sqm-facing-north-with-5-bedrooms-5915414\n4. Villa 306 SQM Facing East on 25m Width Street\nCity: Riyadh, Saudi Arabia\n   Bedrooms: 5 | Type: Villa\n   Price: 3,100,000 SAR — For Sale\n   Source: https://wasalt.sa/en/property/sale/villa-306-sqm-facing-east-on-25m-width-street-5850992\n5. Villa 393 SQM Facing East on 20m Width Street\nCity: Riyadh, Saudi Arabia\n   Bedrooms: 5 | Type: Villa\n   Price: 2,200,000 SAR — For Sale\n   Source: https://wasalt.sa/en/property/sale/villa-393-sqm-facing-east-on-20m-width-street-5829386\n",
+    "sources": [
+      "https://wasalt.sa/en/property/rent/villa-300-sqm-facing-north-with-7-bedrooms-5917760",
+      "https://wasalt.sa/en/property/rent/villa-434-sqm-facing-north-with-5-bedrooms-5930671",
+      "https://wasalt.sa/en/property/rent/villa-2035-sqm-facing-north-with-5-bedrooms-5915414",
+      "https://wasalt.sa/en/property/sale/villa-306-sqm-facing-east-on-25m-width-street-5850992",
+      "https://wasalt.sa/en/property/sale/villa-393-sqm-facing-east-on-20m-width-street-5829386"
+    ]
+  }
+}

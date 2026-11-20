@@ -1,0 +1,9 @@
+INFO:     Started server process [1920]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:57644 - "GET /health HTTP/1.1" 200 OK
+LLM_CALL #1 model=openai/gpt-oss-20b base=https://api.groq.com/openai/v1
+INFO:     127.0.0.1:57647 - "POST /chat HTTP/1.1" 200 OK
+LLM_CALL #2 model=openai/gpt-oss-20b base=https://api.groq.com/openai/v1
+INFO:     127.0.0.1:57649 - "POST /chat HTTP/1.1" 200 OK

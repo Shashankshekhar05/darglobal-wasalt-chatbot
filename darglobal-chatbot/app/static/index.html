@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DarGlobal + Wasalt AI Assistant</title>
+<style>
+  :root {
+    --bg: #ffffff;
+    --ink: #202124;
+    --muted: #5f6368;
+    --faint: #9aa0a6;
+    --line: #e8eaed;
+    --line-strong: #dadce0;
+    --user: #e8f0fe;
+    --blue: #1a73e8;
+    --blue-dark: #1557b0;
+    --gold: #b8860b;
+    --green: #188038;
+    --red: #d93025;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body { height: 100%; }
+
+  body {
+    font-family: "Segoe UI", Google Sans, system-ui, -apple-system, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    display: flex;
+    flex-direction: column;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .shell {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    flex: 1;
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ---------- header ---------- */
+  header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    padding: 14px 4px;
+    border-bottom: 1px solid var(--line);
+    background: var(--bg);
+  }
+
+  .brand {
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: -.1px;
+    white-space: nowrap;
+  }
+  .brand .dg { color: var(--blue); }
+  .brand .plus { color: var(--faint); font-weight: 500; }
+  .brand .wa { color: var(--gold); }
+
+  .status {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 12.5px;
+    color: var(--muted);
+    white-space: nowrap;
+  }
+  .status .who {
+    color: var(--muted);
+    font-size: 12.5px;
+    font-weight: 400;
+    letter-spacing: normal;
+    text-transform: none;
+  }
+  .status .state { color: var(--green); font-weight: 500; }
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--green);
+    display: inline-block;
+  }
+  .dot.err { background: var(--red); }
+  .status.offline .state { color: var(--red); }
+
+  /* ---------- messages ---------- */
+  .messages {
+    flex: 1;
+    min-height: 0;
+    overflow-y: auto;
+    padding: 24px 4px 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .msg { max-width: 78%; }
+
+  .msg.user {
+    align-self: flex-end;
+    background: var(--user);
+    border-radius: 14px;
+    border-bottom-right-radius: 4px;
+    padding: 12px 18px;
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--ink);
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .msg.bot {
+    align-self: stretch;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .who {
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: .08em;
+    color: var(--faint);
+    text-transform: uppercase;
+  }
+
+  .caption {
+    font-size: 14px;
+    line-height: 1.6;
+    color: var(--ink);
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    padding: 0 2px;
+  }
+
+  .card {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 16px 20px;
+    box-shadow: 0 1px 2px rgba(60, 64, 67, .06);
+  }
+
+  .card .nm {
+    font-size: 14.5px;
+    font-weight: 600;
+    color: var(--ink);
+    margin-bottom: 9px;
+    line-height: 1.4;
+  }
+
+  .card .row {
+    font-size: 13.5px;
+    color: var(--muted);
+    line-height: 1.5;
+    margin-bottom: 7px;
+    word-wrap: break-word;
+    overflow-wrap: anywhere;
+  }
+  .card .row:last-child { margin-bottom: 0; }
+
+  .card .row.txt {
+    color: var(--ink);
+    font-size: 14px;
+    line-height: 1.6;
+    white-space: pre-wrap;
+  }
+
+  .card .src { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+  .card .src a {
+    color: var(--blue);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    font-size: 13.5px;
+    cursor: pointer;
+    word-break: break-all;
+  }
+  .card .src a:hover { color: var(--blue-dark); }
+  .card .src svg { flex-shrink: 0; }
+
+  /* ---------- composer ---------- */
+  .composer-wrap {
+    background: var(--bg);
+    padding: 12px 4px 26px;
+  }
+  .composer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--bg);
+    border: 1px solid var(--line-strong);
+    border-radius: 999px;
+    padding: 7px 7px 7px 24px;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, .10);
+    transition: box-shadow .15s ease, border-color .15s ease;
+  }
+  .composer:focus-within {
+    border-color: #c6dafc;
+    box-shadow: 0 1px 8px rgba(26, 115, 232, .18);
+  }
+  .composer input {
+    flex: 1;
+    min-width: 0;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: var(--ink);
+    font-size: 14.5px;
+    padding: 11px 0;
+    font-family: inherit;
+  }
+  .composer input::placeholder { color: var(--faint); }
+
+  .send {
+    width: 42px;
+    height: 42px;
+    flex-shrink: 0;
+    border: none;
+    border-radius: 50%;
+    background: var(--blue);
+    color: #fff;
+    display: grid;
+    place-items: center;
+    cursor: pointer;
+    transition: background .15s ease;
+  }
+  .send:hover { background: var(--blue-dark); }
+  .send:disabled { opacity: .5; cursor: not-allowed; }
+
+  /* ---------- mobile ---------- */
+  @media (max-width: 700px) {
+    .shell { max-width: 100%; }
+    header { padding: 12px 14px; }
+    .brand { font-size: 14px; }
+    .messages { padding: 18px 14px 8px; }
+    .msg { max-width: 92%; }
+    .msg.bot { max-width: 100%; }
+    .card { padding: 14px 16px; }
+    .composer-wrap { padding: 10px 14px calc(14px + env(safe-area-inset-bottom)); }
+    .composer { padding-left: 18px; }
+  }
+</style>
+</head>
+
+<body>
+<div class="shell">
+
+  <header>
+    <div class="brand">
+      <span class="dg">DarGlobal</span>
+      <span class="plus"> + </span>
+      <span class="wa">Wasalt</span>
+    </div>
+    <div class="status" id="status">
+      <span class="who">AI Assistant</span>
+      <span class="dot" id="statusDot"></span>
+      <span class="state" id="statusText">Online</span>
+    </div>
+  </header>
+
+  <div class="messages" id="messages"></div>
+
+  <div class="composer-wrap">
+    <form class="composer" id="composer">
+      <input id="questionInput" type="text"
+             placeholder="Ask me anything about DarGlobal projects or Wasalt listings..."
+             autocomplete="off" aria-label="Ask a question">
+      <button type="submit" class="send" id="sendBtn" aria-label="Send">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M5 12h13M13 6l6 6-6 6" stroke="currentColor" stroke-width="2.2"
+                stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+    </form>
+  </div>
+
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var messagesEl = document.getElementById("messages");
+  var inputEl = document.getElementById("questionInput");
+  var sendBtn = document.getElementById("sendBtn");
+
+  function el(tag, cls, text) {
+    var e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text !== undefined) e.textContent = text;
+    return e;
+  }
+
+  function scrollToBottom() {
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+  }
+
+  function extIcon() {
+    var ns = "http://www.w3.org/2000/svg";
+    var svg = document.createElementNS(ns, "svg");
+    svg.setAttribute("width", "12");
+    svg.setAttribute("height", "12");
+    svg.setAttribute("viewBox", "0 0 24 24");
+    svg.setAttribute("fill", "none");
+    svg.setAttribute("aria-hidden", "true");
+    var p = document.createElementNS(ns, "path");
+    p.setAttribute("d", "M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5");
+    p.setAttribute("stroke", "#1a73e8");
+    p.setAttribute("stroke-width", "2");
+    p.setAttribute("stroke-linecap", "round");
+    p.setAttribute("stroke-linejoin", "round");
+    svg.appendChild(p);
+    return svg;
+  }
+
+  function card(r) {
+    var c = el("div", "card");
+    c.appendChild(el("div", "nm", r.name || "Unnamed"));
+
+    var city = r.city || "Not available";
+    var country = r.country;
+    c.appendChild(el("div", "row", country && country !== "Not available" ? city + ", " + country : city));
+
+    c.appendChild(el("div", "row", "Type: " + (r.type || "Not available")));
+    c.appendChild(el("div", "row", "Price: " + (r.price || "Not available")));
+
+    var src = el("div", "row src");
+    src.appendChild(document.createTextNode("Source: "));
+    var a = document.createElement("a");
+    a.href = r.source_url || "#";
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+    a.textContent = r.source_host || r.source_url || "";
+    a.title = r.source_url || "";
+    src.appendChild(a);
+    src.appendChild(extIcon());
+    c.appendChild(src);
+    return c;
+  }
+
+  function textCard(text) {
+    var c = el("div", "card");
+    c.appendChild(el("div", "row txt", String(text == null ? "" : text)));
+    return c;
+  }
+
+  function addBot(data) {
+    var wrap = el("div", "msg bot");
+    wrap.appendChild(el("div", "who", "AI Assistant"));
+
+    var results = data.results || [];
+    if (results.length) {
+      if (data.caption) wrap.appendChild(el("div", "caption", data.caption));
+      results.forEach(function (r) { wrap.appendChild(card(r)); });
+    } else {
+      wrap.appendChild(textCard(data.text != null ? data.text : data.answer));
+    }
+
+    messagesEl.appendChild(wrap);
+    scrollToBottom();
+    return wrap;
+  }
+
+  function addUser(text) {
+    var m = el("div", "msg user", text);
+    messagesEl.appendChild(m);
+    scrollToBottom();
+    return m;
+  }
+
+  function addTyping() {
+    var wrap = el("div", "msg bot");
+    wrap.appendChild(el("div", "who", "AI Assistant"));
+    wrap.appendChild(textCard("Thinking..."));
+    messagesEl.appendChild(wrap);
+    scrollToBottom();
+    return wrap;
+  }
+
+  function checkHealth() {
+    fetch("/health").then(function (r) { return r.json(); }).then(function (d) {
+      var st = document.getElementById("status");
+      var dot = document.getElementById("statusDot");
+      var txt = document.getElementById("statusText");
+      if (d.status === "ok") {
+        st.className = "status";
+        dot.className = "dot";
+        txt.textContent = "Online";
+      } else {
+        st.className = "status offline";
+        dot.className = "dot err";
+        txt.textContent = "Offline";
+      }
+    }).catch(function () {
+      document.getElementById("status").className = "status offline";
+      document.getElementById("statusDot").className = "dot err";
+      document.getElementById("statusText").textContent = "Offline";
+    });
+  }
+
+  document.getElementById("composer").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var q = inputEl.value.trim();
+    if (!q) return;
+
+    inputEl.value = "";
+    sendBtn.disabled = true;
+    addUser(q);
+    var typing = addTyping();
+
+    fetch("/chat", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question: q })
+    }).then(function (r) { return r.json(); }).then(function (data) {
+      typing.remove();
+      addBot({
+        caption: data.caption || "",
+        results: data.results || [],
+        answer: data.answer || "No answer"
+      });
+    }).catch(function () {
+      typing.remove();
+      addBot({ caption: "", results: [], answer: "Error: could not reach the server. Please try again." });
+    }).finally(function () {
+      sendBtn.disabled = false;
+      inputEl.focus();
+    });
+  });
+
+  checkHealth();
+  addBot({
+    caption: "",
+    results: [],
+    text: "Hello! Ask me anything about DarGlobal projects or Wasalt listings. Answers come only from scraped data."
+  });
+})();
+</script>
+</body>
+</html>

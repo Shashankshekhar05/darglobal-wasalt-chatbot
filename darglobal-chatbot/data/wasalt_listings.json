@@ -1,0 +1,1462 @@
+[
+  {
+    "title": "Apartment 675 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 340000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-675-sqm-with-3-bedrooms-5879365",
+    "scraped_at": "2026-11-18T15:49:41Z"
+  },
+  {
+    "title": "Floor 231.25 SQM with 3 Bedrooms",
+    "city": "Khamis Mushait",
+    "price_sar": 650,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-23125-sqm-with-3-bedrooms-5874934",
+    "scraped_at": "2026-11-18T15:50:59Z"
+  },
+  {
+    "title": "Apartment 600 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 330000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-600-sqm-with-3-bedrooms-5878850",
+    "scraped_at": "2026-11-18T15:51:04Z"
+  },
+  {
+    "title": "Apartment 183.24 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 800000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-18324-sqm-with-4-bedrooms-5883079",
+    "scraped_at": "2026-11-18T15:51:08Z"
+  },
+  {
+    "title": "Apartment 170.24 SQM with 5 Bedrooms",
+    "city": "Aldammam",
+    "price_sar": 490000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-17024-sqm-with-5-bedrooms-5875607",
+    "scraped_at": "2026-11-18T15:51:12Z"
+  },
+  {
+    "title": "Floor 169.88 SQM with 6 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 900000,
+    "bedrooms": 6,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-16988-sqm-with-6-bedrooms-5877216",
+    "scraped_at": "2026-11-18T15:51:17Z"
+  },
+  {
+    "title": "Land 600 SQM Facing East on 28m Width Street",
+    "city": "Diriyah",
+    "price_sar": 1800000,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-600-sqm-facing-east-on-28m-width-street-5876489",
+    "scraped_at": "2026-11-18T15:51:23Z"
+  },
+  {
+    "title": "Apartment 138 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 930000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-138-sqm-with-3-bedrooms-5872387",
+    "scraped_at": "2026-11-18T15:51:27Z"
+  },
+  {
+    "title": "Building 1400 SQM Facing West",
+    "city": "Riyadh",
+    "price_sar": 28500000,
+    "bedrooms": "Not available",
+    "type": "Building",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/building-1400-sqm-facing-west-5870974",
+    "scraped_at": "2026-11-18T15:51:31Z"
+  },
+  {
+    "title": "Apartment with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 900000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-3-bedrooms-5846147",
+    "scraped_at": "2026-11-18T15:51:36Z"
+  },
+  {
+    "title": "Floor 191 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 680000,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-191-sqm-with-3-bedrooms-5861184",
+    "scraped_at": "2026-11-18T15:51:44Z"
+  },
+  {
+    "title": "Land 750 SQM Facing West on 40m Width Street",
+    "city": "Madinah",
+    "price_sar": 513000,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-750-sqm-facing-west-on-40m-width-street-5863021",
+    "scraped_at": "2026-11-18T15:51:47Z"
+  },
+  {
+    "title": "Floor 161 SQM with 5 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 700000,
+    "bedrooms": 5,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-161-sqm-with-5-bedrooms-5853596",
+    "scraped_at": "2026-11-18T15:51:50Z"
+  },
+  {
+    "title": "Apartment 166 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 900000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-166-sqm-with-3-bedrooms-5848896",
+    "scraped_at": "2026-11-18T15:51:55Z"
+  },
+  {
+    "title": "Villa 306 SQM Facing East on 25m Width Street",
+    "city": "Riyadh",
+    "price_sar": 3100000,
+    "bedrooms": 5,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-306-sqm-facing-east-on-25m-width-street-5850992",
+    "scraped_at": "2026-11-18T15:52:03Z"
+  },
+  {
+    "title": "Apartment with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 880000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-4-bedrooms-5845345",
+    "scraped_at": "2026-11-18T15:52:06Z"
+  },
+  {
+    "title": "Apartment 1225 SQM with 2 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 800000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-1225-sqm-with-2-bedrooms-5843202",
+    "scraped_at": "2026-11-18T15:52:11Z"
+  },
+  {
+    "title": "Floor 168 SQM with 7 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 1250000,
+    "bedrooms": 7,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-168-sqm-with-7-bedrooms-5866018",
+    "scraped_at": "2026-11-18T15:52:15Z"
+  },
+  {
+    "title": "Land 525 SQM Facing South on 15m Width Street",
+    "city": "Jeddah",
+    "price_sar": 1250000,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-525-sqm-facing-south-on-15m-width-street-5864803",
+    "scraped_at": "2026-11-18T15:52:18Z"
+  },
+  {
+    "title": "Apartment with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 349000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-3-bedrooms-5892108",
+    "scraped_at": "2026-11-18T15:52:22Z"
+  },
+  {
+    "title": "Building 72.41 SQM Facing North",
+    "city": "Riyadh",
+    "price_sar": 11500000,
+    "bedrooms": "Not available",
+    "type": "Building",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/building-7241-sqm-facing-north-5888647",
+    "scraped_at": "2026-11-18T15:52:28Z"
+  },
+  {
+    "title": "Apartment 153.8 SQM with 4 Bedrooms",
+    "city": "Khobar",
+    "price_sar": 600000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-1538-sqm-with-4-bedrooms-5890326",
+    "scraped_at": "2026-11-18T15:52:31Z"
+  },
+  {
+    "title": "Apartment 625 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 330000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-625-sqm-with-3-bedrooms-5890237",
+    "scraped_at": "2026-11-18T15:52:48Z"
+  },
+  {
+    "title": "Building 96.34 SQM Facing East",
+    "city": "Riyadh",
+    "price_sar": 7500000,
+    "bedrooms": "Not available",
+    "type": "Building",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/building-9634-sqm-facing-east-5893138",
+    "scraped_at": "2026-11-18T15:52:53Z"
+  },
+  {
+    "title": "Floor 236.18 SQM with 6 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 1300000,
+    "bedrooms": 6,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-23618-sqm-with-6-bedrooms-5885290",
+    "scraped_at": "2026-11-18T15:52:57Z"
+  },
+  {
+    "title": "Villa 300 SQM Facing South on 15m Width Street",
+    "city": "Riyadh",
+    "price_sar": 3400000,
+    "bedrooms": 5,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-300-sqm-facing-south-on-15m-width-street-5886082",
+    "scraped_at": "2026-11-18T15:52:59Z"
+  },
+  {
+    "title": "Apartment 126.64 SQM with 5 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 950000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-12664-sqm-with-5-bedrooms-5888153",
+    "scraped_at": "2026-11-18T15:53:03Z"
+  },
+  {
+    "title": "Apartment 780 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 479000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-780-sqm-with-3-bedrooms-5884863",
+    "scraped_at": "2026-11-18T15:53:08Z"
+  },
+  {
+    "title": "Apartment 625 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 569000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-625-sqm-with-2-bedrooms-5895596",
+    "scraped_at": "2026-11-18T15:53:12Z"
+  },
+  {
+    "title": "Apartment 1588.8 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 350001,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-15888-sqm-with-3-bedrooms-5898897",
+    "scraped_at": "2026-11-18T15:53:15Z"
+  },
+  {
+    "title": "Apartment 750 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 385001,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-750-sqm-with-3-bedrooms-5899087",
+    "scraped_at": "2026-11-18T15:53:19Z"
+  },
+  {
+    "title": "Apartment 1588.8 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 289000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-15888-sqm-with-2-bedrooms-5902656",
+    "scraped_at": "2026-11-18T15:53:21Z"
+  },
+  {
+    "title": "Apartment 180.75 SQM with 5 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 660000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-18075-sqm-with-5-bedrooms-5898092",
+    "scraped_at": "2026-11-18T15:53:24Z"
+  },
+  {
+    "title": "Apartment 825 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 900000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-825-sqm-with-3-bedrooms-5901587",
+    "scraped_at": "2026-11-18T15:53:28Z"
+  },
+  {
+    "title": "Land 1253 SQM Facing North West on 30m Width Street",
+    "city": "Aldammam",
+    "price_sar": 4761400,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-1253-sqm-facing-north-west-on-30m-width-street-5903837",
+    "scraped_at": "2026-11-18T15:53:31Z"
+  },
+  {
+    "title": "Apartment 780 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 357000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-780-sqm-with-3-bedrooms-5904456",
+    "scraped_at": "2026-11-18T15:53:34Z"
+  },
+  {
+    "title": "Apartment 2250 SQM with 5 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 630000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-2250-sqm-with-5-bedrooms-5899719",
+    "scraped_at": "2026-11-18T15:53:37Z"
+  },
+  {
+    "title": "Apartment 612.5 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 385000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-6125-sqm-with-3-bedrooms-5899883",
+    "scraped_at": "2026-11-18T15:53:41Z"
+  },
+  {
+    "title": "Villa 177.5 SQM Facing South on 20m Width Street",
+    "city": "Riyadh",
+    "price_sar": 1000000,
+    "bedrooms": 5,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-1775-sqm-facing-south-on-20m-width-street-5897462",
+    "scraped_at": "2026-11-18T15:53:44Z"
+  },
+  {
+    "title": "Apartment 600 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 295000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-600-sqm-with-2-bedrooms-5900692",
+    "scraped_at": "2026-11-18T15:53:48Z"
+  },
+  {
+    "title": "Apartment 702.1 SQM with 4 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 420000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-7021-sqm-with-4-bedrooms-5894656",
+    "scraped_at": "2026-11-18T15:53:52Z"
+  },
+  {
+    "title": "Apartment 840 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 359000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-840-sqm-with-3-bedrooms-5895490",
+    "scraped_at": "2026-11-18T15:53:56Z"
+  },
+  {
+    "title": "Apartment 2250 SQM with 4 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 409000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-2250-sqm-with-4-bedrooms-5910819",
+    "scraped_at": "2026-11-18T15:53:59Z"
+  },
+  {
+    "title": "Apartment 3179.04 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 359000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-317904-sqm-with-3-bedrooms-5909629",
+    "scraped_at": "2026-11-18T15:54:03Z"
+  },
+  {
+    "title": "Apartment 131.64 SQM with 4 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 670000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-13164-sqm-with-4-bedrooms-5905684",
+    "scraped_at": "2026-11-18T15:54:06Z"
+  },
+  {
+    "title": "Land 600 SQM Facing East on 15m Width Street",
+    "city": "Khalis",
+    "price_sar": 230400,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-600-sqm-facing-east-on-15m-width-street-5908414",
+    "scraped_at": "2026-11-18T15:54:10Z"
+  },
+  {
+    "title": "Apartment 2645.07 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 340001,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-264507-sqm-with-3-bedrooms-5912806",
+    "scraped_at": "2026-11-18T15:54:14Z"
+  },
+  {
+    "title": "Floor 153.8 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 696000,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-1538-sqm-with-3-bedrooms-5907857",
+    "scraped_at": "2026-11-18T15:54:18Z"
+  },
+  {
+    "title": "Apartment 1055 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 585000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-1055-sqm-with-3-bedrooms-5905044",
+    "scraped_at": "2026-11-18T15:54:22Z"
+  },
+  {
+    "title": "Apartment 271.12 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 1600000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-27112-sqm-with-4-bedrooms-5913678",
+    "scraped_at": "2026-11-18T15:54:25Z"
+  },
+  {
+    "title": "Land 878.4 SQM Facing South on 30m Width Street",
+    "city": "Riyadh",
+    "price_sar": 1537200000,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-8784-sqm-facing-south-on-30m-width-street-5916060",
+    "scraped_at": "2026-11-18T15:54:29Z"
+  },
+  {
+    "title": "Apartment 625 SQM with 5 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 799000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-625-sqm-with-5-bedrooms-5916947",
+    "scraped_at": "2026-11-18T15:54:33Z"
+  },
+  {
+    "title": "Floor 185.16 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 550000,
+    "bedrooms": 4,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-18516-sqm-with-4-bedrooms-5914969",
+    "scraped_at": "2026-11-18T15:54:37Z"
+  },
+  {
+    "title": "Land 1950 SQM Facing North on 40m Width Street",
+    "city": "Khobar",
+    "price_sar": 4999800,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-1950-sqm-facing-north-on-40m-width-street-5915847",
+    "scraped_at": "2026-11-18T15:54:41Z"
+  },
+  {
+    "title": "Apartment 2483.5 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 549000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-24835-sqm-with-2-bedrooms-5916506",
+    "scraped_at": "2026-11-18T15:54:44Z"
+  },
+  {
+    "title": "Apartment 630 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 505000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-630-sqm-with-3-bedrooms-5914300",
+    "scraped_at": "2026-11-18T15:54:48Z"
+  },
+  {
+    "title": "Villa 242.23 SQM Facing South on 20m Width Street",
+    "city": "Riyadh",
+    "price_sar": 1200000,
+    "bedrooms": 7,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-24223-sqm-facing-south-on-20m-width-street-5919857",
+    "scraped_at": "2026-11-18T15:54:52Z"
+  },
+  {
+    "title": "Apartment with 5 Bedrooms",
+    "city": "Makkah Al Mukarramah",
+    "price_sar": 480000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-with-5-bedrooms-5831755",
+    "scraped_at": "2026-11-18T15:54:55Z"
+  },
+  {
+    "title": "Villa 393 SQM Facing East on 20m Width Street",
+    "city": "Riyadh",
+    "price_sar": 2200000,
+    "bedrooms": 5,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-393-sqm-facing-east-on-20m-width-street-5829386",
+    "scraped_at": "2026-11-18T15:54:59Z"
+  },
+  {
+    "title": "Floor 199 SQM with 5 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 800000,
+    "bedrooms": 5,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-199-sqm-with-5-bedrooms-5821522",
+    "scraped_at": "2026-11-18T15:55:04Z"
+  },
+  {
+    "title": "Rest House 999 SQM Facing North on 30m Width Street",
+    "city": "Riyadh",
+    "price_sar": 4500000,
+    "bedrooms": 4,
+    "type": "Rest House",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/rest-house-99995-sqm-facing-north-on-30m-width-street-5815439",
+    "scraped_at": "2026-11-18T15:55:14Z"
+  },
+  {
+    "title": "Land 700 SQM Facing West",
+    "city": "Madinah",
+    "price_sar": 550000,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-700-sqm-facing-west-5818506",
+    "scraped_at": "2026-11-18T15:55:17Z"
+  },
+  {
+    "title": "Apartment 106.73 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 530000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-10673-sqm-with-3-bedrooms-5908717",
+    "scraped_at": "2026-11-18T15:55:21Z"
+  },
+  {
+    "title": "Apartment 110.55 SQM with 2 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 760000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-11055-sqm-with-2-bedrooms-5910740",
+    "scraped_at": "2026-11-18T15:55:26Z"
+  },
+  {
+    "title": "Land 762.43 SQM Facing West on 25m Width Street",
+    "city": "Jeddah",
+    "price_sar": 762430,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/land-76243-sqm-facing-west-on-25m-width-street-5931967",
+    "scraped_at": "2026-11-18T15:55:30Z"
+  },
+  {
+    "title": "Apartment 175.3 SQM with 5 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 620000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-1753-sqm-with-5-bedrooms-5920941",
+    "scraped_at": "2026-11-18T15:55:34Z"
+  },
+  {
+    "title": "Villa 313.41 SQM Facing North on 15m Width Street",
+    "city": "Qatif",
+    "price_sar": 2600000,
+    "bedrooms": 6,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-31341-sqm-facing-north-on-15m-width-street-5922587",
+    "scraped_at": "2026-11-18T15:55:39Z"
+  },
+  {
+    "title": "Floor 161.58 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 1675000,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-16158-sqm-with-3-bedrooms-5931386",
+    "scraped_at": "2026-11-18T15:55:43Z"
+  },
+  {
+    "title": "Apartment 690 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 275000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-690-sqm-with-2-bedrooms-5927787",
+    "scraped_at": "2026-11-18T15:55:47Z"
+  },
+  {
+    "title": "Floor 172.61 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 550000,
+    "bedrooms": 4,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-17261-sqm-with-4-bedrooms-5937909",
+    "scraped_at": "2026-11-18T15:55:50Z"
+  },
+  {
+    "title": "Apartment 152.64 SQM with 5 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 610000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-15264-sqm-with-5-bedrooms-5934172",
+    "scraped_at": "2026-11-18T15:55:54Z"
+  },
+  {
+    "title": "Apartment 101.64 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 620000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/apartment-10164-sqm-with-2-bedrooms-5926860",
+    "scraped_at": "2026-11-18T15:56:00Z"
+  },
+  {
+    "title": "Villa 230.19 SQM Facing North on 15m Width Street",
+    "city": "Riyadh",
+    "price_sar": 1800000,
+    "bedrooms": 7,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-23019-sqm-facing-north-on-15m-width-street-5923303",
+    "scraped_at": "2026-11-18T15:56:05Z"
+  },
+  {
+    "title": "Floor 238.3 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 950000,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/floor-2383-sqm-with-3-bedrooms-5921149",
+    "scraped_at": "2026-11-18T15:56:10Z"
+  },
+  {
+    "title": "Building 432.01 SQM Facing North",
+    "city": "Makkah Al Mukarramah",
+    "price_sar": 1250000,
+    "bedrooms": "Not available",
+    "type": "Building",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/building-43201-sqm-facing-north-5929795",
+    "scraped_at": "2026-11-18T15:56:13Z"
+  },
+  {
+    "title": "Villa 351 SQM Facing North on 17m Width Street",
+    "city": "Riyadh",
+    "price_sar": 2000000,
+    "bedrooms": 6,
+    "type": "Villa",
+    "listing_type": "sale",
+    "source_url": "https://wasalt.sa/en/property/sale/villa-351-sqm-facing-north-on-17m-width-street-5921562",
+    "scraped_at": "2026-11-18T15:56:17Z"
+  },
+  {
+    "title": "Apartment 119.17 SQM with 3 Bedrooms",
+    "city": "Khobar",
+    "price_sar": 38000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-11917-sqm-with-3-bedrooms-5879383",
+    "scraped_at": "2026-11-18T15:56:20Z"
+  },
+  {
+    "title": "Apartment 500 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 24000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-500-sqm-with-2-bedrooms-5881485",
+    "scraped_at": "2026-11-18T15:56:25Z"
+  },
+  {
+    "title": "Building 165 SQM Facing West",
+    "city": "Riyadh",
+    "price_sar": 80000,
+    "bedrooms": "Not available",
+    "type": "Building",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/building-165-sqm-facing-west-5874860",
+    "scraped_at": "2026-11-18T15:56:31Z"
+  },
+  {
+    "title": "Apartment 45 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 20000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-45-sqm-with-1-bedroom-5879803",
+    "scraped_at": "2026-11-18T15:56:37Z"
+  },
+  {
+    "title": "Apartment 525 SQM with 1 Bedroom",
+    "city": "Jeddah",
+    "price_sar": 2500,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-525-sqm-with-1-bedroom-5882905",
+    "scraped_at": "2026-11-18T15:56:42Z"
+  },
+  {
+    "title": "Apartment 100 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 2500,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-100-sqm-with-1-bedroom-5868998",
+    "scraped_at": "2026-11-18T15:56:46Z"
+  },
+  {
+    "title": "Apartment 300 SQM with 1 Bedroom",
+    "city": "Jeddah",
+    "price_sar": 44400,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-300-sqm-with-1-bedroom-5872451",
+    "scraped_at": "2026-11-18T15:56:51Z"
+  },
+  {
+    "title": "Apartment 70 SQM with 2 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 3000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-70-sqm-with-2-bedrooms-5865617",
+    "scraped_at": "2026-11-18T15:56:54Z"
+  },
+  {
+    "title": "Apartment 145 SQM with 3 Bedrooms",
+    "city": "Khobar",
+    "price_sar": 45000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-145-sqm-with-3-bedrooms-5867991",
+    "scraped_at": "2026-11-18T15:57:01Z"
+  },
+  {
+    "title": "Furnished Apartment",
+    "city": "Jeddah",
+    "price_sar": 114000,
+    "bedrooms": "Not available",
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/furnished-apartment-5883728",
+    "scraped_at": "2026-11-18T15:57:06Z"
+  },
+  {
+    "title": "Apartment 150 SQM with 2 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 38000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-150-sqm-with-2-bedrooms-5855568",
+    "scraped_at": "2026-11-18T15:57:10Z"
+  },
+  {
+    "title": "Apartment 525 SQM with 1 Bedroom",
+    "city": "Jeddah",
+    "price_sar": 2500,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-525-sqm-with-1-bedroom-5862559",
+    "scraped_at": "2026-11-18T15:57:19Z"
+  },
+  {
+    "title": "Apartment 70 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 40000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-70-sqm-with-1-bedroom-5863552",
+    "scraped_at": "2026-11-18T15:57:24Z"
+  },
+  {
+    "title": "Floor 350 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 100000,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/floor-350-sqm-with-3-bedrooms-5854640",
+    "scraped_at": "2026-11-18T15:57:26Z"
+  },
+  {
+    "title": "Apartment 720 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 4000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-720-sqm-with-3-bedrooms-5850566",
+    "scraped_at": "2026-11-18T15:57:30Z"
+  },
+  {
+    "title": "Apartment with 1 Bedroom",
+    "city": "Al Kharj",
+    "price_sar": 24000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-1-bedroom-5846463",
+    "scraped_at": "2026-11-18T15:57:34Z"
+  },
+  {
+    "title": "Apartment 100 SQM with 2 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 51000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-100-sqm-with-2-bedrooms-5866430",
+    "scraped_at": "2026-11-18T15:57:37Z"
+  },
+  {
+    "title": "Apartment with 1 Bedroom",
+    "city": "Jeddah",
+    "price_sar": 36000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-1-bedroom-5866776",
+    "scraped_at": "2026-11-18T15:57:42Z"
+  },
+  {
+    "title": "Apartment 900 SQM with 5 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 43000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-900-sqm-with-5-bedrooms-5891667",
+    "scraped_at": "2026-11-18T15:57:47Z"
+  },
+  {
+    "title": "Furnished Apartment",
+    "city": "Riyadh",
+    "price_sar": 165000,
+    "bedrooms": "Not available",
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/furnished-apartment-5892309",
+    "scraped_at": "2026-11-18T15:57:52Z"
+  },
+  {
+    "title": "Apartment 100 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 25000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-100-sqm-with-1-bedroom-5888377",
+    "scraped_at": "2026-11-18T15:57:56Z"
+  },
+  {
+    "title": "Apartment with 1 Bedroom",
+    "city": "Jeddah",
+    "price_sar": 27000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-1-bedroom-5885819",
+    "scraped_at": "2026-11-18T15:58:00Z"
+  },
+  {
+    "title": "Apartment 60 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 54000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-60-sqm-with-1-bedroom-5893163",
+    "scraped_at": "2026-11-18T15:58:07Z"
+  },
+  {
+    "title": "Room for Rent",
+    "city": "Riyadh",
+    "price_sar": 33000,
+    "bedrooms": "Not available",
+    "type": "Room",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/room-for-rent-5893792",
+    "scraped_at": "2026-11-18T15:58:10Z"
+  },
+  {
+    "title": "Apartment 145.36 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 60000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-14536-sqm-with-4-bedrooms-5886829",
+    "scraped_at": "2026-11-18T15:58:14Z"
+  },
+  {
+    "title": "Apartment 75 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 15000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-75-sqm-with-1-bedroom-5888190",
+    "scraped_at": "2026-11-18T15:58:18Z"
+  },
+  {
+    "title": "Apartment 400 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 35000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-400-sqm-with-3-bedrooms-5885691",
+    "scraped_at": "2026-11-18T15:58:23Z"
+  },
+  {
+    "title": "Apartment 3150 SQM with 2 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 65000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-3150-sqm-with-2-bedrooms-5898242",
+    "scraped_at": "2026-11-18T15:58:27Z"
+  },
+  {
+    "title": "Floor 234.46 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 62000,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/floor-23446-sqm-with-3-bedrooms-5902941",
+    "scraped_at": "2026-11-18T15:58:32Z"
+  },
+  {
+    "title": "Apartment 153.67 SQM with 3 Bedrooms",
+    "city": "Khobar",
+    "price_sar": 58000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-15367-sqm-with-3-bedrooms-5903349",
+    "scraped_at": "2026-11-18T15:58:35Z"
+  },
+  {
+    "title": "Apartment 60 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 54000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-60-sqm-with-1-bedroom-5896830",
+    "scraped_at": "2026-11-18T15:58:41Z"
+  },
+  {
+    "title": "Apartment 50 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 3000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-50-sqm-with-1-bedroom-5895394",
+    "scraped_at": "2026-11-18T15:58:46Z"
+  },
+  {
+    "title": "Apartment 204 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 18000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-204-sqm-with-1-bedroom-5905517",
+    "scraped_at": "2026-11-18T15:58:49Z"
+  },
+  {
+    "title": "Apartment 915 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 24000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-915-sqm-with-1-bedroom-5911421",
+    "scraped_at": "2026-11-18T15:58:55Z"
+  },
+  {
+    "title": "Apartment 360 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 26400,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-360-sqm-with-1-bedroom-5907911",
+    "scraped_at": "2026-11-18T15:58:57Z"
+  },
+  {
+    "title": "Apartment 104.42 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 70000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-10442-sqm-with-3-bedrooms-5907615",
+    "scraped_at": "2026-11-18T15:59:02Z"
+  },
+  {
+    "title": "Apartment 849 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 42000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-849-sqm-with-4-bedrooms-5912471",
+    "scraped_at": "2026-11-18T15:59:10Z"
+  },
+  {
+    "title": "Floor 500 SQM with 6 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 70000,
+    "bedrooms": 6,
+    "type": "Floor",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/floor-500-sqm-with-6-bedrooms-5908971",
+    "scraped_at": "2026-11-18T15:59:15Z"
+  },
+  {
+    "title": "Floor 133.95 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 70000,
+    "bedrooms": 3,
+    "type": "Floor",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/floor-13395-sqm-with-3-bedrooms-5913243",
+    "scraped_at": "2026-11-18T15:59:19Z"
+  },
+  {
+    "title": "Villa 203.5 SQM Facing North with 5 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 110000,
+    "bedrooms": 5,
+    "type": "Villa",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/villa-2035-sqm-facing-north-with-5-bedrooms-5915414",
+    "scraped_at": "2026-11-18T15:59:26Z"
+  },
+  {
+    "title": "Apartment 625 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 29000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-625-sqm-with-1-bedroom-5916112",
+    "scraped_at": "2026-11-18T15:59:31Z"
+  },
+  {
+    "title": "Villa 300 SQM Facing North with 7 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 80000,
+    "bedrooms": 7,
+    "type": "Villa",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/villa-300-sqm-facing-north-with-7-bedrooms-5917760",
+    "scraped_at": "2026-11-18T15:59:34Z"
+  },
+  {
+    "title": "Apartment 151.16 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 60000,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-15116-sqm-with-4-bedrooms-5918010",
+    "scraped_at": "2026-11-18T15:59:40Z"
+  },
+  {
+    "title": "Floor 167.04 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 66000,
+    "bedrooms": 4,
+    "type": "Floor",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/floor-16704-sqm-with-4-bedrooms-5918183",
+    "scraped_at": "2026-11-18T15:59:47Z"
+  },
+  {
+    "title": "Apartment 107 SQM with 3 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 36000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-107-sqm-with-3-bedrooms-5914518",
+    "scraped_at": "2026-11-18T15:59:53Z"
+  },
+  {
+    "title": "Floor 315 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 65000,
+    "bedrooms": 4,
+    "type": "Floor",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/floor-315-sqm-with-4-bedrooms-5920018",
+    "scraped_at": "2026-11-18T15:59:58Z"
+  },
+  {
+    "title": "Rest House 450 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 25000,
+    "bedrooms": 4,
+    "type": "Rest House",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/rest-house-450-sqm-with-4-bedrooms-5919363",
+    "scraped_at": "2026-11-18T16:00:02Z"
+  },
+  {
+    "title": "Apartment with 1 Bedroom",
+    "city": "Jeddah",
+    "price_sar": 48000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-1-bedroom-5827121",
+    "scraped_at": "2026-11-18T16:00:07Z"
+  },
+  {
+    "title": "Apartment with 2 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 60000,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-2-bedrooms-5819732",
+    "scraped_at": "2026-11-18T16:00:11Z"
+  },
+  {
+    "title": "Apartment with 2 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 4800,
+    "bedrooms": 2,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-2-bedrooms-5837693",
+    "scraped_at": "2026-11-18T16:00:16Z"
+  },
+  {
+    "title": "Apartment 138 SQM with 1 Bedroom",
+    "city": "Khobar",
+    "price_sar": 25000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-138-sqm-with-1-bedroom-5910088",
+    "scraped_at": "2026-11-18T16:00:29Z"
+  },
+  {
+    "title": "Building 80.85 SQM Facing North",
+    "city": "Riyadh",
+    "price_sar": 100000,
+    "bedrooms": "Not available",
+    "type": "Building",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/building-8085-sqm-facing-north-5910473",
+    "scraped_at": "2026-11-18T16:00:35Z"
+  },
+  {
+    "title": "Floor 900 SQM with 4 Bedrooms",
+    "city": "Jeddah",
+    "price_sar": 80000,
+    "bedrooms": 4,
+    "type": "Floor",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/floor-900-sqm-with-4-bedrooms-5932626",
+    "scraped_at": "2026-11-18T16:00:38Z"
+  },
+  {
+    "title": "Apartment 625 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 42000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-625-sqm-with-3-bedrooms-5920826",
+    "scraped_at": "2026-11-18T16:00:43Z"
+  },
+  {
+    "title": "Apartment 528.75 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 27600,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-52875-sqm-with-3-bedrooms-5922794",
+    "scraped_at": "2026-11-18T16:00:47Z"
+  },
+  {
+    "title": "Villa 434 SQM Facing North with 5 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 160000,
+    "bedrooms": 5,
+    "type": "Villa",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/villa-434-sqm-facing-north-with-5-bedrooms-5930671",
+    "scraped_at": "2026-11-18T16:00:51Z"
+  },
+  {
+    "title": "Apartment 300 SQM with 4 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 3500,
+    "bedrooms": 4,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-300-sqm-with-4-bedrooms-5931240",
+    "scraped_at": "2026-11-18T16:00:55Z"
+  },
+  {
+    "title": "Apartment 131.77 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 85000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-13177-sqm-with-3-bedrooms-5924657",
+    "scraped_at": "2026-11-18T16:01:03Z"
+  },
+  {
+    "title": "Apartment 124.06 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 49000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-12406-sqm-with-3-bedrooms-5937359",
+    "scraped_at": "2026-11-18T16:01:09Z"
+  },
+  {
+    "title": "Apartment 120.18 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 70000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-12018-sqm-with-3-bedrooms-5938178",
+    "scraped_at": "2026-11-18T16:01:11Z"
+  },
+  {
+    "title": "Apartment 100 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 3500,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-100-sqm-with-1-bedroom-5935253",
+    "scraped_at": "2026-11-18T16:01:14Z"
+  },
+  {
+    "title": "Apartment 100 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 32000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-100-sqm-with-1-bedroom-5935305",
+    "scraped_at": "2026-11-18T16:01:17Z"
+  },
+  {
+    "title": "Apartment with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 30000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-1-bedroom-5926950",
+    "scraped_at": "2026-11-18T16:01:21Z"
+  },
+  {
+    "title": "Apartment 125.79 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 80000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-12579-sqm-with-3-bedrooms-5925337",
+    "scraped_at": "2026-11-18T16:01:24Z"
+  },
+  {
+    "title": "Land 430 SQM Facing West",
+    "city": "Riyadh",
+    "price_sar": 60200,
+    "bedrooms": "Not available",
+    "type": "Land",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/land-430-sqm-facing-west-5922941",
+    "scraped_at": "2026-11-18T16:01:29Z"
+  },
+  {
+    "title": "Apartment with 1 Bedroom",
+    "city": "Khobar",
+    "price_sar": 36000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-with-1-bedroom-5923164",
+    "scraped_at": "2026-11-18T16:01:34Z"
+  },
+  {
+    "title": "Apartment 137.16 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 69000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-13716-sqm-with-3-bedrooms-5921085",
+    "scraped_at": "2026-11-18T16:01:39Z"
+  },
+  {
+    "title": "Apartment 144.48 SQM with 3 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 70000,
+    "bedrooms": 3,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-14448-sqm-with-3-bedrooms-5920779",
+    "scraped_at": "2026-11-18T16:01:44Z"
+  },
+  {
+    "title": "Apartment 108.49 SQM with 5 Bedrooms",
+    "city": "Riyadh",
+    "price_sar": 50000,
+    "bedrooms": 5,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-10849-sqm-with-5-bedrooms-5921363",
+    "scraped_at": "2026-11-18T16:02:39Z"
+  },
+  {
+    "title": "Apartment 90 SQM with 1 Bedroom",
+    "city": "Riyadh",
+    "price_sar": 43000,
+    "bedrooms": 1,
+    "type": "Apartment",
+    "listing_type": "rent",
+    "source_url": "https://wasalt.sa/en/property/rent/apartment-90-sqm-with-1-bedroom-5940437",
+    "scraped_at": "2026-11-18T16:02:41Z"
+  }
+]

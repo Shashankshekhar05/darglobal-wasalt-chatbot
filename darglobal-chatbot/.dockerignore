@@ -1,0 +1,14 @@
+.env
+.git
+.gitignore
+__pycache__
+*.pyc
+*.log
+*.png
+*.html
+!app/static/index.html
+pilot_html
+scraper
+*.md
+.venv
+venv

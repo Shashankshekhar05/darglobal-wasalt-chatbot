@@ -1,0 +1,814 @@
+{
+  "_sentryTraceData": "6b1da826a92442548d3f76e2c3dd9fec-a610bed5803890de-1",
+  "_sentryBaggage": "sentry-environment=production,sentry-release=5kYIr8IQiEuReDiluh3aW,sentry-public_key=8439d36d8c454d3d84ea3f63853baee5,sentry-trace_id=6b1da826a92442548d3f76e2c3dd9fec,sentry-sample_rate=0.3,sentry-transaction=%2F,sentry-sampled=true",
+  "cmsData": {
+    "createdAt": "2026-03-11T14:04:11.121Z",
+    "updatedAt": "2026-10-13T03:31:26.291Z",
+    "publishedAt": "2026-03-11T14:04:16.543Z",
+    "vuid": "7a66d7e6-5b52-4dfb-aff7-5ec805e4a92d",
+    "versionNumber": 1,
+    "versionComment": null,
+    "isVisibleInListView": true,
+    "locale": "ar-SA",
+    "section_1_HeroSection": {
+      "id": 1,
+      "header": {
+        "id": 1,
+        "title": "وصلت - منصتك المتكاملة للخدمات العقارية في السعودية",
+        "subTitle": "استكشف عقارات موثقة، وتواصل مع خبراء عقاريين موثوقين، واكتشف فرصتك القادمة في المملكة العربية السعودية."
+      },
+      "heroImageMsite": {
+        "data": null
+      },
+      "heroImage": {
+        "data": null
+      }
+    },
+    "section_2_title": {
+      "id": 13,
+      "title": "ليش تختار وصلت؟",
+      "subTitle": "أدرج عقارك وتواصل مع المشترين والمستأجرين في جميع أنحاء المملكة العربية السعودية."
+    },
+    "section_2": [
+      {
+        "id": 26,
+        "heading": "عندك عقار للبيع أو الإيجار؟",
+        "content": "أعلن عن عقارك مع وصلت في خطوات بسيطة",
+        "buttontext": "إضافة إعلان",
+        "link": "https://business.wasalt.sa/",
+        "key": null,
+        "images": {
+          "url": "/cms-strapi/uploads/post-property-new.webp",
+          "alternativeText": null
+        }
+      },
+      {
+        "id": 27,
+        "heading": "عندك عقار للإيجار اليومي؟",
+        "content": "أضف عقارك الآن وأحصل على أرباح أسبوعية بأقل نسبة عمولة",
+        "buttontext": "سجل الآن",
+        "link": "/wb-daily-rentals",
+        "key": null,
+        "images": {
+          "url": "/cms-strapi/uploads/daily-rental.webp",
+          "alternativeText": null
+        }
+      }
+    ],
+    "section_3_title": {
+      "id": 12,
+      "title": "فرص عقارية مميزة في أشهر مدن السعودية",
+      "subTitle": "أكتشف العقارات في الرياض وجدة والمدينة وأشهر المدن الأخرى في السعودية "
+    },
+    "section_3_propertyTypes": [
+      {
+        "id": 3,
+        "title": "فلل للبيع في السعودية",
+        "subTitle": "أكتشف أحدث الفلل المتاحة للبيع في أشهر مدن السعودية",
+        "buttonText": "عرض الإعلانات",
+        "redirectSlug": "/sale/search?propertyFor=sale&countryId=1&type=residential&propertyTypeData=villa-townhouse",
+        "cityCard": [
+          {
+            "id": 9,
+            "city": "الرياض",
+            "slugTitle": "فيلا للبيع في الرياض",
+            "redirectSlug": "/فلل-للبيع-في-الرياض",
+            "image": {
+              "url": "/cms-strapi/uploads/villa-1.webp",
+              "alternativeText": null
+            }
+          },
+          {
+            "id": 10,
+            "city": "جدة",
+            "slugTitle": "فيلا للبيع في جدة",
+            "redirectSlug": "/فلل-للبيع-في-جدة",
+            "image": {
+              "url": "/cms-strapi/uploads/villa-2.webp",
+              "alternativeText": null
+            }
+          },
+          {
+            "id": 11,
+            "city": "مكة",
+            "slugTitle": "فيلا للبيع في مكة",
+            "redirectSlug": "/فلل-للبيع-في-مكة",
+            "image": {
+              "url": "/cms-strapi/uploads/villa-3.webp",
+              "alternativeText": null
+            }
+          },
+          {
+            "id": 12,
+            "city": "المدينة",
+            "slugTitle": "فيلا للبيع في المدينة",
+            "redirectSlug": "/فلل-للبيع-في-المدينة",
+            "image": {
+              "url": "/cms-strapi/uploads/villa-4.webp",
+              "alternativeText": null
+            }
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "شقق للبيع في السعودية",
+        "subTitle": "أكتشف أحدث الشقق المتاح للبيع في أشهر مدن السعودية",
+        "buttonText": "عرض الإعلانات",
+        "redirectSlug": "sale/search?propertyFor=sale&countryId=1&type=residential&propertyTypeData=apartment",
+        "cityCard": [
+          {
+            "id": 13,
+            "city": "الرياض",
+            "slugTitle": "شقة للبيع في الرياض",
+            "redirectSlug": "/شقق-للبيع-في-الرياض",
+            "image": {
+              "url": "/cms-strapi/uploads/apartment-1.webp",
+              "alternativeText": null
+            }
+          },
+          {
+            "id": 14,
+            "city": "جدة",
+            "slugTitle": "شقة للبيع في جدة",
+            "redirectSlug": "/شقق-للبيع-في-جدة",
+            "image": {
+              "url": "/cms-strapi/uploads/apartment-2.webp",
+              "alternativeText": null
+            }
+          },
+          {
+            "id": 15,
+            "city": "مكة",
+            "slugTitle": "شقة للبيع في مكة",
+            "redirectSlug": "/شقق-للبيع-في-مكة",
+            "image": {
+              "url": "/cms-strapi/uploads/apartment-3.webp",
+              "alternativeText": null
+            }
+          },
+          {
+            "id": 16,
+            "city": "المدينة",
+            "slugTitle": "شقة للبيع في المدينة",
+            "redirectSlug": "/شقق-للبيع-في-المدينة",
+            "image": {
+              "url": "/cms-strapi/uploads/apartment-4.webp",
+              "alternativeText": null
+            }
+          }
+        ]
+      }
+    ],
+    "section_4_projects": null,
+    "section_5": [
+      {
+        "id": 28,
+        "heading": "اعثر على استثمارك العقاري القادم",
+        "content": "تصفّح مشاريع عقارية موثقة واستثمر بثقة تامة",
+        "buttontext": "اكتشف المشاريع",
+        "link": "https://wasalt.com/en/s/masterplan",
+        "key": null,
+        "images": {
+          "url": "/cms-strapi/uploads/projects-ar.webp",
+          "alternativeText": null
+        }
+      },
+      {
+        "id": 29,
+        "heading": "اعثر على العقار المناسب لاحتياجاتك",
+        "content": "شارك متطلباتك وتواصل مع خبراء عقاريين مختصين.",
+        "buttontext": "أطلب وسيطك",
+        "link": "/post-requirement",
+        "key": "matchmaker",
+        "images": {
+          "url": "/cms-strapi/uploads/matchmaker.webp",
+          "alternativeText": null
+        }
+      }
+    ],
+    "section_6_auction": {
+      "id": 4,
+      "buttonTxt": "عرض كل المزادات",
+      "redirectUrl": "https://auction.wasalt.sa/",
+      "showDefaultBanner": true,
+      "promotionalAuctionBanner": [
+        {
+          "id": 39,
+          "redirectUrl": "https://auction.wasalt.sa/auction-group/1029",
+          "mobileBanner": {
+            "url": "/cms-strapi/uploads/mobile-1029.webp",
+            "alternativeText": null
+          },
+          "desktopBanner": {
+            "url": "/cms-strapi/uploads/homepage-1029.webp",
+            "alternativeText": null
+          }
+        }
+      ],
+      "defaultAuctionBannerMobile": {
+        "url": "/cms-strapi/uploads/IMG_6790.webp",
+        "alternativeText": null
+      },
+      "defaultAuctionBanner": {
+        "url": "/cms-strapi/uploads/IMG_6791.webp",
+        "alternativeText": null
+      },
+      "header": {
+        "id": 22,
+        "title": "اكتشف المزادات في المملكة العربية السعودية",
+        "subTitle": "شارك في مزادات إنفاذ والمزادات الخاصة في جميع أنحاء المملكة العربية السعودية، بما يشمل العقارات والمركبات والأصول المنقولة."
+      }
+    },
+    "section_7_promotionalBanner": [
+      {
+        "id": 2,
+        "cardData": {
+          "id": 30,
+          "heading": "اكتشف العقارات العالمية والفاخرة",
+          "content": "عقارات فاخرة تعكس ذوقك الرفيع من أشهر المطوريين العالميين",
+          "buttontext": "اكتشف المزيد",
+          "link": "https://cire-saudi.com/en",
+          "key": null,
+          "images": {
+            "url": "/cms-strapi/uploads/christies.webp",
+            "alternativeText": null
+          }
+        },
+        "logo": {
+          "url": "/cms-strapi/uploads/christies-logo.webp",
+          "alternativeText": null
+        }
+      }
+    ],
+    "section_8_international": {
+      "id": 3,
+      "buttonTxt": null,
+      "redirectUrl": "/international",
+      "header": {
+        "id": 14,
+        "title": "العقارات العالمية والفاخرة",
+        "subTitle": "تبحث عن عقار يعكس ذوقك الرفيع؟ أكتشف العقارات والمشاريع الفاخرة من أبرز المطوريين الدوليين"
+      }
+    },
+    "section_9_downloadApp": {
+      "id": 2,
+      "downloadCards": [
+        {
+          "id": 3,
+          "title": "أبحث عن العقارات بضغطة زر!",
+          "subTitle": "امسح رمز الإستجابة السريعة وحمّل التطبيق",
+          "redirectUrl": "https://apps.apple.com/in/app/wasalt/id1588885673?utm_source=Desktop&amp;utm_medium=Home&amp;utm_campaign=web_bottom_install_iOS",
+          "logo": {
+            "url": "/cms-strapi/uploads/ar-wasalt-app-icon.webp",
+            "alternativeText": null
+          },
+          "referenceImage": {
+            "url": "/cms-strapi/uploads/ar-wasalt-app.webp",
+            "alternativeText": null
+          },
+          "qrCodeImage": {
+            "url": "/cms-strapi/uploads/barcode-wasalt.webp",
+            "alternativeText": null
+          }
+        },
+        {
+          "id": 4,
+          "title": "تواصل مع العملاء وأدر أعملاك بكل سهولة!",
+          "subTitle": "امسح رمز الإستجابة السريعة وحمّل التطبيق",
+          "redirectUrl": "https://wasaltbusiness.onelink.me/kqgt/tz4114dl",
+          "logo": {
+            "url": "/cms-strapi/uploads/wb-arw3.webp",
+            "alternativeText": null
+          },
+          "referenceImage": {
+            "url": "/cms-strapi/uploads/ar-wb-app.webp",
+            "alternativeText": null
+          },
+          "qrCodeImage": {
+            "url": "/cms-strapi/uploads/barcode-wb.webp",
+            "alternativeText": null
+          }
+        }
+      ],
+      "header": {
+        "id": 16,
+        "title": "حمّل تطبيق وصلت ووصلت أعمال",
+        "subTitle": "حمّل التطبيق الآن واستمتع بتجربة بحث سريعة وسهلة"
+      }
+    },
+    "section_10_aboutWasalt": {
+      "id": 2,
+      "tag": "من نحن",
+      "description": "وصلت هي منصة عقارية سعودية تُسهّل عليك اكتشاف العقارات، واستكشاف الفرص، والتواصل مع خبراء العقار في جميع أنحاء المملكة. سواء كنت تبحث عن الشراء أو الإيجار أو البيع أو الاستثمار، توفر لك وصلت العقارات المناسبة، والمعلومات، والخدمات في مكان واحد.",
+      "image": {
+        "url": "/cms-strapi/uploads/about-us-homepage.webp",
+        "alternativeText": null
+      },
+      "header": {
+        "id": 17,
+        "title": "وصلت - رائدة الخدمات العقارية في السعودية",
+        "subTitle": "أول منصة عقار سعودية بالذكاء الاصطناعي!"
+      }
+    },
+    "section_10_licensors": [
+      {
+        "id": 3,
+        "licensorName": "منصة مرخصة من الهيئة العامة للعقار",
+        "pdfUrl": "https://cdn.wasalt.sa/license/license-wasalt.pdf",
+        "licenseInfo": [
+          {
+            "id": 5,
+            "infoType": "رقم الرخصة:",
+            "infoValue": "1200016591"
+          }
+        ],
+        "logo": {
+          "url": "/cms-strapi/uploads/rega.webp",
+          "alternativeText": null
+        }
+      },
+      {
+        "id": 4,
+        "licensorName": "منصة مرخصة من وزارة السياحة",
+        "pdfUrl": "https://cdn.wasalt.sa/license/ministryOfTourismPdf.pdf",
+        "licenseInfo": [
+          {
+            "id": 6,
+            "infoType": "رقم الرخصة:",
+            "infoValue": "73106008"
+          },
+          {
+            "id": 7,
+            "infoType": "الفئة:",
+            "infoValue": "حجز وحدات الضيافه"
+          },
+          {
+            "id": 8,
+            "infoType": "رقم السجل التجاري: ",
+            "infoValue": "7017195509 "
+          }
+        ],
+        "logo": {
+          "data": null
+        }
+      }
+    ],
+    "section_11_reviews": null,
+    "section_12_articles": {
+      "id": 4,
+      "buttonTxt": "عرض الكل",
+      "redirectUrl": "https://blog.wasalt.sa/",
+      "header": {
+        "id": 15,
+        "title": "أحدث المقالات والأخبار العقارية",
+        "subTitle": "ابق على إطلاع بأحدث الأخبار العقارية في السعودية"
+      }
+    },
+    "Faq": {
+      "id": 6,
+      "title": "الأسئلة الشائعة",
+      "subTitle": "الأسئلة الشائعة حول وصلت والخدمات المقدمة",
+      "Questions": [
+        {
+          "id": 43,
+          "question": " ما هي منصة وصلت؟",
+          "answer": "وصلت هي منصة رائدة في المملكة العربية السعودية للخدمات العقارية الإلكترونية، مرخّصة من الهيئة العامة للعقار (REGA)."
+        },
+        {
+          "id": 44,
+          "question": "كيف يمكنني الإعلان عن عقاري على وصلت؟",
+          "answer": "للإعلن عن عقارك على وصلت، قم أولاً بإنشاء حساب، ثم أدخل تفاصيل العقار، وارفع الصور، وحدد السعر. يمكنك تنفيذ ذلك بسهولة عبر تطبيق وصلت، أو تطبيق وصلت أعمال، أو من خلال الموقع الإلكتروني."
+        },
+        {
+          "id": 45,
+          "question": "كيف اسجل الدخول إلى حسابي على وصلت؟",
+          "answer": "اضغط على أيقونة الملف الشخصي (أعلى اليسار في الموقع أو عبر القائمة الجانبية في التطبيق)، ثم أدخل رقم الجوال وأكمل عملية التحقق."
+        },
+        {
+          "id": 46,
+          "question": " ما هي مزادات وصلت؟",
+          "answer": "مزادات وصلت هي خدمة تتيح بيع الأصول العقارية عبر مزادات إلكترونية محددة بوقت، حيث يتنافس المزايدون للوصول إلى السعر النهائي للبيع. وتشمل المزادات أصولاً من ملاك أفراد وأخرى بالتعاون مع مركز الإسناد والتصفية (إنفاذ)."
+        },
+        {
+          "id": 47,
+          "question": " ما هي خدمة الطلبات العقارية وكيف تعمل؟",
+          "answer": "تساعدك خدمة الطلبات العقارية في العثور على العملاء المحتملين بناءً على إعلاناتك النشطة، حيث تتم مطابقة الطلبات وفق نوع العقار، والغرض منه، والحي، وتصنيف العقار. وبعد نشر إعلانك، ستظهر لك الطلبات المتوافقة لتسهيل التواصل مع العملاء المناسبين."
+        },
+        {
+          "id": 48,
+          "question": " ما هي الخدمات العقارية التي تقدمها وصلت؟",
+          "answer": "وصلت منصة عقارية مدعومة بالذكاء الاصطناعي للعقارات الموثقة، والمشاريع، والمخططات الرئيسية، والمزادات الإلكترونية، والإيجارات اليومية، مع توفير تجربة بحث متطورة تساعد المستخدمين على العثور على منازلهم المثالية بسهولة."
+        }
+      ]
+    },
+    "popularSearchTitle": {
+      "id": 18,
+      "title": "أشهر المدن والعقارات في السعودية",
+      "subTitle": "عقارات الرياض، جدة، مكة وغيرها من المدن الأخرى"
+    },
+    "popularSearch": [
+      {
+        "id": 10,
+        "title": "عقارات للايجار في السعودية",
+        "searchTypes": [
+          {
+            "id": 37,
+            "slugTitle": "عقارات للايجار الرياض",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+          },
+          {
+            "id": 38,
+            "slugTitle": "عقارات للايجار جدة",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9"
+          },
+          {
+            "id": 39,
+            "slugTitle": "عقارات للايجار الدمام",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85"
+          },
+          {
+            "id": 40,
+            "slugTitle": "عقارات للايجار في الخبر",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "فلل للايجار في السعودية",
+        "searchTypes": [
+          {
+            "id": 41,
+            "slugTitle": "فلل للايجار في الرياض",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+          },
+          {
+            "id": 42,
+            "slugTitle": "فلل للايجار في جدة",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9"
+          },
+          {
+            "id": 43,
+            "slugTitle": "فلل للايجار في الدمام",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85"
+          },
+          {
+            "id": 45,
+            "slugTitle": "فلل للايجار في الخبر",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "شقق للايجار في السعودية",
+        "searchTypes": [
+          {
+            "id": 44,
+            "slugTitle": "شقق للايجار في الرياض",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+          },
+          {
+            "id": 46,
+            "slugTitle": "شقق للايجار في الخبر",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1"
+          },
+          {
+            "id": 47,
+            "slugTitle": "شقق للايجار في جدة",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9"
+          },
+          {
+            "id": 48,
+            "slugTitle": "شقق للايجار في الدمام",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "عقار السعودية",
+        "searchTypes": [
+          {
+            "id": 49,
+            "slugTitle": "عقار الرياض",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+          },
+          {
+            "id": 50,
+            "slugTitle": "عقار جدة",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9"
+          },
+          {
+            "id": 51,
+            "slugTitle": "عقار مكة",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D9%85%D9%83%D8%A9"
+          },
+          {
+            "id": 52,
+            "slugTitle": "عقار الدمام",
+            "slugUrl": "https://wasalt.sa/%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "فلل للبيع في السعودية",
+        "searchTypes": [
+          {
+            "id": 53,
+            "slugTitle": "فلل للبيع في الرياض",
+            "slugUrl": "https://wasalt.sa/فلل-للبيع-في-الرياض"
+          },
+          {
+            "id": 54,
+            "slugTitle": "فلل للبيع في جدة",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9"
+          },
+          {
+            "id": 55,
+            "slugTitle": "فلل للبيع في الدمام",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85"
+          },
+          {
+            "id": 56,
+            "slugTitle": "فلل للبيع في الخبر",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "شقق للبيع في السعودية",
+        "searchTypes": [
+          {
+            "id": 57,
+            "slugTitle": "شقق للبيع في الرياض",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+          },
+          {
+            "id": 58,
+            "slugTitle": "شقق تمليك جدة",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9"
+          },
+          {
+            "id": 60,
+            "slugTitle": "شقق تمليك مكة",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D9%85%D9%83%D8%A9"
+          },
+          {
+            "id": 59,
+            "slugTitle": "شقق للبيع في الخبر",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "اراضي للبيع في السعودية",
+        "searchTypes": [
+          {
+            "id": 61,
+            "slugTitle": "اراضي للبيع الرياض",
+            "slugUrl": "https://wasalt.sa/%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6"
+          },
+          {
+            "id": 62,
+            "slugTitle": "اراضي للبيع جدة",
+            "slugUrl": "https://wasalt.sa/%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%AC%D8%AF%D8%A9"
+          },
+          {
+            "id": 63,
+            "slugTitle": "اراضي للبيع الدمام",
+            "slugUrl": "https://wasalt.sa/%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D9%85"
+          },
+          {
+            "id": 64,
+            "slugTitle": "اراضي للبيع في مكة",
+            "slugUrl": "https://wasalt.sa/%D8%A7%D8%B1%D8%A7%D8%B6%D9%8A-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%8A-%D9%85%D9%83%D8%A9"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "فلل للبيع في الرياض",
+        "searchTypes": [
+          {
+            "id": 65,
+            "slugTitle": "فلل للبيع في الرمال",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%89-%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D8%B1%D9%85%D8%A7%D9%84"
+          },
+          {
+            "id": 66,
+            "slugTitle": "فلل للبيع في العليا",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%89-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7"
+          },
+          {
+            "id": 67,
+            "slugTitle": "فلل للبيع في الياسمين",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%89-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D9%8A%D8%A7%D8%B3%D9%85%D9%8A%D9%86"
+          },
+          {
+            "id": 68,
+            "slugTitle": "فلل للبيع في الخليج",
+            "slugUrl": "https://wasalt.sa/%D9%81%D9%84%D9%84-%D9%84%D9%84%D8%A8%D9%8A%D8%B9-%D9%81%D9%89-%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "شقق للايجار في الرياض",
+        "searchTypes": [
+          {
+            "id": 69,
+            "slugTitle": "شقق للايجار الرمال",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%89-%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D8%B1%D9%85%D8%A7%D9%84"
+          },
+          {
+            "id": 70,
+            "slugTitle": "شقق للايجار الخليج",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%89-%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC"
+          },
+          {
+            "id": 72,
+            "slugTitle": "شقق للايجار في العليا",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%89-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D8%A7"
+          },
+          {
+            "id": 71,
+            "slugTitle": "شقق للايجار النخيل",
+            "slugUrl": "https://wasalt.sa/%D8%B4%D9%82%D9%82-%D9%84%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1-%D9%81%D9%89-%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6-%D8%AD%D9%89-%D8%A7%D9%84%D9%86%D8%AE%D9%8A%D9%84"
+          }
+        ]
+      }
+    ]
+  },
+  "bannerData": {
+    "head_content": {
+      "title": "homepage",
+      "slug": "home-page",
+      "_html": "<link href=\"https://cdn.wasalt.com/fonts/iconography.css\"as=\"style\"rel=\"stylesheet\">\n<style>\n.StrapiContainer {\n  display: flex;\n  flex-direction: column;\n  gap: 32px;\n}\n\n@media only screen and (max-width: 767.98px) {\n  .StrapiContainer {\n    gap: 24px;\n  }\n}\n\n.fontHeading {\n    font-size: 32px;\n    font-weight: 600;\n    line-height: 48px;\n    color: #191919;\n}\n\n.secondHeading {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    margin-top: 4px;\n}\n\n.secondHeading span {\n    color: #10A26F;\n}\n\n.secondHeading span i {\n    display: flex;\n    width: 28px;\n    height: 28px;\n    font-size: 28px;\n}\n\n@media only screen and (max-width:991.98px) {\n    .fontHeading {\n        text-align: center;\n        font-size: 18px;\n        font-weight: 600;\n        line-height: 24px;\n        margin-top: 36px;\n    }\n\n    .secondHeading {\n        justify-content: center;\n        align-items: center;\n        gap: 0px;\n        margin-top: 4px;\n    }\n\n    .secondHeading span i {\n        width: 20px;\n        height: 20px;\n        font-size: 20px;\n        margin-left: 4px;\n        display: flex;\n    }\n\n}\n\n.swiper {\n    touch-action: pan-y !important;\n}\n\n.swipperWrapper {\n    max-width: 1228px;\n    width: 100%;\n    margin: auto;\n    border-radius: 8px;\n    overflow: hidden;\n    line-height: 0px;\n}\n\n@media only screen and (max-width:767px) {\n    .swipperWrapper {\n        padding: 0px 20px;\n    }\n\n}\n\n.swipercontainer {\n    position: relative;\n    max-width: 1228px !important;\n    width: 100%;\n    transition: max-height 0.5s ease-out;\n}\n\n@media only screen and (min-width:768px) {\n    .swipercontainer {\n        max-height: 240px;\n    }\n\n}\n\n.swiper-container {\n    width: 100%;\n    --swiper-pagination-bullet-inactive-color: #fff;\n    --swiper-pagination-color: #6F10A2;\n    --swiper-pagination-bullet-inactive-opacity: 1;\n}\n\n@media only screen and (min-width:768px) {\n    .swiper-container {\n        height: 240px;\n    }\n\n}\n\nswiper-slide {\n    text-align: center;\n    font-size: 18px;\n    background: #fff;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n}\n\nswiper-slide img {\n    display: block;\n    width: 100%;\n    height: 100%;\n    object-fit: fill;\n}\n\n@media only screen and (max-width:767px) {\n    .swipercontainer {\n        width: 100%;\n        transition: max-height 0.5s ease-out;\n    }\n\n    .swiper-container {\n        width: 100%;\n        --swiper-pagination-bullet-inactive-color: #fff;\n        --swiper-pagination-color: #007aff;\n        --swiper-pagination-bullet-inactive-opacity: 1;\n    }\n\n}\n\n.homepage_banner_visible {\n    max-width: 1228px;\n    width: 100%;\n    text-align: center;\n    height: 100%\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner {\n    z-index: 3;\n    position: relative;\n    top: 119px\n}\n\n@media only screen and (max-width:991px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner {\n        top: 88px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner {\n        top: 0\n    }\n\n    .homepage_banner_visible .for_dekstop {\n        display: none;\n    }\n\n    .homepage_banner_visible .for_mobile {\n        display: inline-block !important;\n    }\n\n}\n\n.homepage_banner_visible .for_mobile {\n    display: none;\n}\n\n.homepage_banner_visible img {\n    max-width: 100%;\n    border-radius: 8px;\n}\n\n@media only screen and (max-width:767px) {\n    .homepage_banner_visible {\n        margin: 0px auto;\n    }\n\n}\n\n.hidethisSection {\n    display: none !important;\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 {\n    max-width: 581px;\n    font-size: 40px;\n    line-height: 48px;\n    font-weight: 600;\n    color: #191919\n}\n\nhtml[dir=rtl] .HomeSearch_videoBanner .HomeSearch_containerInner h1 {\n    max-width: 608px;\n    font-size: 36px\n}\n\n@media only screen and (max-width:1200px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 {\n        margin-left: 18px;\n        font-size: 28px;\n        line-height: 36px\n    }\n\n    html[dir=rtl] .HomeSearch_videoBanner .HomeSearch_containerInner h1 {\n        margin-left: unset;\n        margin-right: 18px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 {\n        margin-left: 0;\n        font-size: 19px;\n        line-height: 24px;\n        padding: 0 16px;\n        max-width: 100%\n    }\n\n    html[dir=rtl] .HomeSearch_videoBanner .HomeSearch_containerInner h1 {\n        margin-left: unset;\n        margin-right: unset;\n        font-size: 19px;\n        line-height: 24px\n    }\n\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span {\n    text-transform: capitalize;\n    display: inline-block;\n    vertical-align: top;\n    height: 48px;\n    overflow: hidden;\n    margin-left: 16px\n}\n\nhtml[dir=rtl] .HomeSearch_videoBanner .HomeSearch_containerInner h1 span {\n    margin-left: unset;\n    margin-right: 0;\n    margin-top: 8px\n}\n\n@media only screen and (max-width:1200px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 span {\n        font-size: 28px;\n        line-height: 36px;\n        height: 36px;\n        margin-left: 0;\n        display: block\n    }\n\n    html[dir=rtl] .HomeSearch_videoBanner .HomeSearch_containerInner h1 span {\n        margin-right: 0\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 span {\n        font-size: 18px;\n        line-height: 24px;\n        height: 24px;\n        width: 100%;\n        text-align: center;\n        margin-top: 8px\n    }\n\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    font-weight: 600\n}\n\n@media only screen and (max-width:1200px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 span p {\n        height: 36px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 span p {\n        height: 24px;\n        justify-content: center;\n        gap: 4px\n    }\n\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p i {\n    height: 28px;\n    line-height: 28px\n}\n\n@media only screen and (max-width:1200px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 span p i {\n        font-size: 24px;\n        height: 24px;\n        line-height: 24px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner h1 span p i {\n        font-size: 16px;\n        height: 16px;\n        line-height: 16px\n    }\n\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:first-child, .HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:nth-child(5) {\n    color: #10a26f\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:first-child i, .HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:nth-child(5) i {\n    color: #4aa073\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:nth-child(2) {\n    color: #3972f6\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:nth-child(3) {\n    color: #e29334\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:nth-child(4) {\n    color: #6f10a2\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span p:nth-child(4) i {\n    color: #510c76\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span.HomeSearch_animateText {\n    overflow: hidden\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner h1 span.HomeSearch_animateText p {\n    display: block;\n    height: 100%;\n    animation: HomeSearch_text-animation__PjO60 12s infinite\n}\n\n.HomeSearch_videoBanner .HomeSearch_containerInner .HomeSearch_homeIntroMMContainer {\n    display: flex;\n    flex-direction: column;\n    gap: 16px;\n    max-width: 581px\n}\n\n@media only screen and (max-width:1200px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner .HomeSearch_homeIntroMMContainer {\n        margin-left: 18px\n    }\n\n    html[dir=rtl] .HomeSearch_videoBanner .HomeSearch_containerInner .HomeSearch_homeIntroMMContainer {\n        margin-left: unset;\n        margin-right: 18px\n    }\n\n    .HomeSearch_videoBanner .HomeSearch_containerInner .HomeSearch_homeIntroMMContainer .HomeSearch_homeIntroMMText {\n        font-size: 28px;\n        line-height: 36px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    .HomeSearch_videoBanner .HomeSearch_containerInner .HomeSearch_homeIntroMMContainer {\n        margin-left: 0;\n        max-width: 100%;\n        padding: 0;\n        gap: 15px\n    }\n\n    html[dir=rtl] .HomeSearch_videoBanner .HomeSearch_containerInner .HomeSearch_homeIntroMMContainer {\n        margin-left: unset;\n        margin-right: unset;\n        font-size: 19px;\n        line-height: 24px\n    }\n\n    .HomeSearch_videoBanner .HomeSearch_containerInner .HomeSearch_homeIntroMMContainer .HomeSearch_homeIntroMMText {\n        font-size: 25px;\n        line-height: 32px\n    }\n\n}\n\n.globalContainer {\n    width: 100%;\n    max-width: 1268px;\n    display: block;\n    margin: 0 auto;\n    padding-left: 20px;\n    padding-right: 20px;\n}\n\n@media only screen and (max-width:991px) {\n    .globalContainer {\n        padding-left: unset;\n        padding-right: unset;\n    }\n\n}\n\n.bottom-sheet-container {\n    position: fixed;\n    bottom: 0;\n    left: 0;\n    right: 0;\n    top: 0;\n    width: 100%;\n    transform: translateY(0);\n    display: none;\n    transition: transform 0s ease-in-out;\n    z-index: 1;\n    height: 1074px;\n    background: rgba(0, 0, 0, .7);\n}\n\n.pop-up {\n    display: none;\n    width: 100%;\n    height: 1074px;\n    background: rgba(0, 0, 0, .7);\n    box-sizing: border-box;\n    position: fixed;\n    left: 0;\n    bottom: 0;\n    right: 0;\n    top: 0;\n    z-index: 999;\n}\n\n.sendAppLink-popup {\n    width: 455px;\n    height: 369px;\n    border-radius: 12px;\n    background: #FFF;\n    position: relative;\n    top: 150px;\n    right: 50%;\n    transform: translateX(50%);\n    animation: pp 0.8s ease;\n}\n\n@keyframes pp {\n    0% {\n        opacity: 0;\n        transition: opacity .15s linear;\n        top: -150px;\n    }\n\n    100% {\n        opacity: 1;\n        transition: opacity .15s linear;\n        top: 150px;\n    }\n\n}\n\n.close {\n    font-size: 16px;\n    color: #737373;\n    position: absolute;\n    left: 24px;\n    top: 24px;\n}\n\n.maindiv {\n    display: flex;\n    flex-direction: column;\n    gap: 32px;\n    padding: 65px 40px 64px 40px\n}\n\n.header {\n    display: flex;\n    flex-direction: column;\n    gap: 4px;\n}\n\n.para1 {\n    color: var(--grey-700, #191919);\n    font-size: 24px;\n    font-weight: 700;\n    line-height: 36px;\n    text-align: center;\n}\n\n.para2 {\n    font-weight: 400;\n    line-height: 20px;\n    font-size: 14px;\n    text-align: center;\n    color: #4C4C4C;\n}\n\n.footer {\n    display: flex;\n    flex-direction: column;\n    gap: 16px;\n}\n\n.mobile-input {\n    position: relative;\n    display: block;\n}\n\n.inp {\n    width: 375px;\n    height: 52px;\n    background: #fff;\n    border: 1px solid #d2d2d2;\n    border-radius: 8px;\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 24px;\n    color: #737373;\n    box-sizing: border-box;\n    padding: 12px 12px 12px 62px;\n    text-align: left;\n}\n\n.mobile-input .inp:focus-visible {\n    outline: none;\n}\n\n.num {\n    position: absolute;\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 24px;\n    color: #737373;\n    top: 14px;\n    left: 12px;\n    width: 38px\n}\n\n.invalid-number {\n    display: none;\n    color: #EE5441;\n    font-size: 12px;\n    font-weight: 400;\n    line-height: 14px;\n    margin-top: 8px;\n    text-align: right;\n}\n\n.error-class .invalid-number {\n    display: block;\n}\n\n.error-class .inp {\n    border-color: #EE5441 !important;\n}\n\n.btnsendapplink {\n    display: flex;\n    height: 44px;\n    padding: 12px 16px;\n    flex-direction: column;\n    align-items: center;\n    border-radius: 12px;\n    background: #6F10A2;\n    font-size: 16px;\n    font-weight: 500;\n    line-height: 20px;\n    color: #FFF;\n    border: none;\n    cursor: pointer;\n}\n\n.checkicon {\n    width: 80px;\n    height: 80px;\n    padding: 8px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    border-radius: 40px;\n    background: #E4FCF3;\n    margin-right: 188px;\n}\n\n.container {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    width: 375px;\n    margin-top: 21px;\n    margin-right: 40px;\n    border-bottom: none !important;\n}\n\n.thankyoupopup {\n    width: 455px;\n    height: 426px;\n    border-radius: 12px;\n    background: #FFF;\n    padding-top: 65px;\n    box-sizing: border-box;\n    position: relative;\n    top: 150px;\n    right: 50%;\n    transform: translateX(50%);\n    animation: pp 0.8s ease;\n}\n\n.close1 {\n    font-size: 16px;\n    color: #737373;\n    position: absolute;\n    left: 24px;\n    top: 24px;\n}\n\n.bottom-sheet-visible {\n    transform: translateY(0);\n    display: block;\n    z-index: 999;\n}\n\n.hd1 {\n    font-size: 25px;\n    font-weight: 600;\n    line-height: 32px;\n    color: #191919;\n}\n\n.hd2 {\n    font-size: 14px;\n    font-weight: 400;\n    line-height: 20px;\n    color: #737373;\n    margin-top: 4px;\n}\n\n.hd3 {\n    font-size: 16px;\n    font-weight: 400;\n    line-height: 20px;\n    color: #191919;\n    direction: ltr;\n    margin-top: 4px;\n}\n\n#doneButton {\n    display: flex;\n    width: 375px;\n    height: 44px;\n    padding: 12px 16px;\n    flex-direction: column;\n    align-items: center;\n    border-radius: 12px;\n    background: #6F10A2;\n    color: #FFF;\n    font-size: 16px;\n    font-weight: 500;\n    line-height: 20px;\n    border: none;\n    margin-top: 32px;\n}\n\n.bottomcontent {\n    display: flex;\n    width: 375px;\n    justify-content: center;\n    gap: 4px;\n    margin-top: 20px;\n}\n\n.btm1 {\n    font-size: 14px;\n    font-weight: 400;\n    line-height: 20px;\n    color: #191919;\n}\n\n.btm2 {\n    font-size: 14px;\n    font-weight: 400;\n    line-height: 20px;\n    color: #6F10A2;\n    cursor: pointer;\n}\n\n</style>\n<style>\n[dir=ltr] {\n    font-family: Jost, sans-serif\n}\n\n[dir=rtl] {\n    font-family: Noto Kufi Arabic, sans-serif\n}\n\n[dir=ltr], html {\n    font-family: Jost, sans-serif;\n}\n\n[dir=rtl] {\n    font-family: Noto Kufi Arabic, sans-serif\n}\n\n*, ::after, ::before {\n    box-sizing: border-box;\n    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n\n@keyframes HomeSearch_text-animation {\n    10% {\n        transform: translateY(-100%)\n    }\n\n    25% {\n        transform: translateY(-100%)\n    }\n\n    35% {\n        transform: translateY(-200%)\n    }\n\n    50% {\n        transform: translateY(-200%)\n    }\n\n    60% {\n        transform: translateY(-300%)\n    }\n\n    75% {\n        transform: translateY(-300%)\n    }\n\n    85% {\n        transform: translateY(-400%)\n    }\n\n    to {\n        transform: translateY(-400%)\n    }\n\n}\n\na, body, div, footer, h1, h2, h3, h4, header, i, img, label, li, nav, p, span, ul, video {\n    margin: 0px;\n    padding: 0px;\n    border: 0px;\n    font-family: inherit;\n    font-weight: inherit;\n}\n\n* {\n    box-sizing: border-box;\n}\n\n* {\n    margin: 0px;\n    padding: 0px;\n}\n\n.Styles_triggWrapper {\n    position: sticky;\n    margin: 0px 16px;\n}\n\n.Styles_trigger {\n    position: absolute;\n    width: 24px;\n    height: 24px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    top: 15px;\n    left: -3px;\n}\n\n.styles_f_20__G6_UE {\n    font-size: 20px;\n}\n\n.styles_color_gray_darker__SGMWi {\n    color: rgb(74, 76, 79);\n}\n\n.Styles_trigger i {\n    font-size: 16px;\n    line-height: 16px;\n    width: 16px;\n    height: 16px;\n    display: block;\n}\n\n.iconwasalt {\n    font-weight: 400;\n    line-height: 1;\n}\n\n.iconwasalt::before {\n    text-transform: none;\n    speak: none;\n    -webkit-font-smoothing: antialiased;\n    font-family: iconography !important;\n    font-style: normal !important;\n    font-weight: normal !important;\n}\n\n.icon-arrow-back::before {\n    content: \"\";\n}\n\n.styles_color_purple {\n    color: #6F10A2;\n}\n\n.icon-locate::before {\n    content: \"\";\n}\n\n.Styles_currentlocation p {\n    display: inline-block;\n    font-style: normal;\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 24px;\n    color: rgb(25, 25, 25);\n    cursor: pointer;\n}\n\np {\n    font-weight: 400;\n}\n\n.TopLocations_suggestion_wrap {\n    max-height: 255px;\n    overflow-x: hidden;\n    margin-top: 22px;\n}\n\n.TopLocations_suggestion {\n    color: rgb(115, 115, 115);\n    font-size: 14px;\n    font-weight: 500;\n    line-height: 20px;\n    letter-spacing: 0px;\n    text-align: left;\n    margin-bottom: 14px;\n    padding: 0px 16px;\n    cursor: default;\n}\n\n.TopLocations_mTop {\n    margin-top: unset;\n}\n\n.styles_color_gallery_popup_close {\n    color: rgb(115, 115, 115);\n}\n\n.icon-map-marker::before {\n    content: \"\";\n}\n\n.Styles_suggestionWrapper {\n    height: 100%;\n    overflow: scroll;\n}\n\n.Styles_searchConatainer {\n    z-index: 1;\n    position: relative;\n    width: 100%;\n    background: rgb(255, 255, 255);\n    box-shadow: rgba(0, 0, 0, 0.08) 0px 3px 6px;\n    border-radius: 12px;\n}\n\n.Styles_bottomLine {\n    border-bottom: 1px solid rgb(210, 210, 210);\n    padding: 8px 12px 0px 8px;\n    position: relative;\n    z-index: 1;\n}\n\n.styles_HomeSrWrapper {\n    flex-basis: 100%;\n    display: flex;\n    justify-content: center;\n}\n\n.styles_HomeSrWrapper .styles_homeSrIcon {\n    width: 56px;\n    height: 56px;\n    border-radius: 50%;\n    position: absolute;\n    right: 10px;\n    background: rgb(111, 16, 162);\n    z-index: 7;\n    top: 50%;\n    transform: translateY(-50%);\n    display: flex;\n    align-items: center;\n    justify-content: center;\n}\n\n.styles_f_24__dtfRC {\n    font-size: 24px;\n}\n\n.styles_HomeSrWrapper .styles_homeSrIcon i {\n    color: rgb(255, 255, 255);\n    font-size: 31px;\n    width: 31px;\n    height: 31px;\n}\n\n.icon-search::before {\n    content: \"\";\n}\n\n.styles_searchPLP {\n    height: 50px;\n    width: 360px;\n    border-radius: 25px;\n    display: flex;\n    align-items: center;\n    border: 1px solid rgb(210, 210, 215);\n    background: rgb(255, 255, 255);\n    margin-right: 26px;\n    padding: 0px 15px;\n    position: relative;\n}\n\n.styles_searchPLP::after {\n    content: \"\";\n    position: absolute;\n    right: -15px;\n    height: 29px;\n    width: 1px;\n    background-color: rgba(74, 76, 79, 0.36);\n}\n\n.styles_HomeSrWrapper .styles_searchPLP {\n    width: 100%;\n    margin-right: 0px;\n    background: rgb(255, 255, 255);\n    border-radius: 40px;\n    position: relative;\n    box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px;\n    padding: 10px;\n    cursor: pointer;\n    height: 72px;\n    border-top: 1px solid rgba(130, 123, 138, 0.25);\n}\n\n.styles_HomeSrWrapper .styles_searchPLP::after {\n    display: none;\n}\n\n.styles_searchPLP input {\n    width: 100%;\n    height: 40px;\n    border: 0px;\n    background: transparent;\n    padding: 0px 10px;\n    font-size: 16px;\n    line-height: 23px;\n    font-weight: 500;\n    color: rgb(74, 76, 79);\n}\n\n.styles_caretHide {\n    caret-color: transparent;\n}\n\n.styles_selectListWrapper {\n    width: 360px;\n    min-height: 140px;\n    left: 0px;\n    transform: translateX(0px);\n    top: 50px;\n    background: rgb(255, 255, 255);\n    border-width: 0px 1px 1px;\n    border-right-style: solid;\n    border-bottom-style: solid;\n    border-left-style: solid;\n    border-right-color: rgb(221, 221, 221);\n    border-bottom-color: rgb(221, 221, 221);\n    border-left-color: rgb(221, 221, 221);\n    border-image: initial;\n    border-top-style: initial;\n    border-top-color: initial;\n    border-radius: 0px 0px 5px 5px;\n    box-sizing: border-box;\n    position: absolute;\n    text-align: left;\n    padding: 0px;\n    z-index: 90;\n}\n\n.styles_selectListWrapper.styles_searchPLPClose {\n    display: none;\n}\n\n.styles_HomeSrDrop {\n    width: 100%;\n    top: 72px;\n    background: rgb(255, 255, 255);\n    box-shadow: rgba(0, 0, 0, 0.25) 0px 4px 4px;\n}\n\n.styles_selectListContainer {\n    overflow: hidden overlay;\n    max-height: 411px;\n}\n\n.styles_HomeSrDrop .styles_selectListContainer {\n    max-height: 333px;\n}\n\nli, ul {\n    list-style: none;\n}\n\n.styles_selectListContainer li {\n    text-transform: capitalize;\n    padding: 10px 20px;\n    cursor: pointer;\n}\n\n.styles_selectListContainer li:hover {\n    cursor: default;\n}\n\n.styles_selectListContainer li.styles_cityHeading {\n    font-weight: 500;\n    font-size: 14px;\n    line-height: 20px;\n    color: rgba(115, 115, 115, 0.5);\n    margin-top: 10px;\n}\n\n.styles_selectListContainer li:last-child {\n    margin-bottom: 18px;\n}\n\n.Factoids_factoids {\n    min-height: 116px;\n    background: rgb(249, 245, 254);\n}\n\n.Factoids_factoids .Factoids_containerInner {\n    max-width: 1200px;\n    margin: auto;\n    padding: 0px 50px;\n    position: relative;\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    height: 100%;\n    min-height: 110px;\n}\n\n.Factoids_factoids .Factoids_factoidsItem {\n    display: flex;\n    align-items: center;\n}\n\n.styles_f_36__G92pc {\n    font-size: 36px;\n}\n\n.styles_color_green {\n    color: rgb(16, 162, 111);\n}\n\n.icon-verified::before {\n    content: \"\";\n}\n\n.Factoids_factoids .Factoids_factoidsItem .Factoids_text {\n    margin-left: 16px;\n    font-size: 20px;\n    color: rgb(57, 63, 79);\n}\n\n.styles_color_blue {\n    color: rgb(29, 116, 255);\n}\n\n.icon-accurate::before {\n    content: \"\";\n}\n\n.icon-briefcase::before {\n    content: \"\";\n}\n\n.TrendingNow_containerInner {\n    width: 100%;\n    max-width: 1228px;\n    margin: auto;        \n    position: relative;\n}\n\n.TrendingNow_containerInner h2 {\n    font-size: 36px;\n    color: rgb(48, 7, 69);\n    font-weight: 700;\n    padding: 20px 0px;\n}\n\n.TrendingNow_trendSection {\n    margin-bottom: 32px;\n}\n\n.TrendingNow_trendSection:last-child {\n    margin-bottom: 0px;\n}\n\n.TrendingNow_trendSection h3 {\n    display: flex;\n    align-items: center;\n    font-size: 24px;\n    color: rgb(48, 7, 69);\n    font-weight: 700;\n    padding: 16px 0px;\n}\n\n.TrendingNow_trendSection .TrendingNow_icon {\n    margin-right: 8px;\n    display: flex;\n}\n\n.styles_color_darkPurple {\n    color: rgb(55, 8, 78);\n}\n\n.icon-villa::before {\n    content: \"\";\n}\n\n.TrendingNow_trendSection .TrendingNow_text {\n    margin-left: 24px;\n    color: rgb(48, 7, 69);\n    font-weight: 700;\n}\n\n.TrendingNow_trendSection .TrendingNow_trendSectionCards {\n    position: relative;\n    overflow: visible !important;\n}\n\n.swiper {\n    margin-left: auto;\n    margin-right: auto;\n    position: relative;\n    overflow: hidden;\n    list-style: none;\n    padding: 0px;\n    z-index: 1;\n}\n\n.swiper-wrapper {\n    position: relative;\n    width: 100%;\n    height: 100%;\n    z-index: 1;\n    display: flex;\n    transition-property: transform;\n    box-sizing: content-box;\n}\n\n.swiper-wrapper {\n    transform: translateZ(0px);\n}\n\n.swiper-slide {\n    height: auto !important;\n}\n\n.swiper-slide {\n    flex-shrink: 0;\n    width: 100%;\n    height: 100%;\n    position: relative;\n    transition-property: transform;\n}\n\na, a:active, a:hover, a:visited {\n    text-decoration: none;\n}\n\n.TrendingNow_trendSection .TrendingNow_trendSectionCards img {\n    border-radius: 8px;\n    width: 100%;\n    cursor: pointer;\n    object-fit: cover;\n    height: 220px !important;\n}\n\n.PostPropertyPromoBanner_container {\n  margin: 0px auto;\n  max-width: 1228px;\n  line-height: 0px;\n}\n\n.PostPropertyPromoBanner_container img {\n    width: 100% !important;\n}\n\n@media only screen and (max-width:767px) {\n  .PostPropertyPromoBanner_container {\n    padding: 0px 20px;\n    line-height: 0px;\n  }\n}\n\n.TrendingNow_trendSection .TrendingNow_trendSectionCards .TrendingNow_locationMarker {\n    position: absolute;\n    bottom: 16px;\n    right: 16px;\n    background: rgba(255, 255, 255, 0.9);\n    padding: 8px 16px;\n    border-radius: 80px;\n    display: grid;\n    grid-template-columns: 20px auto;\n    gap: 4px;\n    align-items: center;\n}\n\n.styles_f_14__gQlFx {\n    font-size: 14px;\n}\n\n.TrendingNow_trendSection .TrendingNow_trendSectionCards .TrendingNow_locationMarker .TrendingNow_text {\n    font-weight: 500;\n    font-size: 14px;\n    margin-left: auto;\n}\n\n.TrendingNow_trendingSwiperNavNext, .TrendingNow_trendingSwiperNavPrev {\n    background: rgba(255, 255, 255, 0.9);\n    width: 60px;\n    height: 60px;\n    border-radius: 100%;\n    border: 1px solid rgb(48, 7, 69);\n    z-index: 99;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    cursor: pointer;\n}\n\n.TrendingNow_trendingSwiperNavPrev {\n    position: absolute;\n    top: 50%;\n    right: 0px;\n    transform: translate(50%, -50%);\n}\n\n.TrendingNow_trendingSwiperNavPrev:disabled {\n    opacity: 0.6;\n    background-color: rgb(255, 255, 255);\n    color: rgb(196, 196, 196);\n    border-color: rgb(196, 196, 196);\n    cursor: no-drop;\n}\n\n.styles_f_18__jlX1a {\n    font-size: 18px;\n}\n\n.TrendingNow_trendingSwiperNavNext i, .TrendingNow_trendingSwiperNavPrev i {\n    width: 18px;\n    height: 18px;\n}\n\n.icon-chevron-left::before {\n    content: \"\";\n}\n\n.TrendingNow_trendingSwiperNavNext {\n    position: absolute;\n    top: 50%;\n    left: 0px;\n    transform: translate(-50%, -50%);\n}\n\n.icon-chevron-right::before {\n    content: \"\";\n}\n\n.icon-apartment::before {\n    content: \"\";\n}\n\n.PostPropertyPromoBanner_promoBanner {\n    margin: 60px 0px;\n    background: rgb(249, 245, 254);\n    padding: 40px 0px;\n    box-sizing: border-box;\n    overflow: hidden;\n}\n\n.PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner {\n    display: flex;\n    max-width: 1200px;\n    margin: auto;\n    padding: 0px 50px;\n    position: relative;\n    gap: 16px;\n}\n\n.PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner .PostPropertyPromoBanner_content {\n    width: 75%;\n}\n\n.PostPropertyPromoBanner_promoBanner h2 {\n    font-size: 36px;\n    color: rgb(48, 7, 69);\n    font-weight: 700;\n}\n\n.PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_content p {\n    font-size: 20px;\n    color: rgb(99, 101, 105);\n    line-height: 32px;\n    font-weight: 500;\n}\n\n.PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner p {\n    margin: 24px 0px;\n}\n\n.PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_buttonCTA {\n    text-decoration: none;\n    font-size: 20px;\n    padding: 16px 48px;\n    box-sizing: border-box;\n    border-radius: 12px;\n    display: inline-flex;\n    font-weight: 700;\n    color: rgb(255, 255, 255);\n    background: rgb(111, 16, 162);\n}\n\n.PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_buttonCTA:hover {\n    box-shadow: rgb(103, 58, 183) 0px 0px 8px;\n    cursor: pointer;\n}\n\n.PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner .PostPropertyPromoBanner_promoImage {\n    flex: 1 1 0%;\n    width: 40%;\n    display: flex;\n    justify-content: flex-end;\n}\n\n.style_discover_auction_section {\n    display: flex;\n    flex-direction: row;\n    align-items: center;\n    justify-content: center;\n    border-top: 1px solid rgb(238, 238, 238);\n    border-bottom: 1px solid rgb(238, 238, 238);\n}\n\n.style_discover_auction_section_inner {\n    max-width: 1200px;\n    padding: 0px 50px;\n    display: flex;\n    margin: 60px auto;\n    align-items: center;\n}\n\n.style_discover_auction_section .style_text_section {\n    display: flex;\n    flex-direction: column;\n}\n\n.style_discover_auction_section .style_text_section .style_text_section_title {\n    font-size: 14px;\n    font-style: normal;\n    font-weight: 800;\n    line-height: 20px;\n    letter-spacing: 0.5em;\n    text-align: left;\n    width: fit-content;\n    color: rgb(134, 78, 242);\n}\n\n.style_discover_auction_section .style_text_section .style_text_section_desc {\n    font-weight: 700;\n    font-size: 36px;\n    line-height: normal;\n    color: rgb(111, 16, 162);\n    padding: 24px 0px;\n    display: block;\n}\n\n.style_discover_auction_section .style_text_section button {\n    flex-direction: row;\n    justify-content: center;\n    align-items: center;\n    background: rgb(111, 16, 162);\n    color: rgb(255, 255, 255);\n    border: none;\n    max-width: 400px;\n    font-weight: 600;\n    min-width: 340px;\n    cursor: pointer;\n    font-size: 20px;\n    box-sizing: border-box;\n    padding: 16px 48px;\n    border-radius: 12px;\n}\n\n.ShareRequirementsBanner_shareGridBanner {\n  display: flex;\n  flex-flow: wrap;\n  justify-content: space-between;\n  width: 100%;\n  max-width: 1228px;\n  margin: 0px auto;\n  padding: 0;\n  column-gap: 16px;\n  row-gap: 32px;\n}\n\n@media only screen and (max-width: 767.98px) {\n  .ShareRequirementsBanner_shareGridBanner {\n    row-gap: 24px;\n  }\n}\n\n.ShareRequirementsBanner_shareGridBanner_banner img {\n    width: 100%;\n    height: 100%;\n}\n\n.ShareRequirementsBanner_shareGridBanner_banner01 {\n    background-color: rgb(255, 255, 255);\n    background-image: url(\"/images/share_req.svg\");\n    border: 1px solid rgb(210, 210, 215);\n    background-position: right 20px bottom -5px;\n}\n\n.ShareRequirementsBanner_shareGridBanner h4 {\n    font-weight: 600;\n    font-size: 32px;\n    line-height: 40px;\n    color: rgb(25, 25, 25);\n}\n\n.ShareRequirementsBanner_shareGridBanner p {\n    font-weight: 400;\n    font-size: 20px;\n    line-height: 32px;\n    color: rgb(99, 101, 105);\n    margin-top: 16px;\n}\n\n.ShareRequirementsBanner_shareGridBanner button {\n    display: inline-block;\n    vertical-align: top;\n    margin-top: 74px;\n    padding: 16px 24px;\n    background: rgb(25, 25, 25);\n    border: none;\n    border-radius: 12px;\n    font-weight: 700;\n    font-size: 24px;\n    line-height: 32px;\n    color: rgb(255, 255, 255);\n    cursor: pointer;\n}\n\n.Promotional_bannerwrap {\n    cursor: pointer;\n    background: rgb(245, 252, 242);\n    border-radius: 8px;\n    position: relative;\n    display: flex;\n    flex-grow: 1;\n    flex-direction: column;\n}\n\n.Promotional_bannerwrap::before {\n    position: absolute;\n    content: \"\";\n    background: url(\"https://cdn.wasalt.com/images/masterplan-bg-mask.svg\") no-repeat;\n    width: 94px;\n    height: 48px;\n    bottom: 0px;\n    z-index: 0;\n}\n\n.Promotional_bannerwrap::after {\n    position: absolute;\n    content: \"\";\n    background: url(\"https://cdn.wasalt.com/images/masterplan-bg-mask.svg\") no-repeat;\n    width: 94px;\n    height: 48px;\n    top: 0px;\n    right: 0px;\n    z-index: 0;\n}\n\n.Promotional_bannerwrap.Promotional_homeMasterBanner {\n    border: 1px solid rgb(201, 223, 192);\n    min-height: 326px;\n}\n\n.Promotional_bannerwrap_inner {\n    padding: 28px 0px 24px;\n    display: flex;\n    position: relative;\n    height: 244px;\n    z-index: 1;\n    overflow: hidden;\n}\n\n.Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner {\n    padding: 42px;\n    height: 100%;\n}\n\n.Promotional_bannerwrap .Promotional_banner_height {\n    height: 100%;\n}\n\n.Promotional_bannerwrap_inner_content {\n    max-width: 382px;\n}\n\n.Promotional_bannerwrap_inner_content_heading {\n    font-weight: 600;\n    font-size: 25px;\n    line-height: 32px;\n    color: rgb(25, 25, 25);\n    margin-bottom: 8px;\n}\n\n.Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner .Promotional_bannerwrap_inner_content_desc, .Promotional_bannerwrap_inner_content_desc {\n    font-weight: 400;\n    font-size: 18px;\n    line-height: 24px;\n    color: rgb(76, 76, 76);\n    margin: 0px 0px 32px;\n}\n\n.Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner .Promotional_bannerwrap_inner_content_btn, .Promotional_bannerwrap_inner_content_btn {\n    padding: 10px 45px;\n    background: rgb(43, 135, 0);\n    border-radius: 12px;\n    font-weight: 500;\n    font-size: 16px;\n    line-height: 24px;\n    color: rgb(255, 255, 255);\n    width: 226px;\n    border: none;\n    cursor: pointer;\n    margin: 0px;\n    text-align: center;\n    display: inline-flex;\n    justify-content: center;\n}\n\n.Promotional_bannerwrap_inner_image {\n    position: absolute;\n    right: 0px;\n    bottom: 0px;\n    height: 100%;\n    display: flex;\n    align-items: flex-end;\n}\n\n.styles_muhakatatBanner {\n    grid-column: 1 / span 4;\n    background-color: rgb(255, 240, 217);\n}\n\n.styles_muhakatatBanner.styles_muhakatatBannerAppDwld {\n    background: #F3F6FA;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerInner {\n    width: 100%;\n    max-width: 1164px;\n    display: flex;\n    justify-content: space-between;\n    margin: 0px auto;\n    align-items: flex-end;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerTextWpr {\n    width: 100%;\n    max-width: 792px;\n}\n\n.styles_muhakatatBanner.styles_muhakatatBannerAppDwld .styles_muhakatatBannerTextWpr {\n    max-width: 650px;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerHeading {\n    font-weight: 700;\n    font-size: 36px;\n    line-height: 32px;\n    color: rgb(25, 25, 25);\n    margin-bottom: 24px;\n    margin-top: 72px;\n}\n\n.styles_muhakatatBanner.styles_muhakatatBannerAppDwld .styles_muhakatatBannerHeading {\n    font-weight: 700;\n    font-size: 36px;\n    line-height: 32px;\n    color: rgb(48, 7, 69);\n    margin-top: 40px;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerDesc {\n    font-weight: 500;\n    font-size: 20px;\n    line-height: 32px;\n    color: rgb(99, 101, 105);\n}\n\n.styles_muhakatatBanner.styles_muhakatatBannerAppDwld .styles_muhakatatBannerDesc {\n    font-weight: 500;\n    font-size: 20px;\n    line-height: 32px;\n    color: rgb(99, 101, 105);\n    margin-bottom: 24px;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerDwldBtnWpr {\n    margin-bottom: 24px;\n    display: flex;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerDwldBtnWpr a {\n    width: 172px;\n    height: 50px;\n    display: inline-block;\n    margin-left: 21px;\n}\n\n.styles_muhakatatBanner img {\n    width: 100%;\n    height: 100%;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerQrCodeText {\n    font-weight: 500;\n    font-size: 20px;\n    line-height: 32px;\n    color: rgb(74, 76, 79);\n    margin-bottom: 24px;\n}\n\n.styles_muhakatatBanner .styles_muhakatatBannerQrCode {\n    height: 100px;\n    width: 100px;\n    display: inline-block;\n    margin-bottom: 40px;\n}\n\n@media all {\n    .Promotional_bannerwrap_inner_content_heading {\n        font-weight: 600;\n        font-size: 25px;\n        line-height: 32px;\n        color: rgb(25, 25, 25);\n        margin-bottom: 8px;\n    }\n\n}\n\n@media only screen and (min-width:992px) {\n    .Styles_isNotDesktop {\n        display: none;\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    .Styles_isNotMobile {\n        display: none;\n    }\n\n}\n\n@media only screen and (max-width:1280px) {\n    .ShareRequirementsBanner_shareGridBanner p {\n        font-size: 20px;\n        line-height: 22px;\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    .ShareRequirementsBanner_shareGridBanner p {\n        font-size: 14px;\n        line-height: 20px;\n        margin-top: 16px;\n    }\n\n    .Promotional_bannerwrap_inner_content_heading {\n        font-size: 20px;\n        line-height: 24px;\n        overflow: hidden;\n        text-overflow: ellipsis;\n        white-space: nowrap;\n        width: 309px;\n    }\n\n    .Promotional_bannerwrap .Promotional_homeMasterBanner {\n        height: auto;\n    }\n\n    .Promotional_bannerwrap_inner_image img {\n        width: 136px;\n        height: auto;\n    }\n\n    .Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner {\n        padding: 18px 24px;\n    }\n\n    .Promotional_bannerwrap.Promotional_homeMasterBanner {\n        margin: 0;\n        min-height: auto;\n        border: none;\n    }\n\n    .Promotional_bannerwrap_inner_image {\n        bottom: 0;\n        right: 2px;\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    .Promotional_bannerwrap_inner_content_desc {\n        font-size: 14px;\n        line-height: 20px;\n        margin-bottom: 18px;\n        max-width: calc(100% - 70px);\n    }\n\n}\n\n@media only screen and (max-width:374px) {\n    .Promotional_bannerwrap_inner_content_desc {\n        max-width: calc(100% - 80px);\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    .Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner .Promotional_bannerwrap_inner_content_desc {\n        font-size: 14px;\n        line-height: 20px;\n        margin-bottom: 18px;\n        max-width: calc(100% - 89px) !important;\n    }\n\n}\n\n@media all {\n    .styles_muhakatatBanner img {\n        width: 100%;\n        height: 100%;\n    }\n\n}\n\n.Factoids_factoids {\n    min-height: 116px;\n    background: #f9f5fe;\n}\n\n.Factoids_factoids .Factoids_containerInner {\n    max-width: 1200px;\n    margin: auto;\n    padding: 0 50px;\n    position: relative;\n    display: flex;\n    align-items: center;\n    justify-content: space-between;\n    height: 100%;\n    min-height: 110px\n}\n\n@media screen and (max-width:1023px) {\n    .Factoids_factoids .Factoids_containerInner {\n        flex-direction: column;\n        justify-content: flex-start;\n        align-items: flex-start;\n        padding: 24px\n    }\n\n}\n\n.Factoids_factoids .Factoids_factoidsItem {\n    display: flex;\n    align-items: center\n}\n\n.Factoids_factoids .Factoids_factoidsItem .Factoids_text {\n    margin-left: 16px;\n    font-size: 18px;\n    color: #1D252D;\n    line-height: 24px;\n    font-weight: 600;\n}\n\n@media screen and (max-width:767px) {\n    .Factoids_factoids .Factoids_factoidsItem .Factoids_text {\n        font-size: 16px;\n        font-weight: 500;\n        line-height: 20px;\n    }\n\n}\n\n@media screen and (min-width:1024px) {\n    .Factoids_factoids .Factoids_factoidsItem .Factoids_text {\n        max-width: 190px\n    }\n\n    html[dir=rtl] .Factoids_factoids .Factoids_factoidsItem .Factoids_text {\n        max-width: 230px\n    }\n\n}\n\n@media screen and (max-width:1023px) {\n    .Factoids_factoids .Factoids_factoidsItem:nth-child(2) {\n        margin: 32px 0\n    }\n\n}\n\n@media screen and (max-width:767px) {\n    .Factoids_factoids .Factoids_factoidsItem img {\n        height: 20px\n    }\n\n}\n\nhtml[dir=rtl] .Factoids_factoids .Factoids_factoidsItem .Factoids_text {\n    margin-right: 16px;\n    margin-left: 0\n}\n\nh1.top_animated_title {\n    max-width: 581px;\n    font-size: 40px;\n    line-height: 48px;\n    font-weight: 600;\n    color: #191919;\n}\n\nh1.top_animated_title span.HomeSearch_animateText {\n    overflow: hidden;\n}\n\nhtml[dir=rtl] h1.top_animated_title {\n    max-width: 608px;\n    font-size: 36px\n}\n\n@media only screen and (max-width:1200px) {\n    h1.top_animated_title {\n        margin-left: 18px;\n        font-size: 28px;\n        line-height: 36px\n    }\n\n    html[dir=rtl] h1.top_animated_title {\n        margin-left: unset;\n        margin-right: 18px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    h1.top_animated_title {\n        margin-left: 0;\n        font-size: 19px;\n        line-height: 24px;\n        padding: 0 16px;\n        max-width: 100%\n    }\n\n    html[dir=rtl] h1.top_animated_title {\n        margin-left: unset;\n        margin-right: unset;\n        font-size: 19px;\n        line-height: 24px\n    }\n\n}\n\nh1.top_animated_title span {\n    text-transform: capitalize;\n    display: inline-block;\n    vertical-align: top;\n    height: 48px;\n    overflow: hidden;\n    margin-left: 16px\n}\n\nhtml[dir=rtl] h1.top_animated_title span {\n    margin-left: unset;\n    margin-right: 0;\n    margin-top: 8px\n}\n\n@media only screen and (max-width:1200px) {\n    h1.top_animated_title span {\n        font-size: 28px;\n        line-height: 36px;\n        height: 36px;\n        margin-left: 0;\n        display: block\n    }\n\n    html[dir=rtl] h1.top_animated_title span {\n        margin-right: 0\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    h1.top_animated_title span {\n        font-size: 18px;\n        line-height: 24px;\n        height: 24px;\n        width: 100%;\n        text-align: center;\n        margin-top: 8px\n    }\n\n}\n\nh1.top_animated_title span p {\n    display: flex;\n    align-items: center;\n    gap: 12px;\n    font-weight: 600\n}\n\n@media only screen and (max-width:1200px) {\n    h1.top_animated_title span p {\n        height: 36px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    h1.top_animated_title span p {\n        height: 24px;\n        justify-content: center;\n        gap: 4px\n    }\n\n}\n\nh1.top_animated_title span p i {\n    height: 28px;\n    line-height: 28px\n}\n\n@media only screen and (max-width:1200px) {\n    h1.top_animated_title span p i {\n        font-size: 24px;\n        height: 24px;\n        line-height: 24px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    h1.top_animated_title span p i {\n        font-size: 16px;\n        height: 16px;\n        line-height: 16px\n    }\n\n}\n\nh1.top_animated_title span p:first-child, h1.top_animated_title span p:nth-child(5) {\n    color: #10a26f\n}\n\nh1.top_animated_title span p:first-child i, h1.top_animated_title span p:nth-child(5) i {\n    color: #4aa073\n}\n\nh1.top_animated_title span p:nth-child(2) {\n    color: #3972f6\n}\n\nh1.top_animated_title span p:nth-child(3) {\n    color: #e29334\n}\n\nh1.top_animated_title span p:nth-child(4) {\n    color: #6f10a2\n}\n\nh1.top_animated_title span p:nth-child(4) i {\n    color: #510c76\n}\n\nh1.top_animated_title span.HomeSearch_animateText {\n    overflow: hidden\n}\n\nh1.top_animated_title span.HomeSearch_animateText p {\n    display: block;\n    height: 100%;\n    animation: HomeSearch_text-animation 12s infinite\n}\n\n@keyframes HomeSearch_text-animation {\n    10% {\n        transform: translateY(-100%)\n    }\n\n    25% {\n        transform: translateY(-100%)\n    }\n\n    35% {\n        transform: translateY(-200%)\n    }\n\n    50% {\n        transform: translateY(-200%)\n    }\n\n    60% {\n        transform: translateY(-300%)\n    }\n\n    75% {\n        transform: translateY(-300%)\n    }\n\n    85% {\n        transform: translateY(-400%)\n    }\n\n    to {\n        transform: translateY(-400%)\n    }\n\n}\n\n.styles_f_28__UP_0Z {\n    font-size: 28px;\n}\n\n.styles_f_36__G92pc {\n    font-size: 36px;\n}\n\n.ShareRequirementsBanner_shareGridBanner_banner {\n    width: calc((100% - 16px) / 2);\n    line-height: 0px;\n    cursor: pointer;\n}\n\n.ShareRequirementsBanner_shareGridBanner h4 {\n    font-weight: 600;\n    font-size: 25px;\n    line-height: 32px;\n    color: rgb(25, 25, 25);\n    width: 100%;\n    max-width: 346px;\n}\n\n@media only screen and (min-width:768px) {\n    .ShareRequirementsBanner_shareGridBanner #matchmakerBanner h4 {\n        max-width: calc(100% - 250px);\n    }\n\n}\n\n.ShareRequirementsBanner_shareGridBanner p {\n    font-size: 18px;\n    line-height: 24px;\n    color: rgb(76, 76, 76);\n    margin-top: 12px;\n    width: 100%;\n    max-width: 320px;\n}\n\n@media only screen and (min-width:768px) {\n    .ShareRequirementsBanner_shareGridBanner #matchmakerBanner p {\n        max-width: calc(100% - 250px);\n    }\n\n}\n\n.ShareRequirementsBanner_shareGridBanner button {\n    margin-top: 32px;\n    padding: 12px 16px;\n    background: rgb(111, 16, 162);\n    border: none;\n    border-radius: 12px;\n    font-weight: 500;\n    font-size: 16px;\n    line-height: 20px;\n    color: rgb(255, 255, 255);\n    cursor: pointer;\n    height: 44px;\n    width: 100%;\n    max-width: 193px;\n}\n\n@media only screen and (max-width:1280px) {\n    .ShareRequirementsBanner_shareGridBanner_banner02 {\n        background-position: right 25px bottom -1px;\n        background-size: 25%;\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    .ShareRequirementsBanner_shareGridBanner_banner {\n        width: 100%;\n        padding: 0px 16px;\n    }\n\n    .ShareRequirementsBanner_shareGridBanner h4 {\n        font-size: 20px;\n        line-height: 24px;\n        max-width: 250px;\n    }\n\n    .ShareRequirementsBanner_shareGridBanner p {\n        font-size: 14px;\n        line-height: 20px;\n        margin-top: 8px;\n        max-width: 190px;\n    }\n\n    .ShareRequirementsBanner_shareGridBanner button {\n        margin-top: 20px;\n        max-width: 140px;\n    }\n\n}\n\n@media screen and (max-width:1023px) {\n    .TrendingNow_containerInner {\n        padding: 0 20px\n    }\n\n    .TrendingNow_containerInner h2 {\n        font-size: 24px;\n        padding: 16px 0px;\n    }\n\n    .TrendingNow_trendSection {\n        margin-bottom: 24px;\n    }\n\n    .TrendingNow_trendSection:last-child {\n        margin-bottom: 0px;\n    }\n\n    .TrendingNow_trendSection h3 {\n        font-size: 24px;\n        padding: 12px 0px;\n    }\n\n}\n\n@media screen and (max-width:767px) {\n    .TrendingNow_trendSection .TrendingNow_text {\n        font-size: 18px\n    }\n\n    .TrendingNow_trendSection .TrendingNow_trendSectionCards img {\n        height: 170px !important\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    .TrendingNow_trendingSwiperNavNext, .TrendingNow_trendingSwiperNavPrev {\n        width: 40px;\n        height: 40px\n    }\n\n}\n\n@media screen and (max-width:767px) {\n    .TrendingNow_trendingSwiperNavNext, .TrendingNow_trendingSwiperNavPrev {\n        display: none\n    }\n\n}\n\n\n@media only screen and (max-width:979px) {\n    .TrendingNow_slide_default {\n        width: 70%;\n        max-width: 570px\n    }\n\n}\n\n@media only screen and (max-width:767px) {\n    .TrendingNow_slide_default {\n        width: 82%;\n        max-width: 420px\n    }\n\n}\n\nhtml[dir=rtl] .TrendingNow_slide_default {\n    margin-left: 24px;\n    margin-right: 0\n}\n\n@media screen and (max-width:1023px) {\n    .PostPropertyPromoBanner_promoBanner h2 {\n        font-size: 24px\n    }\n\n    .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_content p {\n        margin: 40px 0;\n        font-size: 14px;\n        line-height: 24px\n    }\n\n}\n\n@media screen and (max-width:767px) {\n    .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_content p {\n        line-height: 32px\n    }\n\n}\n\n@media screen and (max-width:576px) {\n    .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner .PostPropertyPromoBanner_content {\n        width: 100%\n    }\n\n}\n\n@media screen and (max-width:767px) {\n    .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner .PostPropertyPromoBanner_promoImage {\n        position: absolute;\n        right: 0;\n        bottom: 0\n    }\n\n}\n\n@media screen and (max-width:1023px) {\n    .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner {\n        padding: 0 20px\n    }\n\n}\n\n@media screen and (max-width:767px) {\n    .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_buttonCTA {\n        padding: 16px 24px;\n        font-size: 18px\n    }\n\n    .PostPropertyPromoBanner_promoBanner.PostPropertyPromoBanner_mobileDownloadBanner .PostPropertyPromoBanner_promoImage {\n        height: 300px;\n        margin-top: auto\n    }\n\n    .PostPropertyPromoBanner_promoBanner.PostPropertyPromoBanner_postPropertyBanner .PostPropertyPromoBanner_promoImage {\n        right: -60px;\n        bottom: -25px\n    }\n\n    .PostPropertyPromoBanner_promoBanner {\n        margin: 40px 0\n    }\n\n    html[dir=rtl] .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_containerInner .PostPropertyPromoBanner_promoImage {\n        position: absolute;\n        left: -60px;\n        right: auto\n    }\n\n}\n\n@media(max-width:991px) {\n    .style_discover_auction_section_inner {\n        flex-direction: column;\n        padding: 0\n    }\n\n    .style_discover_auction_section {\n        flex-direction: column;\n        margin: 50px 20px;\n        text-align: center\n    }\n\n}\n\n@media(min-width:320px)and (max-width:991px) {\n    .style_discover_auction_section .style_text_section {\n        min-width: 100%;\n        align-items: center\n    }\n\n}\n\n@media(max-width:767px) {\n    .style_discover_auction_section .style_text_section .style_text_section_desc {\n        font-size: 24px;\n        line-height: normal\n    }\n\n}\n\n@media(max-width:991px) {\n    .style_discover_auction_section .style_text_section button {\n        margin: 0 auto 50px;\n        width: 100%;\n        padding: 12px 48px;\n        min-width: 0\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    .ShareRequirementsBanner_shareGridBanner {\n        padding: 0px;\n    }\n\n    .Promotional_bannerwrap__VVacL.Promotional_homeMasterBanner {\n        margin: 0;\n        min-height: auto;\n        border: none;\n    }\n\n    .Promotional_bannerwrap {\n        height: auto;\n        width: calc(100% - 32px);\n        overflow: hidden;\n    }\n\n    .ShareRequirementsBanner_shareGridBanner_banner {\n        order: 1;\n        width: 100%;\n    }\n\n    .Promotional_bannerwrap.Promotional_homeMasterBanner {\n        margin: 0;\n        min-height: auto;\n        border: none;\n    }\n\n}\n\n.styles_muhakatatBannerImgWpr {\n    line-height: 0px;\n}\n\n@media only screen and (max-width:991px) {\n    .styles_muhakatatBanner .styles_muhakatatBannerInner {\n        width: auto;\n        padding: 18px 54px 24px 24px;\n        display: block;\n        position: relative;\n    }\n\n    .styles_muhakatatBanner .styles_muhakatatBannerImgWpr {\n        margin-top: 0;\n        width: 170px;\n        height: 135px;\n        position: absolute;\n        bottom: 0;\n        right: 0;\n    }\n\n    html[dir=rtl] .styles_muhakatatBanner .styles_muhakatatBannerImgWpr {\n        right: unset;\n        left: 15px\n    }\n\n    .styles_muhakatatBanner .styles_muhakatatBannerTextWpr {\n        width: auto\n    }\n\n    .styles_muhakatatBanner .styles_muhakatatBannerBtn {\n        height: 48px;\n        line-height: 48px;\n        padding: 0 12px;\n        font-weight: 500;\n        font-size: 16px;\n        margin-top: 56px;\n        border-radius: 4px\n    }\n\n    .styles_muhakatatBanner .styles_muhakatatBannerHeading {\n        font-weight: 700;\n        font-size: 24px;\n        line-height: 32px;\n        margin-top: 0;\n        margin-bottom: 16px\n    }\n\n    .styles_muhakatatBanner .styles_muhakatatBannerDesc {\n        font-weight: 500;\n        font-size: 14px;\n        line-height: 20px\n    }\n\n    .styles_muhakatatBanner .styles_muhakatatBannerDwldBtnWpr .styles_play-store-link, .styles_muhakatatBanner .styles_muhakatatBannerQrCodeText, .styles_muhakatatBanner .styles_muhakatatBannerQrCode {\n        display: none\n    }\n\n    .styles_muhakatatBanner.styles_muhakatatBannerAppDwld .styles_muhakatatBannerInner {\n        width: auto;\n        padding: 24px 15px 24px 24px\n    }\n\n    .styles_muhakatatBanner.styles_muhakatatBannerAppDwld .styles_muhakatatBannerHeading {\n        margin-top: 0;\n        font-weight: 700;\n        font-size: 24px;\n        line-height: 32px\n    }\n\n    .styles_muhakatatBanner.styles_muhakatatBannerAppDwld .styles_muhakatatBannerDesc {\n        margin-bottom: 60px\n    }\n\n    .styles_isNotDesktop {\n        display: none !important\n    }\n\n}\n\n.TrendingNow_trendingSwiperNavNext:disabled {\n    opacity: .6;\n    background-color: #fff;\n    color: #c4c4c4;\n    border-color: #c4c4c4;\n    cursor: no-drop;\n}\n\nhtml[dir=rtl] .TrendingNow_trendSection .TrendingNow_text {\n    margin-left: 0;\n    margin-right: 24px;\n}\n\nhtml[dir=rtl] .Promotional_bannerwrap_inner_image {\n    left: 0;\n    right: auto;\n}\n\nhtml[dir=rtl] .Promotional_bannerwrap_inner_content {\n    max-width: 315px;\n}\n\n.skeliton-info {\n    display: grid;\n    column-gap: 28px;\n    width: 100%;\n    grid-template-columns: auto auto auto;\n}\n\n.skeliton-info div {\n    width: 100%;\n    margin: 0;\n    height: 222px;\n    background: #F0F0F0;\n    border-radius: 8px;\n}\n\n@media only screen and (max-width:600px) {\n    .new-skeliton-section {\n        padding: 0 0 0 20px;\n    }\n\n    .skeliton-info {\n        display: flex;\n        align-items: center;\n        justify-content: flex-start;\n        column-gap: 24px;\n        width: auto;\n        grid-template-columns: none;\n        overflow: hidden;\n        flex-wrap: nowrap;\n    }\n\n    .skeliton-info div {\n        width: 275px;\n        margin: 0;\n        height: 170px;\n        background: #F0F0F0;\n        border-radius: 8px;\n        min-width: 275px;\n    }\n\n}\n\n.banner-mobile {\n    display: none;\n    width: 100%;\n}\n\n.banner-mobile a, .banner-desktop a {\n    display: block;\n    width: 100%;\n    height: 100%;\n}\n\n.banner-mobile img, .banner-desktop img {\n    width: 100%;\n}\n\n.banner-desktop img {\n    border-radius: 12px;\n}\n\n.banner-desktop {\n    width: 100%;\n    display: block;\n}\n\n@media only screen and (max-width:767px) {\n    .banner-desktop {\n        display: none;\n    }\n\n    .banner-mobile {\n        display: block;\n    }\n\n}\n\nhtml[dir=rtl] .Promotional_bannerwrap:after {\n    right: auto;\n    left: 0;\n}\n\n.TrendingNow_trendSection h3 .TrendingNow_icon i {\n    font-size: 36px;\n}\n\n.TrendingNow_locationMarker .TrendingNow_icon i {\n    font-size: 14px;\n}\n\nhtml[dir=rtl] .Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner {\n    padding-top: 72px\n}\n\n.Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner html[dir=rtl] .Promotional_bannerwrap_inner_content_btn, html[dir=rtl] .Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner .Promotional_bannerwrap_inner_content_btn, html[dir=rtl] .Promotional_bannerwrap_inner_content_btn {\n    font-weight: 500;\n}\n\n[dir=rtl] .style_discover_auction_section .style_text_section .style_text_section_title {\n    letter-spacing: 0;\n}\n\n[dir=rtl] .style_discover_auction_section .style_text_section .style_text_section_desc {\n    max-width: 500px;\n}\n\nhtml[dir=rtl] .TrendingNow_trendSection .TrendingNow_icon {\n    margin-left: 8px;\n    margin-right: 0;\n}\n\nhtml[dir=rtl] .TrendingNow_trendSection .TrendingNow_trendSectionCards .TrendingNow_locationMarker .TrendingNow_text {\n    font-weight: 500;\n    margin-right: 0;\n}\n\n.TrendingNow_trendingSwiperNavNext i, .TrendingNow_trendingSwiperNavPrev i {\n    width: 18px;\n    height: 18px;\n    font-size: 18px;\n}\n\nhtml[dir=rtl] .TrendingNow_trendSection .TrendingNow_trendSectionCards .TrendingNow_locationMarker {\n    min-width: 100px;\n}\n\n@media only screen and (max-width:991px) {\n    .Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner .Promotional_bannerwrap_inner_content_btn, .Promotional_bannerwrap_inner_content_btn {\n        padding: 10px 20px;\n        width: 177px;\n    }\n\n    .Promotional_bannerwrap:after, .Promotional_bannerwrap::before {\n        display: none\n    }\n\n}\n\n@media only screen and (max-width:991px) {\n    html[dir=rtl] .Promotional_bannerwrap.Promotional_homeMasterBanner .Promotional_bannerwrap_inner {\n        padding-top: 18px;\n    }\n\n}\n\n@media screen and (max-width:1023px) {\n    .PostPropertyPromoBanner_promoBanner .PostPropertyPromoBanner_content p {\n        margin: 24px 0;\n    }\n\n}\n\n.QFBanner {\n    width: 100%;\n}\n\n.QFBanner img {\n    width: 100%;\n}\n\n@media only screen and (min-width:762px) {\n    .QFBanner {\n        pointer-events: none;\n    }\n\n}\n\n@media(max-width:767px) {\n    .alinma-bank {\n        display: block;\n        width: 100%;\n        margin: 8px 16px !important;\n    }\n\n    .alinma-bank a {\n        display: block;\n    }\n\n    .alinma-bank img {\n        display: block;\n    }\n\n}\n\n.alinma-bank {\n    display: block;\n    width: 100%;\n    margin: 24px 0px;\n    border-radius: 8px;\n}\n\n.alinma-bank img {\n    display: block;\n    object-fit: cover;\n    width: 100% !important;\n}\n\n.alinma-bank a {\n    display: block;\n}\n\n.alinma-bank picture {\n    display: block;\n    width: 100%;\n    height: 100%;\n}\n\n.icon_img {\n    width: 36px !important;\n    height: 36px !important;\n}\n\n.factoids_container {\n    display: flex;\n    align-items: flex-start;\n    flex-direction: column;\n}\n\n.factoids_container span {\n    color: #36434E;\n    font-size: 14px;\n    font-style: normal;\n    font-weight: 400;\n    margin-right: 16px;\n}\n\n@media(max-width:767px) {\n    .icon_img {\n        width: 32px !important;\n        height: 32px !important;\n    }\n\n    .factoids_container span {\n        font-size: 13px;\n        font-weight: 400;\n        line-height: 16px;\n        color: #393F4F;\n    }\n\n}\n\n.propgeniusBanner_container {\n    cursor: pointer;\n}\n\n</style>\n<script src=\"https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js\"></script>\n<script src=\"https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js\"></script>\n<script type=\"text/javascript\" src=\"https://cms.wasalt.com/uploads/homepage_Events_74729a5d62.js\"></script>\n<script type=\"text/javascript\" src=\"https://cms.wasalt.com/uploads/home.js\"></script>\n<script>\n    //First swiper\n    var swiper = new Swiper(\".mySwiper\", {\n        slidesPerView: 3,\n        spaceBetween: 24,\n        speed: 500,\n        pagination: {\n            el: \".swiper-pagination\",\n            clickable: !0\n        },\n        navigation: {\n            nextEl: \".custom_villa_next\",\n            prevEl: \".custom_villa_prev\"\n        },\n        // Responsive breakpoints\n        breakpoints: {\n            300: {\n                slidesPerView: 1.20,\n                spaceBetween: 24\n            },\n            640: {\n                slidesPerView: 2.20,\n                spaceBetween: 24\n            },\n            1024: {\n                slidesPerView: 3,\n                spaceBetween: 24\n            }\n        }\n    });\n</script>\n<script>\n\n\n    //Second Swiper\nvar swiper=new Swiper(\".mySwipersecond\", {\n\n  slidesPerView: 3,\n  spaceBetween: 24,\n  speed: 500,\n  pagination: {\n      el: \".swiper-pagination\",\n      clickable: !0,\n  },\n  navigation: {\n      nextEl: \".custom_apartments_next\",\n      prevEl: \".custom_apartments_prev\",\n  },\n  // Responsive breakpoints\n  breakpoints: {\n      300: {\n          slidesPerView: 1.3,\n          spaceBetween: 24,\n      },\n      481: {\n          slidesPerView: 2.2,\n          spaceBetween: 24,\n      },\n      640: {\n          slidesPerView: 2.5,\n          spaceBetween: 24,\n      },\n      1024: {\n          slidesPerView: 3,\n          spaceBetween: 24,\n      },\n  }\n\n  ,\n});\n\n</script>\n<script>\n    var trendingApartments = [\n        {\n            \"id\": 1040,\n            \"title\": \"الرياض\",\n            \"url\": \"/شقق-للبيع-في-الرياض\",\n            \"image\": \"https://assets.wasalt.com/others/icons/apartments-for-sale-in-riyadh.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=273&property_types=39&propertyTypeData=apartment\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"273\",\n            \"property_types\": \"39\",\n            \"propertyTypeData\": \"apartment\"\n        },\n        {\n            \"id\": 1042,\n            \"title\": \"جدة\",\n            \"url\": \"/شقق-للبيع-في-جدة\",\n            \"image\": \"https://assets.wasalt.com/others/icons/apartments-for-sale-in-jeddah.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=274&property_types=39&propertyTypeData=apartment\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"274\",\n            \"property_types\": \"39\",\n            \"propertyTypeData\": \"apartment\"\n        },\n        {\n            \"id\": 1044,\n            \"title\": \"مكة\",\n            \"url\": \"/شقق-للبيع-في-مكة\",\n            \"image\": \"https://assets.wasalt.com/others/icons/apartments-for-sale-in-makkah.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=275&property_types=39&propertyTypeData=apartment\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"275\",\n            \"property_types\": \"39\",\n            \"propertyTypeData\": \"apartment\"\n        },\n        {\n            \"id\": 1046,\n            \"title\": \"المدينة\",\n            \"url\": \"/شقق-للبيع-في-المدينة\",\n            \"image\": \"https://assets.wasalt.com/others/icons/apartments-for-sale-in-madinah.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=276&property_types=39&propertyTypeData=apartment\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"276\",\n            \"property_types\": \"39\",\n            \"propertyTypeData\": \"apartment\"\n        }\n\n    ];\n\n    var trendingVillas = [\n        {\n            \"id\": 1039,\n            \"title\": \"الرياض\",\n            \"url\": \"/فلل-للبيع-في-الرياض\",\n            \"image\": \"https://assets.wasalt.com/others/icons/villas-for-sale-in-riyadh.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=273&property_types=41&propertyTypeData=villa-townhouse\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"273\",\n            \"property_types\": \"41\",\n            \"propertyTypeData\": \"villa-townhouse\"\n        },\n        {\n            \"id\": 1041,\n            \"title\": \"جدة\",\n            \"url\": \"/فلل-للبيع-في-جدة\",\n            \"image\": \"https://assets.wasalt.com/others/icons/villas-for-sale-in-jeddah.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=274&property_types=41&propertyTypeData=villa-townhouse\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"274\",\n            \"property_types\": \"41\",\n            \"propertyTypeData\": \"villa-townhouse\"\n        },\n        {\n            \"id\": 1043,\n            \"title\": \"مكة\",\n            \"url\": \"/فلل-للبيع-في-مكة\",\n            \"image\": \"https://assets.wasalt.com/others/icons/villas-for-sale-in-makkah.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=275&property_types=41&propertyTypeData=villa-townhouse\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"275\",\n            \"property_types\": \"41\",\n            \"propertyTypeData\": \"villa-townhouse\"\n        },\n        {\n            \"id\": 1045,\n            \"title\": \"المدينة\",\n            \"url\": \"/فلل-للبيع-في-المدينة\",\n            \"image\": \"https://assets.wasalt.com/others/icons/villas-for-sale-in-madinah.jpeg\",\n            \"reference_url\": \"sale/search?type=residential&countryId=1&cityId=276&property_types=41&propertyTypeData=villa-townhouse\",\n            \"categ\": \"sale\",\n            \"locale\": \"ar\",\n            \"zoneId\": null,\n            \"type\": \"residential\",\n            \"countryId\": \"1\",\n            \"cityId\": \"276\",\n            \"property_types\": \"41\",\n            \"propertyTypeData\": \"villa-townhouse\"\n        }\n    ]\n    //trendingNowSection(\"trending_villas\", trendingVillas);\n    trendingNowSection(\"trending_apartments\", trendingApartments);\n    trendingNowVillasSection(\"trending_villas\", trendingVillas);\n</script>\n\n<script>\n    fetch('https://api.wasalt.com/misc/v1/blog-banners?name=blog&page=home&platform=mobapp')\n        .then(response => response.json())\n        .then(data => {\n            const blogContainer = document.getElementById('blogContainer');\n            const banners = data.data.banners;\n\n            banners.forEach(banner => {\n                const cardLink = document.createElement('a');\n                cardLink.href = banner.cta_link;\n                cardLink.setAttribute('target', \"_blank\");\n                cardLink.classList.add('swiper-slide');\n                cardLink.classList.add('blog-card');\n                blogContainer.appendChild(cardLink);\n\n                const image = document.createElement('img');\n                image.src = banner.logo;\n                image.setAttribute('alt', banner.title);\n                image.setAttribute('loading', 'lazy');\n                cardLink.appendChild(image);\n\n                const title = document.createElement('h2');\n                title.textContent = banner.title;\n                cardLink.appendChild(title);\n            });\n\n            const swiper = new Swiper('.swiper-container', {\n                slidesPerView: 1.5,\n                spaceBetween: 20,\n                breakpoints: {\n                    640: {\n                        slidesPerView: 1.5,\n                        spaceBetween: 20,\n                    },\n                    768: {\n                        slidesPerView: 3,\n                        spaceBetween: 20,\n                    },\n                    1024: {\n                        slidesPerView: 5,\n                        spaceBetween: 20,\n                    }\n                },\n            });\n        })\n        .catch(error => console.error('Error fetching blog data:', error));\n</script>\n\n<style>\n.city-banner-villa-hp {\n    display: grid;\n    padding: 0 25px;\n    box-sizing: border-box;\n    overflow-x: auto;\n    white-space: nowrap;\n    margin: 0 -25px;\n    grid-template-columns: repeat(4, 1fr);\n    grid-gap: 20px;\n}\n\n.city-banner-villa-hp .city-banner-card {\n    height: 190px;\n    border-radius: 12px;\n    display: flex;\n    align-items: center;\n    justify-content: flex-end;\n    text-decoration: none;\n    border-radius: 8px;\n    background: grey;\n    position: relative !important;\n    overflow: hidden;\n    flex: 0 0 auto;\n}\n\n.city-banner-villa-hp .city-banner-card-content {\n    display: flex;\n    flex-direction: column;\n    margin-left: 32px;\n    gap: 12px;\n    align-items: flex-start;\n    z-index: 1;\n}\n\n.city-banner-villa-hp .city-banner-card-content>button {\n    background: #fff;\n    color: #000;\n    padding: 4px 10px;\n    border-radius: 8px;\n    border: 0;\n    display: flex;\n    max-width: 80px;\n    justify-content: center;\n    font-size: 14px;\n    font-weight: 500;\n    cursor: pointer;\n}\n\n.city-banner-villa-hp .city-banner-card-content span {\n    color: #fff;\n    font-size: 24px;\n    font-weight: 500;\n}\n\n.city-banner-villa-hp .city-banner-card img {\n    position: absolute;\n    right: 0;\n    bottom: 0;\n    height: auto !important;\n    width: auto !important;\n    display: flex;\n    transform: scaleX(-1);\n}\n\n.city-banner-villa-hp .city-banner-card.city-riyadh {\n    background: linear-gradient(-90deg, #4cb8c4 0%, #3cd3ad 100%);\n}\n\n.city-banner-villa-hp .city-banner-card.city-jeddah {\n    background: linear-gradient(-90deg, #f4b5a5 0%, #f58d7e 100%);\n}\n\n.city-banner-villa-hp .city-banner-card.city-makkah {\n    background: linear-gradient(-90deg, #8dbbe8 0%, #5ca1e5 100%);\n}\n\n.city-banner-villa-hp .city-banner-card.city-madinah {\n    background: linear-gradient(-90deg, rgba(252, 229, 124, 0.9) 0%, rgba(247, 173, 49, 0.9) 100%);\n}\n\n.city-banner-villa-hp .city-banner-card.city-madinah img {\n    right: -50px;\n}\n\n.city-banner-villa-hp::-webkit-scrollbar {\n    width: 0;\n}\n\n@media screen and (max-width:1023px) {\n    .city-banner-villa-hp .city-banner-card img {\n        height: 84% !important;\n    }\n\n    .city-banner-villa-hp .city-banner-card {\n        height: 170px;\n    }\n\n    .city-banner-villa-hp .city-banner-card {\n        min-width: 290px;\n    }\n\n    .city-banner-villa-hp .city-banner-card.city-madinah img {\n        right: -35px;\n    }\n\n    .TrendingNow_containerInner {\n        overflow: hidden;\n    }\n\n}\n\n@media screen and (max-width:480px) {\n    .TrendingNow_trendSectionCards .swiper {\n        overflow: visible;\n    }\n\n    .city-banner-villa-hp {\n        gap: 24px;\n    }\n\n    .city-banner-villa-hp::-webkit-scrollbar {\n        display: none;\n    }\n\n    .city-banner-villa-hp {\n        grid-template-columns: repeat(5, 1fr);\n    }\n\n    .extra-space-trending-section {\n        display: flex !important;\n        width: 1px;\n    }\n\n}\n\n.extra-space-trending-section {\n    display: none;\n}\n\n.Factoids_factoids .Factoids_factoidsItem i {\n    display: flex;\n}\n\n.styles_f_32__3v3jv {\n    font-size: 32px;\n}\n\n.rize-bank {\n    width: 100%;\n    height: 100%;\n    line-height: 0px;\n}\n\n@media screen and (max-width:761px) {\n    .rize-bank {\n        display: none;\n    }\n\n    .rize-bank-msite {\n        display: block;\n        padding: 0 16px;\n        width: 100%;\n    }\n\n    .rize-bank-msite a {\n        width: 100%;\n        height: 100%;\n    }\n\n    .rize-bank-msite img {\n        width: 100% !important;\n    }\n\n}\n\n@media screen and (min-width:761px) {\n    .rize-bank-msite {\n        display: none;\n    }\n\n}\n\n.rize-bank a {\n    display: block;\n    max-height: 265px;\n}\n\n.rize-bank img {\n    width: 100%;\n}\n\n.rize-bank-msite a {\n    display: block;\n    width: 100%;\n    height: 100%;\n}\n\n@media screen and (min-width:768px) {\n    .PostPropertyPromoBanner_container {\n        display: flex;\n        justify-content: center;\n    }\n\n}\n\n/* blog css*/\n.blog-card img {\n    height: 160px;\n    width: 100%;\n    object-fit: cover;\n}\n\n.blog-card {\n    border-radius: 12px;\n    border: 1px solid #E1E4E8;\n    background: #FFF;\n    overflow: hidden;\n    text-align: right;\n    text-decoration: none;\n    display: flex;\n    justify-content: flex-end;\n    flex-direction: column;\n}\n\n.blog-card h2 {\n    margin: 16px 0;\n    padding: 0 16px;\n    font-size: 18px;\n    color: #1D252D;\n    font-weight: 400;\n    font-family: 'Noto Kufi Arabic', sans-serif;\n}\n\n.blog-container {\n    display: flex;\n    flex-flow: wrap;\n    justify-content: space-between;\n    padding: 0 20px;\n    overflow: hidden;\n}\n\n.blog-container>h2 {\n    color: #1D252D;\n    padding: 0;\n    font-size: 25px;\n    font-weight: 600;\n    padding: 20px 0px;\n}\n\n@media screen and (min-width:1024px) {\n    .blog-container {\n        width: 100%;\n        max-width: 1228px;\n        margin: 0px auto;\n        padding: 0;\n    }\n\n}\n\n@media screen and (max-width:767px) {\n    .blog-container>h2 {\n        padding: 16px 0px;\n    }\n\n}\n\n/*post property banner fix 20 may */\n@media screen and (max-width:767px) {\n    .PostPropertyPromoBanner_container picture img {\n        width: 100% !important;\n    }\n\n}\n\n</style>\n\n<style>\n@media only screen and (min-width:1600.98px) {\n    .HomeSearch_homBannerWrapper__ogbGy {\n        margin-left: 60px;\n    }\n\n    .HomeSearch_videoBanner__TFFun {\n        min-height: 510px !important;\n    }\n\n}\n\n/*  banner updates */\n@media screen and (min-width:1280px) and (max-width:1400px) {\n    .HomeSearch_videoBanner__tBUxI .HomeSearch_homBannerWrapper__BqPXL img {\n        object-position: -200px 0\n    }\n\n}\n\n@media screen and (min-width:1024px) {\n    .HomeSearch_videoBanner__tBUxI .HomeSearch_containerInner__AMVhg {\n        top: 100px !important;\n    }}\n    .postPropertyContainer {\n      margin: 0px auto;\n      max-width: 1228px;\n      display: flex;\n      flex-wrap: wrap;\n      align-content: center;\n      gap: 20px;\n    }\n\n    .postPropertyContainer aside {\n      width: calc((100% - 20px) / 2);\n    }\n\n    .postPropertyContainer aside a {\n      border-radius: 20px;\n      border: 1px solid #F3F6FA;\n      background-color: #F3F6FA;\n      display: flex;\n      align-items: center;\n      gap: 20px;\n      padding: 20px;\n      width: 100%;\n    }\n\n    .postPropertyContainer figure {\n      border-radius: 12px;\n      line-height: 0px;\n      overflow: hidden;\n      width: 202px;\n    }\n\n    .postPropertyContainer figure img {\n      width: 100%;\n    }\n\n    .postPropertyContainer .content {\n      width: calc(100% - 222px);\n    }\n\n    .postPropertyContainer h3 {\n      color: #1D252D;\n      text-align: right;\n      font-family: \"Noto Kufi Arabic\";\n      font-size: 25px;\n      font-weight: 600;\n      line-height: 35px;\n    }\n\n    .postPropertyContainer p {\n      color: var(--Cool-Grey-500, #566470);\n      text-align: right;\n      font-family: \"Noto Kufi Arabic\";\n      font-size: 16px;\n      font-weight: 400;\n      line-height: 24px;\n      margin-top: 4px;\n    }\n\n    .postPropertyContainer span {\n      border-radius: 12px;\n      border: none;\n      background-color: #6F10A2;\n      cursor: pointer;\n      display: inline-flex;\n      justify-content: center;\n      align-items: center;\n      gap: 8px;\n      height: 44px;\n      padding: 0 16px;\n      margin-top: 16px;\n      color: #FFF;\n      font-family: \"Noto Kufi Arabic\";\n      font-size: 16px;\n      font-weight: 500;\n      line-height: 20px;\n      text-decoration: none;\n    }\n\n    @media only screen and (max-width:991.98px) {\n      .postPropertyContainer {\n        padding: 0px 20px;\n        gap: 24px;\n      }\n\n      .postPropertyContainer aside {\n        width: 100%;\n      }\n\n      .postPropertyContainer aside a {\n        border-radius: 16px;\n        gap: 16px;\n        padding: 24px 12px 24px 8px;\n        align-items: flex-start;\n      }\n\n      .postPropertyContainer figure {\n        width: 112px;\n      }\n\n      .postPropertyContainer .content {\n        width: calc(100% - 128px);\n      }\n\n      .postPropertyContainer h3 {\n        font-size: 18px;\n        line-height: 24px;\n      }\n\n      .postPropertyContainer p {\n        font-size: 13px;\n        line-height: 16px;\n      }\n\n      .postPropertyContainer span {\n        border-radius: 8px;\n        height: 32px;\n        padding: 0 12px;\n        font-size: 14px;\n      }\n    }\n\n    </style>"
+    },
+    "body_content": {
+      "mainHeading": "<div class=\"fontHeading\">\n        <div>المنصة الأولى في السعودية تستخدم </div>\n        <div class=\"secondHeading\"><span>\n            <i title=\"\" class=\"iconwasalt icon-verified\"></i></span>\n            <span>الذكاء الاصطناعي بالعقار</span>\n        </div>\n      </div>",
+      "banner": {
+        "id": 5203,
+        "homeBanner": "https://cdn.wasalt.sa/images/homebanner/homebanner13.webp"
+      },
+      "_html": "<div class=\"StrapiContainer\">\n  <div class=\"Factoids_factoids\">\n    <div class=\"Factoids_containerInner\">\n      <div class=\"Factoids_factoidsItem\">\n        <img\n          class=\"icon_img\"\n          src=\"https://cdn.wasalt.com/images/property_listingIcon.svg\"\n        />\n        <div class=\"factoids_container\">\n          <div class=\"Factoids_text\">العروض العقارية</div>\n          <span>عروض موثقة من الهيئة العامة للعقار</span>\n        </div>\n      </div>\n      <div class=\"Factoids_factoidsItem\">\n        <img\n          class=\"icon_img\"\n          src=\"https://cdn.wasalt.com/images/AI_homeIcon.svg\"\n        />\n        <div class=\"factoids_container\">\n          <div class=\"Factoids_text\">الذكاء الاصطناعي</div>\n          <span>توقعات العائد الاستثماري وتقييم العقارات</span>\n        </div>\n      </div>\n      <div class=\"Factoids_factoidsItem\">\n        <img\n          class=\"icon_img\"\n          src=\"https://cdn.wasalt.com/images/interactive_mapIcon.svg\"\n        />\n        <div class=\"factoids_container\">\n          <div class=\"Factoids_text\">الخرائط التفاعلية</div>\n          <span>التنقل بين الأحياء و المدن عن طريق الخرائط</span>\n        </div>\n      </div>\n    </div>\n  </div>\n  <!--$-->\n  <!-- <div class=\"PostPropertyPromoBanner_container propgeniusBanner_container\" id=\"propgeniusAIBanner\">\n        <picture>\n            <source media=\"(min-width:767px)\" srcset=\"https://cdn.wasalt.com/images/propgenius-homepage-ar-02042024.webp\">\n            <img src=\"https://cdn.wasalt.com/images/propgenius-mobile-ar-02042024.webp\" alt=\"propgenius.ai banner\" style=\"width:100%;\">\n          </picture>  \n    </div> -->\n    <div class=\"postPropertyContainer\">\n      <aside>\n        <a href=\"https://business.wasalt.sa/ar/login\">\n          <figure>\n            <img src=\"https://cdn.wasalt.com/images/homebanner/postPropertyHomeBanner.webp\" alt=\"Post Property\">\n          </figure>\n          <div class=\"content\">\n            <h3>هل لديك عقار للبيع أو الإيجار؟</h3>\n            <p>سوق عقارك على وصلت</p>\n            <span>\n            إضافة إعلان\n            </span>\n          </div>\n        </a>\n      </aside>\n\n      <aside>\n        <a href=\"https://wasalt.sa/wb-daily-rentals\">\n          <figure>\n            <img src=\"https://cdn.wasalt.com/images/homebanner/dailyRentalHomeBanner.webp\" alt=\"daily rentals\">\n          </figure>\n          <div class=\"content\">\n            <h3>الإيجارات اليومية أسهل مع وصلت</h3>\n            <p>تسوية أسبوعية للأرباح، وتأمين مجاني وعمولة منخفضة</p>\n            <span>\n            سجّل اهتمامك\n            </span>\n          </div>\n        </a>\n      </aside>\n  </div>\n  <div class=\"swipperWrapper\">\n    <div class=\"swipercontainer\">\n      <swiper-container\n        class=\"auctionSwiper initial-hidden\"\n        pagination=\"true\"\n        space-between=\"2\"\n        pagination-clickable=\"true\"\n        navigation=\"false\"\n        autoplay-delay=\"3000\"\n        centered-slides=\"true\"\n        autoplay-disable-on-interaction=\"false\"\n      >\n        <swiper-slide>\n          <div class=\"homepage_banner_visible\" id=\"Christie\">\n            <a href=\"https://cire-saudi.com?utm_source=wasalt\" target=\"_blank\">\n              <picture>\n                <source media=\"(min-width:767px)\" srcset=\"https://cdn.wasalt.com/images/Christie-banner-ar.webp\" />\n                <img src=\"https://cdn.wasalt.com/images/Christie-banner-msite-ar.webp\" alt=\"Christie\"/>\n              </picture>\n            </a>\n          </div>\n        </swiper-slide>\n        <!-- <swiper-slide>\n          <div class=\"homepage_banner_visible\">\n            <a href=\"https://wasaltbusiness.onelink.me/kqgt/4pyisjsu\" target=\"_blank\">\n              <picture>\n                <source media=\"(min-width:767px)\" srcset=\"https://cdn.wasalt.com/manuals/banners/Quara-Finance-Home-Ar-Desk.webp\" />\n                <img src=\"https://cdn.wasalt.com/manuals/banners/Quara-Finance-Ar-Msite.webp\" alt=\"Quara Finance\" style=\"width: auto\" />\n              </picture>\n            </a>\n          </div>\n        </swiper-slide> -->\n      </swiper-container>\n    </div>\n  </div>\n  <div class=\"TrendingNow_containerInner\">\n    <h2>اختيارات وصلت</h2>\n\n    <div class=\"TrendingNow_trendSection\">\n      <h3>\n        <span aria-hidden=\"true\" class=\"TrendingNow_icon\"\n          ><i\n            title\n            class=\"iconwasalt icon-villa styles_color_darkPurple\"\n          ></i></span\n        ><span class=\"TrendingNow_text\">فلل للبيع </span>\n      </h3>\n      <div class=\"TrendingNow_trendSectionCards\">\n        <div class=\"\">\n          <div class=\"city-banner-villa-hp\" id=\"trending_villas\">\n            <a href=\"/فلل-للبيع-في-الرياض\" class=\"city-banner-card city-riyadh\">\n              <img src=\"https://cdn.wasalt.com/images/city-riyadh.svg\" />\n              <div class=\"city-banner-card-content\">\n                <span>الرياض</span>\n                <button>عرض الكل</button>\n              </div>\n            </a>\n            <a href=\"/فلل-للبيع-في-جدة\" class=\"city-banner-card city-jeddah\">\n              <img src=\"https://cdn.wasalt.com/images/city-jeddah.svg\" />\n              <div class=\"city-banner-card-content\">\n                <span>جدة</span>\n                <button>عرض الكل</button>\n              </div>\n            </a>\n            <a href=\"/فلل-للبيع-في-مكة\" class=\"city-banner-card city-makkah\">\n              <img src=\"https://cdn.wasalt.com/images/city-makkah.svg\" />\n              <div class=\"city-banner-card-content\">\n                <span>مكة</span>\n                <button>عرض الكل</button>\n              </div>\n            </a>\n            <a\n              href=\"/فلل-للبيع-في-المدينة\"\n              class=\"city-banner-card city-madinah\"\n            >\n              <img src=\"https://cdn.wasalt.com/images/city-madinah.svg\" />\n              <div class=\"city-banner-card-content\">\n                <span>المدينة</span>\n                <button>عرض الكل</button>\n              </div>\n            </a>\n            <span class=\"extra-space-trending-section\"></span>\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <div class=\"TrendingNow_trendSection\">\n      <h3>\n        <span aria-hidden=\"true\" class=\"TrendingNow_icon\"\n          ><i\n            title\n            class=\"iconwasalt icon-apartment styles_color_darkPurple\"\n          ></i></span\n        ><span class=\"TrendingNow_text\">شقق للبيع</span>\n      </h3>\n      <div class=\"TrendingNow_trendSectionCards\">\n        <div class=\"swiper mySwipersecond\">\n          <div class=\"swiper-wrapper\" id=\"trending_apartments\">\n            <div class=\"skeliton-info\">\n              <div></div>\n              <div></div>\n              <div></div>\n            </div>\n          </div>\n          <span class=\"swiper-notification\"></span>\n        </div>\n        <button\n          type=\"button\"\n          class=\"TrendingNow_trendingSwiperNavPrev custom_apartments_prev swiper-button-disabled\"\n        >\n          <i title class=\"iconwasalt icon-chevron-right\"></i></button\n        ><button\n          type=\"button\"\n          class=\"TrendingNow_trendingSwiperNavNext custom_apartments_next\"\n        >\n          <i title class=\"iconwasalt icon-chevron-left\"></i>\n        </button>\n      </div>\n    </div>\n  </div>\n  <!--/$-->\n  <!--$-->\n  <div class=\"PostPropertyPromoBanner_container\" id=\"addProperty\">\n    <a href=\"https://business.wasalt.sa/ar/login\">\n      <picture>\n        <source\n          media=\"(min-width:767px)\"\n          srcset=\"\n            https://cdn.wasalt.com/manuals/mm_banners/bannerForPostProperty_home_desktop_ar_1228_1x.webp\n          \"\n        />\n        <img\n          src=\"https://cdn.wasalt.com/manuals/mm_banners/bannerForPostProperty_home_msite_ar_1x.png\"\n          alt=\"bank\"\n          style=\"width: auto\"\n        />\n      </picture>\n    </a>\n  </div>\n  <!--/$-->\n  <!--$-->\n  <div class=\"style_discover_auction_section hidethisSection\">\n    <div class=\"style_discover_auction_section_inner\">\n      <div class=\"style_text_section\">\n        <label class=\"style_text_section_title\">المزادات</label>\n        <label class=\"style_text_section_desc\">\n          شارك في مزاداتنا الالكترونية الخاصة بالعقارات!\n          <!-- -->\n        </label>\n        <a href=\"https://auction.wasalt.com\" id=\"auctionBannerCTA\"\n          ><button>اكتشف المزادات</button></a\n        >\n      </div>\n      <div class=\"style_image_section\">\n        <img\n          alt\n          src=\"https://cms.wasalt.com/uploads/auction_Banner_Arabic_Optimized_eaa6645a_eef40a386f.png\"\n          width=\"700\"\n          height=\"420\"\n          decoding=\"async\"\n          data-nimg=\"1\"\n          class=\"image\"\n          loading=\"lazy\"\n          style=\"color: transparent; max-width: 100%; height: auto\"\n        />\n      </div>\n    </div>\n  </div>\n  <div class=\"swipperWrapper\">\n    <div class=\"swipercontainer\">\n      <swiper-container\n        class=\"auctionSwiper initial-hidden\"\n        pagination=\"true\"\n        space-between=\"2\"\n        pagination-clickable=\"true\"\n        navigation=\"false\"\n        autoplay-delay=\"3000\"\n        centered-slides=\"true\"\n        autoplay-disable-on-interaction=\"false\"\n      >\n        <swiper-slide>\n          <div class=\"homepage_banner_visible\">\n            <a\n              class=\"auctionBanner\"\n              href=\"https://auction.wasalt.com/auction-group/821\"\n              target=\"_blank\"\n            >\n              <img\n                data-id=\"821\"\n                data-type=\"Infath\"\n                src=\"https://cdn.wasalt.com/manuals/banners/homepage-821.webp\"\n                class=\"for_dekstop\"\n              />\n              <img\n                data-id=\"821\"\n                data-type=\"Infath\"\n                src=\"https://cdn.wasalt.com/manuals/banners/mobile-821.webp\"\n                class=\"for_mobile\"\n              />\n            </a>\n          </div>\n        </swiper-slide>\n      </swiper-container>\n    </div>\n  </div>\n  <!--/$-->\n  <!--$-->\n  <div class=\"ShareRequirementsBanner_shareGridBanner\">\n    <div\n      class=\"ShareRequirementsBanner_shareGridBanner_banner ShareRequirementsBanner_shareGridBanner_banner\"\n      id=\"matchmakerBanner\"\n    >\n      <img src=\"https://cdn.wasalt.com/images/mm-msite-home-ar-68cd4874722c2.webp\" id=\"matchmaker_button\" />\n    </div>\n    <div\n      class=\"Promotional_bannerwrap Promotional_homeMasterBanner null\"\n      id=\"masterplanBanner\"\n    >\n      <div class=\"Promotional_bannerwrap_inner Promotional_banner_height\">\n        <div class=\"Promotional_bannerwrap_inner_content\">\n          <div class=\"Promotional_bannerwrap_inner_contentInfo\">\n            <h2 class=\"Promotional_bannerwrap_inner_content_heading\">\n              وقف على أرضك من جوالك\n            </h2>\n            <p class=\"Promotional_bannerwrap_inner_content_desc\">\n              اكتشف المخططات والأراضي المتوفرة وأسعارها وابدأ الاستثمار.\n            </p>\n          </div>\n          <a class=\"Promotional_bannerwrap_inner_content_btn\">تصفح المخططات</a>\n        </div>\n        <div class=\"Promotional_bannerwrap_inner_image\">\n          <img\n            alt=\"Masterplan Promotion\"\n            src=\"https://cdn.wasalt.com/images/masterplan_banner_phone_AR.png\"\n            width=\"188\"\n            height=\"233\"\n            decoding=\"async\"\n            data-nimg=\"1\"\n            loading=\"lazy\"\n            style=\"color: transparent\"\n          />\n        </div>\n      </div>\n    </div>\n    <!-- <div class=\"rize-bank\" id=\"rizeBank\">\n      <a href=\"https://wasalt.sa/rnpl/rize\">\n        <img src=\"https://cms.wasalt.com/uploads/HomeAR.png\" alt=\"bank\" />\n      </a>\n    </div> -->\n  </div>\n  <!--/$-->\n   <!-- <div class=\"rize-bank-msite\" id=\"rizeBank-msite\">\n    <a href=\"https://wasalt.sa/rnpl/rize\">\n      <img src=\"https://cms.wasalt.com/uploads/msiteAr.png\" alt=\"bank\" />\n    </a>\n  </div> -->\n  <!--$-->\n\n  <div class=\"swiper-container blog-container\">\n    <h2>معلومات من وصلت</h2>\n    <div class=\"swiper-wrapper\" id=\"blogContainer\">\n      <!-- Blog cards will be dynamically inserted here -->\n    </div>\n  </div>\n\n  <div class=\"styles_muhakatatBanner styles_muhakatatBannerAppDwld\">\n    <div class=\"styles_muhakatatBannerInner\">\n      <div class=\"styles_muhakatatBannerTextWpr\">\n        <h2 class=\"styles_muhakatatBannerHeading\">حمل تطبيقنا</h2>\n        <div class=\"styles_muhakatatBannerDesc\">\n          اضغط على الرابط ادناه لتحميل تطبيق وصلت وتصفح الآلاف من العقارات\n        </div>\n        <div class=\"styles_muhakatatBannerDwldBtnWpr\">\n          <a\n            href=\"https://apps.apple.com/in/app/wasalt/id1588885673?utm_source=Desktop&amp;utm_medium=Home&amp;utm_campaign=web_bottom_install_iOS\"\n            id=\"ios\"\n            ><img\n              alt=\"Play Store\"\n              src=\"https://wasalt.com/images/AppStore.svg\"\n              width=\"172\"\n              height=\"50\"\n              decoding=\"async\"\n              data-nimg=\"1\"\n              loading=\"lazy\"\n              style=\"color: transparent\" /></a\n          ><a\n            class=\"styles_isNotDesktop__rzw_h\"\n            href=\"https://play.google.com/store/apps/details?id=com.wasalt.app&amp;utm_source=Desktop&amp;utm_medium=Home&amp;utm_campaign=web_smart_banner_installs_android\"\n            id=\"android\"\n            ><img\n              alt=\"Play Store\"\n              src=\"https://wasalt.com/images/PlayStore.svg\"\n              width=\"172\"\n              height=\"50\"\n              decoding=\"async\"\n              data-nimg=\"1\"\n              loading=\"lazy\"\n              style=\"color: transparent\"\n          /></a>\n        </div>\n        <p class=\"styles_muhakatatBannerQrCodeText\">\n          او امسح رمز الكيو أر (QR) مباشرة\n        </p>\n        <img\n          alt=\"qr code\"\n          src=\"https://cdn.wasalt.com/images/Wasalt_QR-code_HighRes.svg?v2\"\n          width=\"100\"\n          height=\"100\"\n          decoding=\"async\"\n          data-nimg=\"1\"\n          class=\"styles_muhakatatBannerQrCode\"\n          loading=\"lazy\"\n          style=\"color: transparent\"\n        />\n      </div>\n      <div class=\"styles_muhakatatBannerImgWpr\">\n        <img\n          alt=\"Download Wasalt App\"\n          src=\"https://cdn.wasalt.com/images/homebanner/download-app-ar.png\"\n          width=\"416\"\n          height=\"324\"\n          decoding=\"async\"\n          data-nimg=\"1\"\n          loading=\"lazy\"\n          style=\"color: transparent\"\n        />\n      </div>\n    </div>\n  </div>\n</div>\n<div class=\"pop-up\" id=\"popupContainer\">\n  <div class=\"sendAppLink-popup\">\n    <i class=\"iconwasalt icon-close f_16 close\" id=\"sendappclosepopup\"></i>\n    <div class=\"maindiv\" id=\"maindiv\">\n      <div class=\"header\">\n        <p class=\"para1\">ابدأ رحلتك الاستثمارية في المخططات</p>\n        <p class=\"para2\">حمّل تطبيقنا لتصفح المخططات</p>\n      </div>\n      <div class=\"footer\">\n        <div class=\"mobile-input\" id=\"inputclass\">\n          <div class=\"input-container\">\n            <p class=\"num\">966+</p>\n            <input\n              placeholder=\"رقم الجوال\"\n              type=\"number\"\n              id=\"userInput\"\n              class=\"inp\"\n              maxlength=\"9\"\n              pattern=\"5\\d{8}\"\n              required\n            />\n          </div>\n          <p class=\"invalid-number\" id=\"invalid\">يرجى إدخال رقم صحيح</p>\n        </div>\n        <button class=\"btnsendapplink\" id=\"sendAppLink\">\n          أرسل رابط التطبيق\n        </button>\n      </div>\n    </div>\n  </div>\n</div>\n<div>\n  <div id=\"bottomSheet\" class=\"bottom-sheet-container\">\n    <div class=\"thankyoupopup\" id=\"thankyoupopup\">\n      <i class=\"iconwasalt icon-close f_16 close1\" id=\"close1\"></i>\n      <div class=\"checkicon\">\n        <img\n          className=\"{styles.thankyouPopupWrap_img}\"\n          src=\"https://wasalt.com/images/tick-with-circle.png\"\n          alt=\"tick\"\n        />\n      </div>\n      <div class=\"container\">\n        <p class=\"hd1\">شكرا لك</p>\n        <p class=\"hd2\">تم إرسال رابط التحميل على هذا الرقم</p>\n        <p class=\"hd3\">+966 <span id=\"mobileNo\"></span></p>\n        <button id=\"doneButton\">إغلاق</button>\n        <div class=\"bottomcontent\">\n          <div>\n            <p class=\"btm1\">لم يصلك الرابط؟</p>\n          </div>\n          <p class=\"btm2\" id=\"resendAppLink\">إعادة الإرسال</p>\n        </div>\n      </div>\n    </div>\n  </div>\n</div>",
+      "para": null,
+      "FAQSchema": {}
+    }
+  },
+  "menuHeader": {
+    "بيع": [
+      {
+        "url": "/عقارات-للبيع-في-الرياض",
+        "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+        "title": "الرياض"
+      },
+      {
+        "url": "/عقارات-للبيع-في-جدة",
+        "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+        "title": "جدة"
+      },
+      {
+        "url": "/عقارات-للبيع-في-مكة",
+        "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+        "title": "مكة"
+      },
+      {
+        "url": "/عقارات-للبيع-في-المدينة",
+        "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+        "title": "المدينة"
+      }
+    ],
+    "إيجار": [
+      {
+        "url": "/عقارات-للايجار-في-الرياض",
+        "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+        "title": "الرياض"
+      },
+      {
+        "url": "/عقارات-للايجار-في-جدة",
+        "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+        "title": "جدة"
+      },
+      {
+        "url": "/عقارات-للايجار-في-مكة",
+        "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+        "title": "مكة"
+      },
+      {
+        "url": "/عقارات-للايجار-في-المدينة",
+        "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+        "title": "المدينة"
+      }
+    ],
+    "commercialData": {
+      "For rent": [
+        {
+          "url": "/اراضي-تجارية-للايجار-في-الرياض",
+          "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+          "title": "الرياض"
+        },
+        {
+          "url": "/اراضي-تجارية-للايجار-في-جدة",
+          "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+          "title": "جدة"
+        },
+        {
+          "url": "/اراضي-تجارية-للايجار-في-مكة",
+          "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+          "title": "مكة"
+        },
+        {
+          "url": "/اراضي-تجارية-للايجار-في-المدينة",
+          "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+          "title": "المدينة"
+        }
+      ],
+      "For sale": [
+        {
+          "url": "/اراضي-تجارية-للبيع-في-الرياض",
+          "image": "https://assets.wasalt.com/others/icons/riyadh-city-view.jpg",
+          "title": "الرياض"
+        },
+        {
+          "url": "/اراضي-تجارية-للبيع-في-جدة",
+          "image": "https://assets.wasalt.com/others/icons/jeddah-city-view.jpg",
+          "title": "جدة"
+        },
+        {
+          "url": "/اراضي-تجارية-للبيع-في-مكة",
+          "image": "https://assets.wasalt.com/others/icons/mecca-city-view.png",
+          "title": "مكة"
+        },
+        {
+          "url": "/اراضي-تجارية-للبيع-في-المدينة",
+          "image": "https://assets.wasalt.com/others/icons/medina-city-view.jpg",
+          "title": "المدينة"
+        }
+      ]
+    }
+  },
+  "homeFooter": {
+    "نوع": [
+      {
+        "url": "/عقارات-للبيع-في-الرياض",
+        "title": "عقار الرياض"
+      },
+      {
+        "url": "/عقارات-للبيع-في-جدة",
+        "title": "عقار جدة"
+      },
+      {
+        "url": "/عقارات-للبيع-في-مكة",
+        "title": "عقار مكة"
+      },
+      {
+        "url": "/عقارات-للبيع-في-الدمام",
+        "title": "عقار الدمام"
+      },
+      {
+        "url": "/عقارات-للبيع-في-الخبر",
+        "title": "عقار الخبر"
+      },
+      {
+        "url": "/عقارات-للبيع-في-خميس-مشيط",
+        "title": "عقار خميس مشيط"
+      }
+    ],
+    "المناطق": [
+      {
+        "url": "/فلل-للبيع-في-الرياض",
+        "title": "فلل للبيع في الرياض"
+      },
+      {
+        "url": "/فلل-للبيع-في-جدة",
+        "title": "فلل للبيع في جدة"
+      },
+      {
+        "url": "/فلل-للبيع-في-مكة",
+        "title": "فلل للبيع في مكة"
+      },
+      {
+        "url": "/فلل-للبيع-في-الدمام",
+        "title": "فلل للبيع في الدمام"
+      },
+      {
+        "url": "/فلل-للبيع-في-الخبر",
+        "title": "فلل للبيع في الخبر"
+      },
+      {
+        "url": "/فلل-للبيع-في-خميس-مشيط",
+        "title": "فلل للبيع في خميس مشيط"
+      }
+    ]
+  },
+  "locale": "ar",
+  "abTestVariant": null,
+  "enableRental": true,
+  "blogPosts": []
+}
