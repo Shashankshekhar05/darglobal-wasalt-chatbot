@@ -5,4 +5,3 @@ httpx
 scikit-learn
 numpy
 requests
-sentence-transformers

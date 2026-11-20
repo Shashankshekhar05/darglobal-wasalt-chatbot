@@ -7,6 +7,11 @@ from pathlib import Path
 
 import numpy as np
 
+try:
+    from sentence_transformers import SentenceTransformer
+except Exception:
+    SentenceTransformer = None
+
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 BASE = Path(__file__).resolve().parent.parent
@@ -349,12 +354,10 @@ class Retriever:
 
         self.bm25 = _BM25(self.token_lists)
 
-        from sentence_transformers import SentenceTransformer
-
-        self.embedder = SentenceTransformer(SEMANTIC_MODEL)
-        self.sem_matrix = self.embedder.encode(
-            self.texts, batch_size=64, normalize_embeddings=True, show_progress_bar=False
-        )
+        self.embedder = None
+        self.sem_matrix = None
+        self._sem_tried = False
+        self._sem_ok = False
 
         self.cities = sorted(
             {str(d.get("city", "")) for d in self.docs if d.get("city") and d.get("city") != "Not available"},
@@ -366,6 +369,27 @@ class Retriever:
         self.name_keys = [
             _norm(str(d.get("name") or d.get("title") or "")).strip() for d in self.docs
         ]
+
+    def _ensure_semantic(self) -> bool:
+        """Lazy-load the embedding model on first use; TF-IDF-only when unavailable."""
+        if self._sem_ok:
+            return True
+        if self._sem_tried:
+            return False
+        self._sem_tried = True
+        if SentenceTransformer is None:
+            return False
+        try:
+            model = SentenceTransformer(SEMANTIC_MODEL)
+            matrix = model.encode(
+                self.texts, batch_size=64, normalize_embeddings=True, show_progress_bar=False
+            )
+        except Exception:
+            return False
+        self.embedder = model
+        self.sem_matrix = matrix
+        self._sem_ok = True
+        return True
 
     def _query_tokens(self, query: str) -> list:
         return [t for t in _tokens(query) if t not in STOPWORDS and (len(t) > 1 or t.isdigit())]
@@ -429,6 +453,8 @@ class Retriever:
         """Top-n by pure semantic similarity (used for 'similar properties')."""
         q_norm = _norm(_translate(query or ""))
         if not q_norm.strip():
+            return []
+        if not self._ensure_semantic():
             return []
         q_emb = self.embedder.encode([q_norm], normalize_embeddings=True)
         sims = self.sem_matrix @ q_emb[0]
@@ -518,12 +544,15 @@ class Retriever:
             return []
 
         bm25_scores = self.bm25.scores(bm25_terms)
-        q_emb = self.embedder.encode([query_norm], normalize_embeddings=True)
-        sem_scores = self.sem_matrix @ q_emb[0]
-
         bm25_rank = sorted(candidates, key=lambda i: -bm25_scores[i])
-        sem_rank = sorted(candidates, key=lambda i: -sem_scores[i])
-        rrf = _rrf_fuse([bm25_rank, sem_rank], weights=(2.0, 1.0))
+        if self._ensure_semantic():
+            q_emb = self.embedder.encode([query_norm], normalize_embeddings=True)
+            sem_scores = self.sem_matrix @ q_emb[0]
+            sem_rank = sorted(candidates, key=lambda i: -sem_scores[i])
+            rrf = _rrf_fuse([bm25_rank, sem_rank], weights=(2.0, 1.0))
+        else:
+            sem_scores = np.zeros(len(self.docs))
+            rrf = _rrf_fuse([bm25_rank], weights=(2.0,))
         # Demote hub/category pages (no real city) below actual properties.
         for i in list(rrf):
             city_val = str(self.docs[i].get("city") or "")
