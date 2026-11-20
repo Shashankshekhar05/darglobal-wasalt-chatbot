@@ -1,8 +1,6 @@
 fastapi
 uvicorn
-requests
-beautifulsoup4
-playwright
-scikit-learn
 python-dotenv
-sentence-transformers
+httpx
+scikit-learn
+numpy
