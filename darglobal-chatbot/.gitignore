@@ -1,3 +1,13 @@
 .env
 __pycache__/
 wasalt_debug.html
+
+# Internal working files - never push to GitHub
+RULES.md
+Step.md
+TESTING.md
+finalcheck.md
+uvicorn_run.log
+uvicorn_run_err.log
+verify_changes.py
+test_rent.py

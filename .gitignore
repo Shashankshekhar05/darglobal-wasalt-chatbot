@@ -1,0 +1,10 @@
+# Internal working files - never push to GitHub
+RULES.md
+Step.md
+TESTING.md
+finalcheck.md
+uvicorn_run.log
+uvicorn_run_err.log
+wasalt_debug.html
+verify_changes.py
+test_rent.py
